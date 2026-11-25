@@ -1,0 +1,200 @@
+{
+ "word": "被",
+ "pinyin": "bèi",
+ "meaning": "passive marker for affected actions",
+ "pos": "passive marker (preposition)",
+ "core": "It marks that the subject received an action, usually something unwanted or unexpected. Many learners overuse it for neutral actions — most everyday passive events in Chinese use 让/叫/给 instead.",
+ "collocations": [
+  {
+   "zh": "被骂",
+   "pinyin": "bèi mà",
+   "en": "to be scolded"
+  },
+  {
+   "zh": "被偷了",
+   "pinyin": "bèi tōu le",
+   "en": "to have been stolen"
+  },
+  {
+   "zh": "被开除",
+   "pinyin": "bèi kāichú",
+   "en": "to be fired"
+  },
+  {
+   "zh": "被选为",
+   "pinyin": "bèi xuǎnwéi",
+   "en": "to be selected as"
+  },
+  {
+   "zh": "被人拿走了",
+   "pinyin": "bèi rén ná zǒu le",
+   "en": "to have been taken by someone"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At home · to your roommate",
+   "zh": "我的手机被偷了。",
+   "pinyin": "wǒ de shǒujī bèi tōu le.",
+   "en": "My phone got stolen.",
+   "register": "casual",
+   "feeling": "frustrated",
+   "why": "You tell your roommate the moment you realize your phone is gone. 被 here frames the theft as something that happened to you against your will.",
+   "tip": "Stress 偷 slightly; this is the most natural way to say something was stolen."
+  },
+  {
+   "situation": "Office break room · to a colleague",
+   "zh": "我今天早上被老板骂了。",
+   "pinyin": "wǒ jīntiān zǎoshang bèi lǎobǎn mà le.",
+   "en": "I got scolded by the boss this morning.",
+   "register": "casual",
+   "feeling": "grumpy",
+   "why": "A colleague complains about being reprimanded. 被 marks the scolding as an unpleasant experience received from the boss.",
+   "tip": "If you don't name the person, say 被骂了一顿."
+  },
+  {
+   "situation": "On the phone · to your spouse",
+   "zh": "我的自行车被人骑走了。",
+   "pinyin": "wǒ de zìxíngchē bèi rén qí zǒu le.",
+   "en": "Someone rode my bike away.",
+   "register": "casual",
+   "feeling": "annoyed",
+   "why": "You call home after finding your bike missing. 被人 makes it clear an unknown person took it.",
+   "tip": "Native speakers often say 被人拿走了 for smaller items."
+  },
+  {
+   "situation": "Cafeteria · to a friend",
+   "zh": "我的饭卡被同学借走了。",
+   "pinyin": "wǒ de fànkǎ bèi tóngxué jiè zǒu le.",
+   "en": "My meal card was borrowed by a classmate.",
+   "register": "casual",
+   "feeling": "resigned",
+   "why": "You explain why you can't buy lunch. 被 here is neutral-sounding because the borrowing was probably legitimate, but you still suffered the inconvenience.",
+   "tip": "Don't say 被偷 if you know who took it."
+  },
+  {
+   "situation": "Office · to your team lead",
+   "zh": "这个项目被推迟到下个月了。",
+   "pinyin": "zhège xiàngmù bèi tuīchí dào xià gè yuè le.",
+   "en": "This project was pushed to next month.",
+   "register": "neutral",
+   "feeling": "matter-of-fact",
+   "why": "You report a schedule change. 被 frames the delay as a decision made by higher-ups, not by you.",
+   "tip": "In formal emails, 被推迟 is common; in speech, 推迟到了 also works."
+  },
+  {
+   "situation": "WeChat message · to your manager",
+   "zh": "我的报告被王经理退回了。",
+   "pinyin": "wǒ de bàogào bèi Wáng jīnglǐ tuìhuí le.",
+   "en": "My report was sent back by Manager Wang.",
+   "register": "polite",
+   "feeling": "disappointed",
+   "why": "You message your manager to explain a setback. 被退回 is the standard office term for a document being rejected.",
+   "tip": "Avoid complaining about Wang here; just state the fact."
+  },
+  {
+   "situation": "At a meeting · to your team",
+   "zh": "他被选为我们的新组长。",
+   "pinyin": "tā bèi xuǎnwéi wǒmen de xīn zǔzhǎng.",
+   "en": "He was chosen as our new team leader.",
+   "register": "formal",
+   "feeling": "neutral",
+   "why": "You announce an appointment. 被选为 is the fixed formal phrase for being elected or selected.",
+   "tip": "This is one of the few neutral uses of 被; it's always used for selections."
+  },
+  {
+   "situation": "Job interview · to the interviewer",
+   "zh": "我之前被公司派到上海工作过两年。",
+   "pinyin": "wǒ zhīqián bèi gōngsī pài dào Shànghǎi gōngzuò guo liǎng nián.",
+   "en": "I was sent by my company to work in Shanghai for two years.",
+   "register": "polite",
+   "feeling": "professional",
+   "why": "You describe past experience. 被派 frames the assignment as a company decision, showing you followed orders.",
+   "tip": "Stress 派 to sound confident; don't say 我自己去上海."
+  },
+  {
+   "situation": "HR notice · formal written notice",
+   "zh": "他因为迟到太多被公司开除了。",
+   "pinyin": "tā yīnwèi chídào tài duō bèi gōngsī kāichú le.",
+   "en": "He was fired by the company for being late too many times.",
+   "register": "formal",
+   "feeling": "strict",
+   "why": "This sentence appears in official announcements. 被开除 is the formal term for termination.",
+   "tip": "In casual speech, people say 被炒鱿鱼 instead."
+  },
+  {
+   "situation": "Comforting a friend · casual",
+   "zh": "别难过，你没有被忘记。",
+   "pinyin": "bié nánguò, nǐ méiyǒu bèi wàngjì.",
+   "en": "Don't be sad, you haven't been forgotten.",
+   "register": "casual",
+   "feeling": "warm",
+   "why": "You comfort a friend who feels left out. 被忘记 is a softer, emotional use of the passive.",
+   "tip": "Say this gently; stress 没有."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Tell your friend that your wallet was stolen on the subway.",
+   "answer": "我的钱包在地铁上被偷了。",
+   "accept": [
+    "我的钱包被偷了。",
+    "我钱包被人偷了。"
+   ],
+   "explain": "被偷 is the standard phrase for theft, and adding 在地铁上 gives the location naturally."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "Explain to your classmate that your textbook was borrowed by another student.",
+   "answer": "我的课本被同学借走了。",
+   "accept": [
+    "我的书被人借走了。",
+    "课本被同学借走了。"
+   ],
+   "explain": "被借走 shows the item was taken by someone else, causing you inconvenience."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are telling your manager that your proposal was rejected by the client, in a polite, professional tone.",
+   "answer": "我们的方案被客户退回了。",
+   "accept": [
+    "我们的方案被客户拒绝了。",
+    "方案被客户打回来了。"
+   ],
+   "explain": "被退回 or 被拒绝 is the standard office phrasing for a proposal being turned down."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Comfort your friend who feels left out of the group chat, using 被 in a warm way.",
+   "answer": "你没有被大家忘记。",
+   "accept": [
+    "你没有被忘记。",
+    "大家没有忘记你，别难过。"
+   ],
+   "explain": "被忘记 is a soft, emotional passive that reassures someone they are still cared about."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的自行车怎么不见了？",
+   "answer": "我的自行车被人骑走了。",
+   "accept": [
+    "被同学借走了。",
+    "好像被人骑走了。"
+   ],
+   "explain": "When asked why your bike is gone, 被人骑走 naturally explains an unknown person took it."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你昨天为什么没去开会？",
+   "answer": "我被老板叫去办公室了。",
+   "accept": [
+    "我被安排去见客户了。",
+    "我被临时叫走了。"
+   ],
+   "explain": "被叫走 explains you were pulled away by someone else, which is the common reason for missing a meeting."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

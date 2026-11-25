@@ -1,0 +1,210 @@
+{
+ "word": "此",
+ "pinyin": "cǐ",
+ "meaning": "this, here, thus (formal/literary)",
+ "pos": "demonstrative pronoun",
+ "core": "Native speakers almost never use 此 in everyday casual speech — it is a formal, literary alternative to 这 that you find in official notices, work documents, polite written messages, and set phrases. Learners often overuse it to sound educated, but it would sound unnatural in a chat with friends.",
+ "collocations": [
+  {
+   "zh": "此外",
+   "pinyin": "cǐ wài",
+   "en": "in addition, besides"
+  },
+  {
+   "zh": "因此",
+   "pinyin": "yīn cǐ",
+   "en": "therefore, for this reason"
+  },
+  {
+   "zh": "此次",
+   "pinyin": "cǐ cì",
+   "en": "this time / this event"
+  },
+  {
+   "zh": "对此",
+   "pinyin": "duì cǐ",
+   "en": "regarding this, about this"
+  },
+  {
+   "zh": "此后",
+   "pinyin": "cǐ hòu",
+   "en": "after this, from then on"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "Work email · to a client",
+   "zh": "此次合作非常顺利，期待下次再合作。",
+   "pinyin": "cǐ cì hé zuò fēi cháng shùn lì，qī dài xià cì zài hé zuò。",
+   "en": "This collaboration went very smoothly; we look forward to working together again.",
+   "register": "polite",
+   "feeling": "appreciative, professional",
+   "why": "A sales account manager writes this to a client after a successful project wrap-up. 此次 is a standard formal way to refer to the just-completed work, instead of casual 这次, which makes the message sound polished and respectful.",
+   "tip": "Use 此次 in writing or formal speech; in a casual WeChat chat with a close client, 这次 sounds warmer."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Notice at a community entrance · to all residents",
+   "zh": "此处禁止停车，谢谢配合。",
+   "pinyin": "cǐ chù jìn zhǐ tíng chē，xiè xiè pèi hé。",
+   "en": "No parking here. Thank you for your cooperation.",
+   "register": "formal",
+   "feeling": "firm, neutral",
+   "why": "This is a standard property management notice posted on a gate or wall. 此处 is the formal, impersonal equivalent of 这里, used to make the rule sound official rather than like a neighbor's complaint.",
+   "tip": "You will see 此处 on signs everywhere — in parks, malls, office buildings — it never sounds stiff because it belongs in written notices."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Work meeting · team lead to colleagues",
+   "zh": "这个计划有风险，因此我们要再想想。",
+   "pinyin": "zhè ge jì huà yǒu fēng xiǎn，yīn cǐ wǒ men yào zài xiǎng xiǎng。",
+   "en": "This plan has risks, so we need to think it over more.",
+   "register": "neutral",
+   "feeling": "cautious, serious",
+   "why": "A team lead speaks in an internal meeting to explain why they are delaying a decision. 因此 is a natural spoken alternative to 所以 here, making the logic sound clear and professional without being overly formal.",
+   "tip": "因此 is slightly stronger than 所以 — it signals a clear cause-effect link, perfect for work discussions."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "WeChat message · colleague to colleague",
+   "zh": "此外，我还需要你帮我订一下会议室。",
+   "pinyin": "cǐ wài，wǒ hái xū yào nǐ bāng wǒ dìng yī xià huì yì shì。",
+   "en": "Also, I need you to help me book the meeting room.",
+   "register": "neutral",
+   "feeling": "casual, practical",
+   "why": "A colleague adds a second small request after finishing their first message. 此外 is a common, slightly formal way to say 'also' in work chats, softer than just stacking requests with 还有.",
+   "tip": "Between close work friends, 对了 or 还有 sounds more relaxed; use 此外 when you want to sound organized."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Work presentation · manager to leadership team",
+   "zh": "这个季度销量下降了，对此我们已经做了新的方案。",
+   "pinyin": "zhè ge jì dù xiāo liàng xià jiàng le，duì cǐ wǒ men yǐ jīng zuò le xīn de fāng àn。",
+   "en": "Sales dropped this quarter; regarding this issue, we have already prepared a new plan.",
+   "register": "formal",
+   "feeling": "accountable, proactive",
+   "why": "A middle manager reports bad news to senior leaders. 对此 acknowledges the problem directly before explaining the fix, which sounds responsible and avoids sounding like you are making excuses.",
+   "tip": "Stress 对此 slightly when speaking — it signals you are not ignoring the problem."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Official company announcement · to all staff",
+   "zh": "此次年会将在酒店举行，请大家准时参加。",
+   "pinyin": "cǐ cì nián huì jiāng zài jiǔ diàn jǔ xíng，qǐng dà jiā zhǔn shí cān jiā。",
+   "en": "This year's annual company party will be held at a hotel; please attend on time.",
+   "register": "formal",
+   "feeling": "neutral, official",
+   "why": "HR sends this notice to the whole company. 此次 is standard for referring to a scheduled company event, making the announcement feel official rather than a casual group chat message.",
+   "tip": "If you are chatting with your team about the party, 这次年会 is totally fine and more relaxed."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Customer service phone call · agent to a complaining customer",
+   "zh": "非常抱歉给您带来不便，我们对此一定会负责。",
+   "pinyin": "fēi cháng bào qiàn gěi nín dài lái bù biàn，wǒ men duì cǐ yī dìng huì fù zé。",
+   "en": "We are very sorry for the inconvenience; we will definitely take responsibility for this.",
+   "register": "polite",
+   "feeling": "sincere, reassuring",
+   "why": "A customer service representative responds to an angry customer whose order was damaged. 对此 here emphasizes that the company is taking ownership of the problem, which calms the customer down.",
+   "tip": "Never say 我们对这个事 in this formal service context — it sounds dismissive. 对此 is the standard polite phrase."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "After a trip · tourist writing a short review online",
+   "zh": "此处风景很美，但是吃饭不太方便。",
+   "pinyin": "cǐ chù fēng jǐng hěn měi，dàn shì chī fàn bù tài fāng biàn。",
+   "en": "The scenery here is beautiful, but it is not very convenient for meals.",
+   "register": "neutral",
+   "feeling": "honest, balanced",
+   "why": "A traveler posts a short review of a scenic spot on a travel app. 此处 gives the review a slightly polished, guidebook-like tone, while the second half keeps it honest and practical.",
+   "tip": "In a casual chat with a friend about the trip, 这里 is more natural; 此处 fits written reviews and posts."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Project debrief · senior manager to the project team",
+   "zh": "这次项目虽然累，但大家都学到了很多，此后我们可以做得更好。",
+   "pinyin": "zhè cì xiàng mù suī rán lèi，dàn dà jiā dōu xué dào le hěn duō，cǐ hòu wǒ men kě yǐ zuò de gèng hǎo。",
+   "en": "This project was tiring, but everyone learned a lot; from now on we can do even better.",
+   "register": "neutral",
+   "feeling": "encouraging, reflective",
+   "why": "A senior manager wraps up a tough project with the team. 此后 shifts the focus from past hard work to future improvement, which sounds encouraging rather than just complaining about how busy everyone was.",
+   "tip": "此后 is a bit more formal than 以后; it sounds natural here because the manager is speaking to the whole team in a meeting."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Formal written apology · company to a client",
+   "zh": "因为我们的工作失误给您造成了损失，对此我们深表歉意。",
+   "pinyin": "yīn wèi wǒ men de gōng zuò shī wù gěi nín zào chéng le sǔn shī，duì cǐ wǒ men shēn biān qiàn yì。",
+   "en": "Our work mistake caused you losses; we deeply apologize for this.",
+   "register": "formal",
+   "feeling": "remorseful, respectful",
+   "why": "A company sends a formal apology letter to a client after a serious error. 对此 followed by 深表歉意 is a fixed, polite formula that sounds sincere and professional, far more appropriate than casual 对不起.",
+   "tip": "This is the standard phrase for formal written apologies — do not use it in casual everyday speech, it would sound too heavy."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are writing a polite work email to a client, saying this collaboration went very smoothly and you look forward to working together again. Use 此.",
+   "answer": "此次合作非常顺利，期待下次再合作。",
+   "accept": [
+    "此次合作很顺利，期待下次继续合作。",
+    "此次合作非常愉快，期待下次再合作。"
+   ],
+   "explain": "此次 is the standard formal term for 'this (event/collaboration)' in client emails, sounding more professional than casual 这次."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You see a sign posted near your office building entrance that says no parking here, and asks people to cooperate. Write the natural sign text using 此.",
+   "answer": "此处禁止停车，谢谢配合。",
+   "accept": [
+    "此处严禁停车，谢谢配合。",
+    "此处禁止停车，请不要在此处停车。"
+   ],
+   "explain": "此处 is the formal, impersonal demonstrative used on official public signs, equivalent to 'here' in English notices."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "In an internal work meeting, you are the team lead explaining that the current plan has risks, so you all need to think it over more. Use 此 to connect cause and effect.",
+   "answer": "这个计划有风险，因此我们要再想想。",
+   "accept": [
+    "这个计划风险很大，因此我们需要再讨论一下。",
+    "这个计划有不少风险，因此我们得再想想。"
+   ],
+   "explain": "因此 is a natural spoken connector in work meetings, clearer and more professional than the casual 所以."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are a customer service agent responding to an angry customer whose order was damaged. Apologize for the inconvenience, and say your company will definitely take responsibility for this. Use 此.",
+   "answer": "非常抱歉给您带来不便，我们对此一定会负责。",
+   "accept": [
+    "非常抱歉给您带来不便，我们对此一定负责到底。",
+    "很抱歉给您带来不便，我们对此会完全负责。"
+   ],
+   "explain": "对此 is the standard polite phrase in customer service to acknowledge a problem and take ownership, sounding sincere and professional."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你是公司经理，在给全公司发通知：这次年会将在酒店举行，请大家准时参加。请用「此」改写得更正式自然。",
+   "answer": "此次年会将在酒店举行，请大家准时参加。",
+   "accept": [
+    "此次年会将在酒店举办，请大家准时到场参加。",
+    "此次公司年会将在酒店举行，请大家准时参加。"
+   ],
+   "explain": "此次 is the standard formal term for referring to a scheduled company event in official announcements."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你是项目负责人，在项目结束后对团队说：这次项目虽然累，但大家都学到了很多，从这之后我们可以做得更好。请用「此」自然改写。",
+   "answer": "这次项目虽然累，但大家都学到了很多，此后我们可以做得更好。",
+   "accept": [
+    "这次项目虽然辛苦，但大家都学到了很多，此后我们一定能做得更好。",
+    "这次项目虽然累，但大家收获很多，此后我们可以做得更好。"
+   ],
+   "explain": "此后 is a slightly formal, reflective way to say 'from now on' in a team debrief, shifting focus to future improvement."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Translate Paper Designs</title>
+<style>
+*{box-sizing:border-box;margin:0}
+body{background:#1c2128;color:#f0f3f6;font-family:-apple-system,"SF Pro Text","PingFang SC","Segoe UI",sans-serif;padding:22px 12px;display:flex;flex-direction:column;align-items:center;gap:14px}
+h1{font-size:20px;font-weight:600}
+.sub{color:#8b96a3;font-size:14px;text-align:center;max-width:980px;line-height:1.5}
+.row{display:flex;gap:22px;flex-wrap:wrap;justify-content:center}
+.label{font-size:14px;font-weight:600;text-align:center;margin-top:10px}
+.label small{display:block;color:#8b96a3;font-weight:400;font-size:12px;margin-top:3px;max-width:300px;line-height:1.45;margin-inline:auto}
+.phone{width:310px;height:660px;border-radius:42px;background:#000;padding:9px;box-shadow:0 30px 60px rgba(0,0,0,.5),inset 0 0 0 2px #333}
+.screen{position:relative;width:100%;height:100%;border-radius:34px;overflow:hidden;display:flex;flex-direction:column;color:#2b2115;
+ background:radial-gradient(90% 50% at 50% 35%,#fffaf0 0%,transparent 70%),linear-gradient(165deg,#f8f2e7 0%,#f0e5d1 55%,#e6d5b9 100%)}
+.status{height:40px;flex:none;display:flex;justify-content:space-between;align-items:flex-end;padding:0 24px 2px;font-size:12px;font-weight:600;position:relative;z-index:3;color:#fff;background:linear-gradient(#3a2a18aa,#3a2a1800)}
+.deco{position:absolute;pointer-events:none;z-index:1}
+.z{position:relative;z-index:2}
+.muted{color:#7a6a55}
+.home{width:30px;height:30px;border-radius:50%;background:#ffffffb8;border:1px solid #e0cfae;display:grid;place-items:center;color:#2b2115;flex:none}
+.home svg{width:16px;height:16px}
+.gear{font-size:17px;color:#2b2115}
+.dot{width:8px;height:8px;border-radius:50%;background:#2ea043;display:inline-block}
+.seal{display:inline-grid;place-items:center;width:28px;height:28px;border-radius:6px;background:#b8322a;color:#fff6e8;font-size:15px;font-weight:700;transform:rotate(-4deg);font-family:"STKaiti","KaiTi","PingFang SC",serif;box-shadow:inset 0 0 0 1.5px #fff6e855}
+
+/* ---------- 1 base: warm paper ---------- */
+.s1 .top{display:flex;align-items:center;gap:8px;padding:8px 12px;border-bottom:1px solid #d9c7a855}
+.s1 .st{flex:1;display:flex;align-items:center;gap:6px;font-size:12px;color:#7a6a55}
+.s1 .chip{font-size:11px;padding:5px 9px;border-radius:99px;background:#ffffffb8;border:1px solid #e0cfae}
+.s1 .tx{flex:1;padding:14px 12px;display:flex;flex-direction:column;gap:12px}
+.s1 .seg{background:#fffdf8e8;border-radius:14px;padding:10px 12px;border-left:4px solid #2f81f7;box-shadow:0 4px 14px #6b4f2a1c}
+.s1 .seg .src{color:#7a6a55;font-size:13px}
+.s1 .seg .tr{font-size:17px;margin-top:4px;font-weight:500;line-height:1.35}
+.s1 .seg.me{border-left-color:#8957e5;background:#f6eefc;align-self:flex-end;max-width:92%}
+.s1 .seg.me .tr{font-size:21px}
+.s1 .ctrl{display:grid;grid-template-columns:58px 1fr 1fr;gap:8px;padding:10px 12px 22px;background:#f1e6d2e6;border-top:1px solid #d9c7a855}
+.s1 .ctrl div{border-radius:16px;min-height:70px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;font-size:20px}
+.s1 .ctrl small{font-size:10px;color:#ffffffc0}
+.s1 .side{background:#ffffffb8;border:1px solid #d9c7a8}
+.s1 .side small{color:#7a6a55}
+.listen{background:#2f81f7;color:#fff;font-weight:600}
+.talk{background:#8957e5;color:#fff}
+
+/* ---------- 2 chat bubbles ---------- */
+.s2 .head{display:flex;align-items:center;gap:10px;padding:10px 14px 8px}
+.s2 .title{flex:1}
+.s2 .title b{font-size:15px;display:block}
+.s2 .title small{font-size:11px;color:#7a6a55;display:flex;align-items:center;gap:5px}
+.lang{margin:2px 14px 6px;display:flex;align-items:center;justify-content:center;gap:10px;padding:7px;border-radius:99px;background:#ffffffa8;border:1px solid #e3d3b5;font-size:12px;font-weight:600}
+.lang span{padding:3px 10px;border-radius:99px;background:#fff}
+.lang i{font-style:normal;color:#c8962e}
+.s2 .tx{flex:1;padding:8px 12px;display:flex;flex-direction:column;gap:10px}
+.who{font-size:10px;color:#9a876b;margin:0 0 -6px 46px;letter-spacing:.04em}
+.who.r{text-align:right;margin:0 6px -6px 0}
+.msg{display:flex;gap:8px;align-items:flex-end}
+.msg.me{flex-direction:row-reverse}
+.ava{width:30px;height:30px;border-radius:50%;flex:none;display:grid;place-items:center;font-size:12px;font-weight:700}
+.ava.them{background:#f3d9b0;color:#7a4b12}
+.ava.mine{background:url(../public/tutor-face.jpg) center 20%/cover;box-shadow:0 0 0 2px #fff}
+.bub{background:#fff;border-radius:18px 18px 18px 6px;padding:9px 12px;box-shadow:0 4px 14px #6b4f2a1f;max-width:80%}
+.bub .src{font-size:12px;color:#8a7a62}
+.bub .tr{font-size:17px;font-weight:600;margin-top:3px;line-height:1.3}
+.msg.me .bub{background:linear-gradient(145deg,#8f5ff0,#7443d6);color:#fff;border-radius:18px 18px 6px 18px}
+.msg.me .bub .src{color:#e6d9ff}
+.msg.me .bub .tr{font-size:20px}
+.s2 .ctrl{margin:0 12px 22px;padding:8px;border-radius:26px;background:#fffdf8e6;box-shadow:0 10px 30px #6b4f2a33;display:grid;grid-template-columns:52px 1fr 1fr;gap:8px}
+.s2 .ctrl div{border-radius:20px;min-height:64px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;font-size:19px}
+.s2 .ctrl small{font-size:10px;color:#ffffffc8}
+.s2 .side{background:#f3ead9}
+.s2 .side small{color:#7a6a55}
+
+/* ---------- 3 call style (round buttons, like the tutor) ---------- */
+.s3 .head{display:flex;align-items:center;gap:8px;padding:8px 14px}
+.s3 .head .st{flex:1;font-size:12px;color:#7a6a55;display:flex;align-items:center;gap:6px}
+.s3 .hero{text-align:center;padding:6px 0 4px}
+.s3 .hero h3{font-size:22px;font-weight:800}
+.s3 .hero h3 span{color:#b8322a}
+.s3 .hero p{font-size:12px;color:#7a6a55;margin-top:2px}
+.s3 .tx{flex:1;padding:10px 14px;display:flex;flex-direction:column;gap:10px}
+.s3 .card{background:#fffdf8e8;border:1px solid #eadcc2;border-radius:18px;padding:10px 12px;box-shadow:0 6px 16px #6b4f2a17}
+.s3 .card .src{font-size:12px;color:#8a7a62;display:flex;justify-content:space-between}
+.s3 .card .src em{font-style:normal;font-size:10px;padding:1px 6px;border-radius:6px;background:#2f81f71a;color:#2f6fd6}
+.s3 .card.me .src em{background:#8957e51a;color:#7443d6}
+.s3 .card .tr{font-size:17px;font-weight:600;margin-top:4px;line-height:1.3}
+.s3 .card.me{background:#f7f0ff;border-color:#e2d4fb}
+.s3 .card.me .tr{font-size:20px}
+.s3 .bar{display:flex;justify-content:space-between;align-items:flex-start;padding:8px 10px 24px}
+.s3 .b{display:flex;flex-direction:column;align-items:center;gap:6px;font-size:10px;color:#7a6a55;width:66px;text-align:center}
+.s3 .b i{font-style:normal;display:grid;place-items:center;border-radius:50%}
+.s3 .b.sm i{width:44px;height:44px;background:#fffdf8;border:1px solid #e0cfae;font-size:19px}
+.s3 .b.lg i{width:64px;height:64px;margin-top:-10px;font-size:15px;font-weight:700;color:#fff}
+.s3 .b.lg.l i{background:linear-gradient(145deg,#3b82f6,#1d4fb8);box-shadow:0 0 0 6px #2f81f726,0 10px 22px #1d4fb850}
+.s3 .b.lg.t i{background:linear-gradient(145deg,#9b6cf5,#6f3fd2);box-shadow:0 0 0 6px #8957e526,0 10px 22px #6f3fd250;font-size:26px}
+
+/* ---------- 4 ink letter ---------- */
+.s4 .head{display:flex;align-items:center;gap:10px;padding:10px 14px}
+.s4 .head b{font-size:15px;letter-spacing:.12em;flex:1}
+.s4 .tx{flex:1;padding:6px 16px 10px;display:flex;flex-direction:column;gap:14px}
+.s4 .line{position:relative;padding-left:16px}
+.s4 .line::before{content:"";position:absolute;left:0;top:4px;bottom:4px;width:3px;border-radius:2px;background:linear-gradient(#2f81f7,#2f81f733)}
+.s4 .line.me{padding-left:0;padding-right:16px;text-align:right}
+.s4 .line.me::before{left:auto;right:0;background:linear-gradient(#8957e5,#8957e533)}
+.s4 .src{font-size:12px;color:#8a7a62}
+.s4 .tr{font-family:Georgia,"Songti SC","STSong",serif;font-size:19px;font-weight:600;margin-top:3px;line-height:1.35}
+.s4 .line.me .tr{font-size:22px;color:#4b2a8f}
+.s4 .sep{display:flex;align-items:center;gap:8px;font-size:10px;color:#b39e7d;letter-spacing:.1em}
+.s4 .sep::before,.s4 .sep::after{content:"";flex:1;height:1px;background:#d9c7a8}
+.s4 .ctrl{position:relative;margin:0 14px 22px;display:grid;grid-template-columns:54px 1fr 1fr;gap:8px}
+.s4 .ctrl div{border-radius:18px;min-height:66px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:3px;font-size:19px}
+.s4 .ctrl small{font-size:10px;color:#ffffffc8}
+.s4 .side{background:#2b2115;color:#fff}
+.s4 .listen{background:#b8322a}
+.s4 .talk{background:#2b2115}
+
+.note{max-width:980px;font-size:14px;color:#c9d1d9;line-height:1.6;background:#161b22;border:1px solid #30363d;border-radius:14px;padding:12px 18px}
+.note li{margin-left:18px}
+</style></head><body>
+<h1>Translate screen on warm paper: more designs</h1>
+<p class="sub">#1 is the warm-paper version you chose. #2–#4 are new designs on the same paper. The translator works the same in all of them; only the look changes.</p>
+
+<svg width="0" height="0" style="position:absolute"><defs>
+<symbol id="home" viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5M6.5 10v9h4.5v-5h2v5h4.5v-9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="plum" viewBox="0 0 190 170"><g fill="none" stroke="#8a7458" stroke-linecap="round"><path d="M190 18 C150 30 120 52 96 86 C80 108 62 122 30 134" stroke-width="5"/><path d="M128 48 C120 30 122 16 132 4" stroke-width="3"/><path d="M96 86 C104 106 102 126 92 146" stroke-width="3"/><path d="M60 120 C52 108 50 96 54 84" stroke-width="2.5"/></g><g fill="#e0705c"><circle cx="132" cy="10" r="7"/><circle cx="124" cy="36" r="8"/><circle cx="160" cy="26" r="7"/><circle cx="104" cy="76" r="8"/><circle cx="98" cy="118" r="7"/><circle cx="56" cy="92" r="7"/><circle cx="36" cy="128" r="6"/><circle cx="76" cy="112" r="5"/></g><g fill="#f6c1b4"><circle cx="146" cy="44" r="5"/><circle cx="88" cy="140" r="5"/></g></symbol>
+</defs></svg>
+
+<div class="row">
+ <!-- 1 base -->
+ <div><div class="phone"><div class="screen s1">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="right:-28px;top:360px;width:160px;height:140px;opacity:.6"><use href="#plum"/></svg>
+  <svg class="deco" style="left:-20px;bottom:110px;width:120px;height:100px;opacity:.35;transform:scaleX(-1) rotate(180deg)"><use href="#plum"/></svg>
+  <div class="top z"><span class="home"><svg><use href="#home"/></svg></span><span class="st"><i class="dot"></i>Ready</span><span class="chip">Doubao interpretation</span><span class="gear">⚙︎</span></div>
+  <div class="tx z">
+   <div class="seg"><div class="src">你好，请问这个周末你有空吗？</div><div class="tr">Hello, are you free this weekend?</div></div>
+   <div class="seg me"><div class="src">Yes, I'm free on Saturday.</div><div class="tr">是的，我星期六有空。</div></div>
+   <div class="seg"><div class="src">太好了，我们一起去吃火锅吧。</div><div class="tr">Great, let's go eat hot pot together.</div></div>
+  </div>
+  <div class="ctrl z"><div class="side">🎧<small>Earphones</small></div><div class="listen"><b>Listen</b><small>中文 → English</small></div><div class="talk">🎙️<small>Hold: Speak English</small></div></div>
+ </div></div><div class="label">1 · Warm paper (your choice)<small>Unchanged.</small></div></div>
+
+ <!-- 2 chat bubbles -->
+ <div><div class="phone"><div class="screen s2">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="right:-34px;top:430px;width:150px;height:130px;opacity:.55"><use href="#plum"/></svg>
+  <div class="head z"><span class="home"><svg><use href="#home"/></svg></span><div class="title"><b>Live translation</b><small><i class="dot"></i>Ready · Doubao</small></div><span class="gear">⚙︎</span></div>
+  <div class="lang z"><span>中文</span><i>⇄</i><span>English</span></div>
+  <div class="tx z">
+   <div class="who">THEM</div>
+   <div class="msg"><span class="ava them">他</span><div class="bub"><div class="src">你好，请问这个周末你有空吗？</div><div class="tr">Hello, are you free this weekend?</div></div></div>
+   <div class="who r">YOU</div>
+   <div class="msg me"><span class="ava mine"></span><div class="bub"><div class="src">Yes, I'm free on Saturday.</div><div class="tr">是的，我星期六有空。</div></div></div>
+   <div class="msg"><span class="ava them">他</span><div class="bub"><div class="src">太好了，我们一起去吃火锅吧。</div><div class="tr">Great, let's go eat hot pot together.</div></div></div>
+  </div>
+  <div class="ctrl z"><div class="side">🎧<small>Earphones</small></div><div class="listen"><b>Listen</b><small>中文 → English</small></div><div class="talk">🎙️<small>Hold: Speak English</small></div></div>
+ </div></div><div class="label">2 · Chat bubbles<small>Like a messaging app: the other person on the left, you on the right with your avatar, a 中文 ⇄ English pill on top, and a floating button bar.</small></div></div>
+
+ <!-- 3 call style -->
+ <div><div class="phone"><div class="screen s3">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="left:-34px;top:440px;width:140px;height:120px;opacity:.5;transform:scaleX(-1)"><use href="#plum"/></svg>
+  <div class="head z"><span style="flex:1"></span><span class="st" style="flex:none"><i class="dot"></i>Ready</span><span class="home"><svg><use href="#home"/></svg></span><span class="gear">⚙︎</span></div>
+  <div class="hero z"><h3>Talk with <span>anyone</span></h3><p>中文 ⇄ English · live</p></div>
+  <div class="tx z">
+   <div class="card"><div class="src">你好，请问这个周末你有空吗？<em>中→EN</em></div><div class="tr">Hello, are you free this weekend?</div></div>
+   <div class="card me"><div class="src">Yes, I'm free on Saturday.<em>EN→中</em></div><div class="tr">是的，我星期六有空。</div></div>
+   <div class="card"><div class="src">太好了，我们一起去吃火锅吧。<em>中→EN</em></div><div class="tr">Great, let's go eat hot pot together.</div></div>
+  </div>
+  <div class="bar z">
+   <div class="b sm"><i>🎧</i>Earphones</div>
+   <div class="b lg l"><i>Listen</i>中文 → English</div>
+   <div class="b lg t"><i>🎙️</i>Hold: Speak English</div>
+   <div class="b sm"><i>⚙︎</i>Settings</div>
+  </div>
+ </div></div><div class="label">3 · Call style<small>Matches the tutor lesson screen: big round Listen and Speak buttons, small round side buttons, a friendly title and direction tags on each card.</small></div></div>
+
+ <!-- 4 ink letter -->
+ <div><div class="phone"><div class="screen s4">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="right:-30px;bottom:100px;width:170px;height:150px;opacity:.5"><use href="#plum"/></svg>
+  <div class="head z"><span class="home"><svg><use href="#home"/></svg></span><b>MISHU</b><span class="seal">译</span><span class="gear">⚙︎</span></div>
+  <div class="tx z">
+   <div class="sep">READY · DOUBAO</div>
+   <div class="line"><div class="src">你好，请问这个周末你有空吗？</div><div class="tr">Hello, are you free this weekend?</div></div>
+   <div class="line me"><div class="src">Yes, I'm free on Saturday.</div><div class="tr">是的，我星期六有空。</div></div>
+   <div class="line"><div class="src">太好了，我们一起去吃火锅吧。</div><div class="tr">Great, let's go eat hot pot together.</div></div>
+  </div>
+  <div class="ctrl z"><div class="side">🎧<small>Earphones</small></div><div class="listen"><b>Listen</b><small>中文 → English</small></div><div class="talk">🎙️<small>Hold: Speak English</small></div></div>
+ </div></div><div class="label">4 · Ink letter<small>Elegant and calm: no boxes, the conversation reads like a letter with thin colour lines, book-style font, red seal + ink-black and seal-red buttons.</small></div></div>
+</div>
+<div class="note"><ul>
+<li>All four keep the same buttons and features; text sizes stay large for reading during a conversation.</li>
+<li>You can mix parts, for example the chat bubbles of #2 with the round buttons of #3.</li>
+</ul></div>
+</body></html>

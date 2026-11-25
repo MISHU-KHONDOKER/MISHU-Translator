@@ -1,0 +1,210 @@
+{
+ "word": "而",
+ "pinyin": "ér",
+ "meaning": "and, but; used to contrast or connect",
+ "pos": "conjunction",
+ "core": "Native speakers use 而 to link two ideas, usually to highlight a contrast between them, or to connect two qualities in a formal, smooth way. Learners often overuse it in casual daily speech, or replace it with simpler conjunctions like 和 or 但是 without noticing the formal, balanced tone it carries.",
+ "collocations": [
+  {
+   "zh": "而且",
+   "pinyin": "ér qiě",
+   "en": "moreover, and also"
+  },
+  {
+   "zh": "而是",
+   "pinyin": "ér shì",
+   "en": "but rather, instead of"
+  },
+  {
+   "zh": "从而",
+   "pinyin": "cóng ér",
+   "en": "thus, thereby"
+  },
+  {
+   "zh": "反而",
+   "pinyin": "fǎn ér",
+   "en": "on the contrary, instead"
+  },
+  {
+   "zh": "而不是",
+   "pinyin": "ér bú shì",
+   "en": "rather than, instead of"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "With a close friend · casual chat after watching a movie",
+   "zh": "这部电影情节简单，而道理却很深。",
+   "pinyin": "zhè bù diàn yǐng qíng jié jiǎn dān, ér dào lǐ què hěn shēn。",
+   "en": "This movie has a simple plot, but its message is very profound.",
+   "register": "casual",
+   "feeling": "thoughtful, mildly surprised",
+   "why": "A friend says this to another friend right after watching a low-budget, meaningful movie, using 而 to gently contrast the simple surface with the deep underlying theme, avoiding the bluntness of a plain 但是.",
+   "tip": "Stress the word 却 after 而 to make the contrast feel natural, don't pause too long after 而."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · talking to a teammate about two competing products",
+   "zh": "这个产品价格低，而那个质量更好。",
+   "pinyin": "zhè ge chǎn pǐn jià gé dī, ér nà ge zhì liàng gèng hǎo。",
+   "en": "This product is cheaper, while that one has better quality.",
+   "register": "neutral",
+   "feeling": "objective, neutral",
+   "why": "A teammate says this to compare two supplier options, using 而 to draw a fair, balanced contrast without taking sides, which sounds more professional than just saying 但是.",
+   "tip": "This is common in meeting discussions, keep your tone flat and even to sound objective."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a shop · talking to a shop assistant about fabric options",
+   "zh": "这种面料柔软，而那种更耐磨。",
+   "pinyin": "zhè zhǒng miàn liào róu ruǎn, ér nà zhǒng gèng nài mó。",
+   "en": "This fabric is soft, while that one is more durable.",
+   "register": "neutral",
+   "feeling": "practical, evaluative",
+   "why": "A shopper is weighing two fabric choices for custom clothes, using 而 to list the two trade-offs clearly as they talk through options with the shop assistant.",
+   "tip": "If you say 但是 here it sounds like you're criticizing the soft fabric, 而 keeps the comparison neutral."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At home · talking to a family member about your work style",
+   "zh": "我喜欢快节奏，而他喜欢慢生活。",
+   "pinyin": "wǒ xǐ huān kuài jié zòu, ér tā xǐ huān màn shēng huó。",
+   "en": "I like a fast pace, while he prefers a slow, relaxed life.",
+   "register": "casual",
+   "feeling": "amused, accepting",
+   "why": "A young person chatting with their sibling about their partner's lifestyle, using 而 to gently contrast their different preferences without sounding like they are complaining.",
+   "tip": "Use a soft, light tone here to avoid sounding like you are dissatisfied with the other person's habits."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · presenting a project plan to your boss",
+   "zh": "我们要优化流程，而不是增加员工负担。",
+   "pinyin": "wǒ men yào yōu huà liú chéng, ér bú shì zēng jiā yuán gōng fù dān。",
+   "en": "We want to optimize the process, not add more burden to employees.",
+   "register": "formal",
+   "feeling": "firm, reassuring",
+   "why": "A team lead is presenting a new workflow plan to leadership, using 而不是 to clarify the core goal and push back against the unspoken worry that the new system will make people work harder, which makes the proposal sound more thoughtful and responsible.",
+   "tip": "Stress 不是 slightly after 而 to make your position clear; this is a very common phrase in work presentations."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With a close friend · comforting them after a setback",
+   "zh": "失败不是终点，而是新的开始。",
+   "pinyin": "shī bài bú shì zhōng diǎn, ér shì xīn de kāi shǐ。",
+   "en": "Failure is not the end, but a new beginning.",
+   "register": "polite",
+   "feeling": "warm, encouraging",
+   "why": "A friend says this to someone who just failed a job interview, using the classic 不是…而是… structure to reframe their setback gently, which sounds more supportive than a plain 但是 statement.",
+   "tip": "This is a common comforting phrase; speak slowly and softly to sound sincere, don't rush."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · replying to a client's request via email",
+   "zh": "这个方案更灵活，而且预算也更低。",
+   "pinyin": "zhè ge fāng àn gèng líng huó, ér qiě yù suàn yě gèng dī。",
+   "en": "This plan is more flexible, and the budget is also lower.",
+   "register": "formal",
+   "feeling": "confident, persuasive",
+   "why": "An account manager is pitching a revised plan to a client, using 而且 to stack two strong selling points one after another, which makes the pitch more convincing than just listing the points separately.",
+   "tip": "When you use 而且 here, pause briefly before it to emphasize the second, even stronger selling point."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With a close friend · talking about your recent work burnout",
+   "zh": "天天加班，身体反而越来越差了。",
+   "pinyin": "tiān tiān jiā bān, shēn tǐ fǎn ér yuè lái yuè chà le。",
+   "en": "Working overtime every day, my health has actually gotten worse.",
+   "register": "casual",
+   "feeling": "frustrated, exhausted",
+   "why": "A young worker is complaining to their friend about long overtime hours, using 反而 to highlight the counterintuitive, disappointing result: they thought hard work would pay off, but their health got worse instead.",
+   "tip": "Stress 反而 here to show you are surprised and disappointed by the bad result, don't say it too fast."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At work · talking to your direct manager during a 1-on-1 feedback session",
+   "zh": "我们做这个项目是为了解决问题，而不是为了应付检查。",
+   "pinyin": "wǒ men zuò zhè ge xiàng mù shì wèi le jiě jué wèn tí, ér bú shì wèi le yìng fù jiǎn chá。",
+   "en": "We are doing this project to solve real problems, not just to go through the motions for inspections.",
+   "register": "formal",
+   "feeling": "earnest, resolute",
+   "why": "An employee is pushing back against a manager who wants to cut corners on a client project just to pass an internal audit, using 而不是 to clearly state their core value and boundary without being openly rude.",
+   "tip": "Don't make this sound like you are criticizing your boss; keep your tone calm and earnest so it comes across as responsible, not confrontational."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At home · chatting with your parents about your career choice",
+   "zh": "我不想要安稳的生活，而想多出去闯一闯。",
+   "pinyin": "wǒ bù xiǎng yào ān wěn de shēng huó, ér xiǎng duō chū qù chuǎng yi chuǎng。",
+   "en": "I don't want a stable, boring life; I want to go out and take some risks to build something.",
+   "register": "casual",
+   "feeling": "determined, gentle",
+   "why": "A young adult is explaining their choice to quit a stable civil service job to their worried parents, using 而 to contrast the predictable life their parents want with their own desire to explore, softening the disagreement so it does not sound like they are rejecting their parents' advice.",
+   "tip": "Use a gentle, firm tone here; if you sound too harsh, your parents will think you are being reckless."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are chatting with a friend about two coffee shops near your home. One shop has very tasty coffee, the other has much cheaper prices. Say the natural sentence using 而 to compare the two.",
+   "answer": "这家咖啡好喝，而那家价格更便宜。",
+   "accept": [
+    "这家的咖啡味道好，而那家性价比更高。",
+    "这家咖啡味道不错，而那家价格实惠很多。"
+   ],
+   "explain": "Using 而 here creates a neutral, balanced comparison of the two shops, which sounds natural in casual chat."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are comparing two phone models for a colleague at work. One phone has a very long battery life, the other has a much better camera. Say the natural comparison using 而.",
+   "answer": "这款电池耐用，而那款拍照更好。",
+   "accept": [
+    "这款续航很长，而那款的拍照效果更好。",
+    "这款电池续航久，而那款拍照更清晰。"
+   ],
+   "explain": "This balanced contrast with 而 sounds objective and professional when comparing product options at work."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are talking to your team lead about a new work rule. You want to say the rule is meant to improve efficiency, not just make people follow more formal procedures. Use 而 to make your point politely.",
+   "answer": "这个规定是为了提高效率，而不是走形式。",
+   "accept": [
+    "我们制定这个规则是为了提升效率，而不是增加大家的流程负担。",
+    "这个规定的目的是提高效率，而不是搞形式主义。"
+   ],
+   "explain": "The 而不是 structure clearly separates your real goal from the unwanted side effect, making your feedback polite but firm."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your friend just failed an important exam and is very upset. Comfort them by saying failure is not a shame, but a chance to learn and improve. Use 而 in your sentence.",
+   "answer": "失败不是坏事，而是一次学习的机会。",
+   "accept": [
+    "失败并不可怕，而是帮我们找到问题的好机会。",
+    "失败不是终点，而是让我们变得更好的起点。"
+   ],
+   "explain": "The 不是…而是… structure gently reframes their negative experience, which feels warm and encouraging."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的客户问你，为什么我们要花更多预算做用户调研，而不是直接上线新产品？请你用「而」自然回答这个问题。",
+   "answer": "我们先做调研是为了了解用户需求，而不是盲目上线产品。",
+   "accept": [
+    "做调研是为了避免踩坑，而不是浪费大家的时间。",
+    "先做调研能减少后期返工，而不是等产品出了问题再补救。"
+   ],
+   "explain": "Using 而不是 here clearly contrasts the value of user research with the risk of launching without preparation, which sounds professional and persuasive to a client."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你，为什么你明明可以找一个轻松安稳的工作，却要选择创业这么辛苦？请你用「而」自然回答他的问题。",
+   "answer": "我不想过一眼望到头的生活，而想趁年轻多拼一拼。",
+   "accept": [
+    "我不想一辈子只做安稳的工作，而想自己闯一闯看看能做成什么样。",
+    "安稳的工作虽然舒服，而我更想试试自己创业能走多远。"
+   ],
+   "explain": "Using 而 here contrasts the predictable stable life with your own career goal, making your choice sound clear and sincere."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

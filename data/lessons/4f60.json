@@ -1,0 +1,210 @@
+{
+ "word": "你",
+ "pinyin": "nǐ",
+ "meaning": "second-person singular pronoun",
+ "pos": "personal pronoun",
+ "core": "你 refers to the person you are directly addressing. Unlike English, it has no formal/inherent politeness on its own; adding 您 shows respect to elders, bosses, or strangers, while 你 for peers and people younger than you keeps interactions natural and warm.",
+ "collocations": [
+  {
+   "zh": "你好",
+   "pinyin": "nǐ hǎo",
+   "en": "hello / how are you"
+  },
+  {
+   "zh": "你是谁",
+   "pinyin": "nǐ shì shéi",
+   "en": "who are you"
+  },
+  {
+   "zh": "给你",
+   "pinyin": "gěi nǐ",
+   "en": "here you go / for you"
+  },
+  {
+   "zh": "你呢",
+   "pinyin": "nǐ ne",
+   "en": "what about you?"
+  },
+  {
+   "zh": "你看",
+   "pinyin": "nǐ kàn",
+   "en": "look / see (as you know)"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "First meeting · with a new classmate",
+   "zh": "你好，我叫李明，是新来的学生。",
+   "pinyin": "nǐ hǎo, wǒ jiào lǐ míng, shì xīn lái de xué shēng.",
+   "en": "Hi, I'm Li Ming, the new student.",
+   "register": "neutral",
+   "feeling": "friendly, polite",
+   "why": "This is the standard opening for greeting someone your own age or younger when you first meet. Using 你 here is appropriate for peers, instead of the more formal 您.",
+   "tip": "Use 您 for strangers much older than you or people in service roles you want to show respect to; 你 is fine for classmates, friends, and people around your age."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a restaurant · handing a plate to a friend",
+   "zh": "这杯温水给你，天气冷别喝冰的。",
+   "pinyin": "zhè bēi wēn shuǐ gěi nǐ, tiān qì lěng bié hē bīng de.",
+   "en": "This cup of warm water is for you, don't drink cold stuff when it's cold out.",
+   "register": "casual",
+   "feeling": "caring, warm",
+   "why": "When you pass something to someone you know well, 给你 is the natural way to say here you go, paired with a small caring reminder.",
+   "tip": "Don't say 给您 to close friends, it sounds overly distant and formal."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "WeChat chat · with a close work colleague",
+   "zh": "我周末要去逛公园，你要不要一起？",
+   "pinyin": "wǒ zhōu mò yào qù guàng gōng yuán, nǐ yào bù yào yì qǐ?",
+   "en": "I'm going to wander around the park this weekend, do you want to come along?",
+   "register": "casual",
+   "feeling": "inviting, relaxed",
+   "why": "When making casual plans with a peer, 你 is used directly to ask for their preference without stiff formality.",
+   "tip": "The particle 吗 is omitted here in natural speech, replaced by 要不要 to sound more like a native."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a convenience store · chatting with the young cashier",
+   "zh": "你家离这个店远吗，下班过来方便吗？",
+   "pinyin": "nǐ jiā lí zhè ge diàn yuǎn ma, xià bān guò lái fāng biàn ma?",
+   "en": "Is your home far from this shop? Is it convenient to come here after work?",
+   "register": "neutral",
+   "feeling": "curious, chatty",
+   "why": "When you've gotten to know a young service worker through regular visits, switching from 您 to 你 signals you see them as an equal peer, not just a stranger providing service.",
+   "tip": "Stick to 您 the first few times you interact with a new shop clerk, until they use 你 with you first."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With your little cousin · comforting them after a bad test grade",
+   "zh": "这次没考好没关系，你已经很努力了。",
+   "pinyin": "zhè cì méi kǎo hǎo méi guān xì, nǐ yǐ jīng hěn nǔ lì le.",
+   "en": "It's okay you didn't do well on this test, you already tried your very best.",
+   "register": "casual",
+   "feeling": "gentle, comforting",
+   "why": "When speaking to a younger family member, using 你 lets you speak softly and encouragingly, without the distant formality of 您 which would feel cold in a family setting.",
+   "tip": "Slow down your tone when you say 你 here, to sound warm instead of scolding."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · speaking to a new intern who is around your age",
+   "zh": "这个表格你填完之后发我邮箱就可以。",
+   "pinyin": "zhè ge biǎo gé nǐ tián wán zhī hòu fā wǒ yóu xiāng jiù kě yǐ.",
+   "en": "Once you finish filling out this form, just send it to my work email.",
+   "register": "neutral",
+   "feeling": "straightforward, supportive",
+   "why": "For interns who are junior but close to your age, 你 strikes the right balance: it is polite enough for a work instruction, without being stiff or unapproachable.",
+   "tip": "Avoid 你 here if the intern is much older than you; use 您 instead to respect their seniority."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "On the phone · talking to your elderly neighbor",
+   "zh": "张阿姨，您说的我都记住了，您放心就好。",
+   "pinyin": "zhāng ā yí, nín shuō de wǒ dōu jì zhù le, nín fàng xīn jiù hǎo.",
+   "en": "Auntie Zhang, I've remembered everything you said, you don't need to worry.",
+   "register": "polite",
+   "feeling": "respectful, reassuring",
+   "why": "For older neighbors or community elders, using 您 instead of 你 is a core sign of respect in Chinese culture; using 你 here would come off as rude and dismissive.",
+   "tip": "Never use 你 for people over 60 you don't know well, it is considered very impolite."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With your close friend · playful teasing when they forget their keys",
+   "zh": "你看你，出门又忘带钥匙，这回要等开锁师傅了。",
+   "pinyin": "nǐ kàn nǐ, chū mén yòu wàng dài yào shi, zhè huí yào děng kāi suǒ shī fu le.",
+   "en": "Look at you, you forgot your keys again when heading out, now you'll have to wait for a lock opener.",
+   "register": "casual",
+   "feeling": "teasing, amused",
+   "why": "The doubled 你 (你看你) is a common colloquial pattern used only with very close friends, to gently tease them for a small silly mistake without real anger.",
+   "tip": "This 你看你 pattern is only for people you are very close to; saying it to a boss would sound wildly inappropriate."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "In a team meeting · speaking to your project lead about a plan",
+   "zh": "我觉得你刚才说的那个方案，咱们团队可以先试一周看看。",
+   "pinyin": "wǒ jué de nǐ gāng cái shuō de nà ge fāng àn, zán men tuán duì kě yǐ xiān shì yì zhōu kàn kan.",
+   "en": "I think that plan you just mentioned, our team can try it out for a week first to see how it goes.",
+   "register": "neutral",
+   "feeling": "collaborative, respectful",
+   "why": "When your project lead is around your age and works closely with you, 你 is natural in meeting settings, as long as your tone stays professional; it avoids the stiffness of 您 which would create unnecessary distance between team members.",
+   "tip": "If your lead is significantly older or much more senior, swap 你 for 您 to show proper workplace respect."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Formal written · in a company customer service notice",
+   "zh": "如果您对本次服务有任何不满，欢迎随时给我们反馈。",
+   "pinyin": "rú guǒ nín duì běn cì fú wù yǒu rèn hé bù mǎn, huān yíng suí shí gěi wǒ men fǎn kuì.",
+   "en": "If you have any dissatisfaction with this service, you are welcome to give us feedback at any time.",
+   "register": "formal",
+   "feeling": "respectful, professional",
+   "why": "In formal written communication to customers, 您 is always used instead of 你, as it signals respect for the client and upholds the company's professional image.",
+   "tip": "Never use 你 in formal emails, public notices, or customer-facing written content; it will come off as unprofessional."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You meet a new classmate your age for the first time. Greet them, say your name is Anna, and tell them you are a new student learning Chinese.",
+   "answer": "你好，我叫安娜，是新来学中文的学生。",
+   "accept": [
+    "你好，我是安娜，新来的学生，在学中文。",
+    "你好，我叫安娜，刚来这里学中文。"
+   ],
+   "explain": "Using 你 is appropriate for peers your age, and the opening matches the natural first-meeting greeting pattern for new classmates."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are sitting next to your friend at a cafe. Hand them the cup of hot milk tea you bought, and tell them it's for them.",
+   "answer": "这杯热奶茶给你，刚做好的，快喝吧。",
+   "accept": [
+    "给你，这杯是你点的热奶茶。",
+    "这杯热奶茶给你，小心烫。"
+   ],
+   "explain": "The phrase 给你 is the natural way to hand something to a close friend, paired with a small casual remark about the drink."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are talking to your 70-year-old neighbor who is worried about her cat. Comfort her, tell her you will help look for the cat, and reassure her not to worry. Remember to use the correct respectful form for an elder.",
+   "answer": "奶奶您别着急，我帮您一起找猫，您放心就好。",
+   "accept": [
+    "奶奶您别担心，我帮您找您的猫，很快就能找到。",
+    "您别着急，我陪您一起找猫，肯定能找到的。"
+   ],
+   "explain": "Using 您 for an elderly neighbor is required to show proper respect, and the comforting tone matches what a native would say to reassure a worried elder."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your close friend just told you they forgot their umbrella on a rainy day. Tease them gently for being careless, and offer to share your umbrella with them.",
+   "answer": "你看你，出门又忘带伞，这下跟我一起撑回去吧。",
+   "accept": [
+    "你怎么又忘带伞了，真是小迷糊，快跟我一起打伞走。",
+    "你看你，下雨天都忘带伞，快过来跟我共撑一把。"
+   ],
+   "explain": "The 你看你 pattern is natural for gentle teasing with close friends, and the offer to share an umbrella fits the casual, caring tone of peer interaction."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你：「你周末一般喜欢做什么？」 请自然回答，说说你周末喜欢在家看书，偶尔和朋友去公园散步。",
+   "answer": "我周末一般喜欢在家看书，偶尔也会和朋友一起去公园散步。",
+   "accept": [
+    "我周末大多在家看书，天气好的时候会和朋友去公园走一走。",
+    "我周末喜欢在家看书，有时候也约朋友去公园散步。"
+   ],
+   "explain": "Since your colleague used 你 to ask the question, you can respond naturally with casual peer speech, matching the relaxed tone of a colleague chat."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你去买咖啡，店员问你：「您好，请问您要喝热的还是冰的？」 请自然回答，说你要一杯热拿铁，少糖。",
+   "answer": "您好，我要一杯热拿铁，少糖就可以。",
+   "accept": [
+    "我要一杯热拿铁，少糖，麻烦您了。",
+    "您好，给我一杯热拿铁，少糖，谢谢。"
+   ],
+   "explain": "Since the service worker used 您 to address you, responding politely with clear order details is the natural, polite way to order coffee in a shop."
+  }
+ ],
+ "level": 1,
+ "v": 2
+}

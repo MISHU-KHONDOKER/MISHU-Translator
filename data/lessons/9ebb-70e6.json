@@ -1,0 +1,210 @@
+{
+ "word": "麻烦",
+ "pinyin": "má fan",
+ "meaning": "troublesome; to bother someone",
+ "pos": "adjective, verb, noun",
+ "core": "Native speakers use 麻烦 as a polite softener for small everyday requests to strangers, as a verb meaning to ask someone for a favor, and as an adjective describing something annoying or inconvenient. Learners often overuse it for serious problems, while it is mostly used for minor, everyday inconveniences.",
+ "collocations": [
+  {
+   "zh": "麻烦你了",
+   "pinyin": "má fan nǐ le",
+   "en": "sorry to trouble you (polite thanks)"
+  },
+  {
+   "zh": "太麻烦了",
+   "pinyin": "tài má fan le",
+   "en": "this is too much hassle"
+  },
+  {
+   "zh": "添麻烦",
+   "pinyin": "tiān má fan",
+   "en": "to cause someone trouble"
+  },
+  {
+   "zh": "麻烦一下",
+   "pinyin": "má fan yí xià",
+   "en": "excuse me / excuse me a moment"
+  },
+  {
+   "zh": "不怕麻烦",
+   "pinyin": "bú pà má fan",
+   "en": "to not mind going to the trouble"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "Café counter · ordering from barista",
+   "zh": "麻烦你，我要一杯热拿铁。",
+   "pinyin": "má fan nǐ, wǒ yào yì bēi rè ná tiě.",
+   "en": "Excuse me, I'd like a hot latte, please.",
+   "register": "polite",
+   "feeling": "polite, casual",
+   "why": "You say this to service staff when placing an order. 麻烦你 acts as a soft, polite opening, equivalent to 'excuse me' before making your request.",
+   "tip": "This is far more natural in daily service interactions than the textbook 请问."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Office desk · asking a nearby colleague for a small favor",
+   "zh": "麻烦帮我递一下那支笔，好吗？",
+   "pinyin": "má fan bāng wǒ dì yí xià nà zhī bǐ, hǎo ma?",
+   "en": "Could you pass me that pen, please?",
+   "register": "neutral",
+   "feeling": "friendly, polite",
+   "why": "You say this to a colleague sitting nearby to ask for a tiny favor. 麻烦 softens the request so you do not sound like you are ordering them around.",
+   "tip": "Add 好吗 at the end to make the request feel even gentler."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Walking with a friend · complaining about a delayed bus",
+   "zh": "等了二十分钟，真麻烦。",
+   "pinyin": "děng le èr shí fēn zhōng, zhēn má fan.",
+   "en": "We waited twenty minutes, what a hassle.",
+   "register": "casual",
+   "feeling": "annoyed, resigned",
+   "why": "You say this to a peer when something small is inconvenient, to express light frustration without being upset.",
+   "tip": "Do not use this for serious, big problems — it only refers to minor annoyances."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Riding in a taxi · telling the driver your destination",
+   "zh": "师傅，麻烦去机场二号航站楼。",
+   "pinyin": "shī fu, má fan qù jī chǎng èr hào háng zhàn lóu.",
+   "en": "Driver, please take me to Terminal 2 of the airport.",
+   "register": "polite",
+   "feeling": "respectful, casual",
+   "why": "You say this to a taxi driver after getting in the car. 麻烦 frames your destination instruction as a polite request rather than an order.",
+   "tip": "Calling the driver 师傅 is the standard respectful, casual address in mainland China."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "WeChat message · replying to a work favor from your manager",
+   "zh": "好的王总，不麻烦，我现在就处理。",
+   "pinyin": "hǎo de Wáng zǒng, bù má fan, wǒ xiàn zài jiù chǔ lǐ.",
+   "en": "Okay, Manager Wang, it's no trouble at all, I'll handle it right now.",
+   "register": "polite",
+   "feeling": "respectful, cooperative",
+   "why": "You say this to your boss when they ask you to do a small extra task. Saying 不麻烦 reassures them you are not bothered by the extra work, which is a polite workplace response.",
+   "tip": "Never say 麻烦 a lot when your boss gives you work — that sounds like you are complaining."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a friend's home · preparing to leave after a meal",
+   "zh": "今天给你添麻烦了，下次来我家吃饭！",
+   "pinyin": "jīn tiān gěi nǐ tiān má fan le, xià cì lái wǒ jiā chī fàn!",
+   "en": "I've caused you so much trouble today, come eat at my place next time!",
+   "register": "casual",
+   "feeling": "warm, grateful",
+   "why": "You say this to a close friend who hosted you for a meal. 添麻烦 here is a humble, polite way to thank them for their effort, paired with an invitation to return the favor.",
+   "tip": "This is a warm, polite ritual, not a real apology for causing problems."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Office meeting · explaining why a project is delayed",
+   "zh": "这个流程太麻烦，我们得简化一下。",
+   "pinyin": "zhè ge liú chéng tài má fan, wǒ men děi jiǎn huà yí xià.",
+   "en": "This process is such a hassle, we need to simplify it.",
+   "register": "neutral",
+   "feeling": "matter-of-fact, slightly frustrated",
+   "why": "You say this to teammates during a work discussion to point out that a procedure is unnecessarily complicated. 麻烦 here describes a system that is inconvenient and inefficient.",
+   "tip": "Use 太麻烦 to show you think something is more complicated than it needs to be."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Hotel front desk · asking for extra towels",
+   "zh": "您好，麻烦再送两条毛巾到806房间。",
+   "pinyin": "nín hǎo, má fan zài sòng liǎng tiáo máo jīn dào bā líng liù fáng jiān.",
+   "en": "Hello, could you please send two more towels to room 806?",
+   "register": "polite",
+   "feeling": "respectful, clear",
+   "why": "You say this to hotel staff over the phone or at the front desk to make a service request. 麻烦 softens your request so it does not sound demanding.",
+   "tip": "Addressing staff with 您好 makes the request feel more respectful in formal service settings."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Phone call · calling your bank to ask about a card issue",
+   "zh": "你好，麻烦帮我查一下，我的卡为什么不能用了？",
+   "pinyin": "nǐ hǎo, má fan bāng wǒ chá yí xià, wǒ de kǎ wèi shén me bù néng yòng le?",
+   "en": "Hi there, could you please help me check why my card isn't working?",
+   "register": "polite",
+   "feeling": "calm, polite",
+   "why": "You say this to customer service when calling about a problem. 麻烦帮我查一下 is the standard polite opening for phone service requests in China.",
+   "tip": "This exact opening works for almost any customer service call in mainland China."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Friend group chat · teasing a friend who hates doing admin tasks",
+   "zh": "他最怕麻烦，能不去就不去，你别逼他了。",
+   "pinyin": "tā zuì pà má fan, néng bú qù jiù bú qù, nǐ bié bī tā le.",
+   "en": "He hates hassle the most — he'll skip it if he can, so don't push him.",
+   "register": "casual",
+   "feeling": "teasing, understanding",
+   "why": "You say this to other friends when talking about someone who avoids complicated, time-consuming tasks. 怕麻烦 describes a personality trait of disliking unnecessary effort.",
+   "tip": "怕麻烦 is a very common phrase to describe someone who avoids extra hassle."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are at a restaurant, ready to order. Politely get the server's attention and say you want one bowl of tomato egg noodles.",
+   "answer": "麻烦你，我要一碗西红柿鸡蛋面。",
+   "accept": [
+    "麻烦一下，来一碗西红柿鸡蛋面。",
+    "您好，麻烦给我一碗西红柿鸡蛋面。"
+   ],
+   "explain": "Opening a restaurant order with 麻烦你 is the standard polite, natural way to address service staff in China."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are on the subway, and you want to politely ask the stranger next to you to make a little space so you can get through.",
+   "answer": "麻烦让一下，我过去一下。",
+   "accept": [
+    "麻烦您，借过一下。",
+    "不好意思，麻烦让我过一下。"
+   ],
+   "explain": "Using 麻烦 to preface a request for space is polite and natural for interactions with strangers in public."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your colleague offers to help you carry a heavy box of documents to the meeting room. Politely decline their offer, saying it is no trouble for you, and thank them.",
+   "answer": "不用啦，不麻烦，我自己就可以。",
+   "accept": [
+    "没事不麻烦，我自己来就行，谢谢啊。",
+    "不用麻烦你了，我自己搬就好。"
+   ],
+   "explain": "Saying 不麻烦 when refusing help politely signals you do not want to take up their time, while sounding grateful."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are leaving your Chinese neighbor's home after they gave you a big bag of homemade dumplings. Humorously thank them for their trouble, and invite them to come to your place for coffee next weekend.",
+   "answer": "今天真是给你添麻烦了，周末来我家喝咖啡吧！",
+   "accept": [
+    "太麻烦你了，还给我装了这么多饺子，周末来我家喝咖啡呀。",
+    "今天辛苦你啦，给你添麻烦了，周末来我家喝咖啡好不好？"
+   ],
+   "explain": "Pairing 添麻烦 with a return invitation is a warm, natural way to thank a neighbor for their kindness."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你刚到公司，同事对你说：「今天下午的客户会，你能帮忙做一下会议记录吗？」请你自然回答，告诉同事这完全不麻烦，你很乐意帮忙。",
+   "answer": "没问题，一点都不麻烦，我肯定记好。",
+   "accept": [
+    "没事不麻烦，我等下就准备好笔记本。",
+    "当然可以，不麻烦，我一会儿就坐前面记。"
+   ],
+   "explain": "Using 不麻烦 to reassure your colleague you are happy to take on the small task is the natural cooperative response in Chinese workplaces."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "朋友问你：「周末我们一起去爬那座很高的山，你想去吗？」你知道爬山要早起、带很多水和食物，非常麻烦。请你自然地告诉朋友你不想去，因为你特别怕麻烦。",
+   "answer": "算了吧，我最怕麻烦了，你们去玩得开心点。",
+   "accept": [
+    "我就不去啦，太麻烦了，我周末想在家休息。",
+    "不去了不去了，早起准备东西太麻烦，你们好好玩。"
+   ],
+   "explain": "Saying 怕麻烦 or 太麻烦 to decline a tiring, time-consuming plan is a casual, natural way to turn down a friend's invitation without being rude."
+  }
+ ],
+ "level": 3,
+ "v": 2
+}

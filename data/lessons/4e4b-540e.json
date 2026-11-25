@@ -1,0 +1,210 @@
+{
+ "word": "之后",
+ "pinyin": "zhī hòu",
+ "meaning": "after; afterwards; following an event",
+ "pos": "postposition / temporal noun",
+ "core": "Natives place 之后 after an event or action to say 'after that'; it is more flexible than 以后 and can refer to a specific one-time sequence, not just the distant future. Learners often overuse it for vague future time, where 以后 sounds more natural.",
+ "collocations": [
+  {
+   "zh": "晚饭之后",
+   "pinyin": "wǎn fàn zhī hòu",
+   "en": "after dinner"
+  },
+  {
+   "zh": "毕业之后",
+   "pinyin": "bì yè zhī hòu",
+   "en": "after graduation"
+  },
+  {
+   "zh": "会议之后",
+   "pinyin": "huì yì zhī hòu",
+   "en": "after the meeting"
+  },
+  {
+   "zh": "那之后",
+   "pinyin": "nà zhī hòu",
+   "en": "after that / since then"
+  },
+  {
+   "zh": "工作之后",
+   "pinyin": "gōng zuò zhī hòu",
+   "en": "after work"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "With a close friend · planning",
+   "zh": "我们晚饭之后去散散步吧。",
+   "pinyin": "wǒ men wǎn fàn zhī hòu qù sàn sàn bù ba",
+   "en": "Let's go for a walk after dinner.",
+   "register": "casual",
+   "feeling": "relaxed, warm",
+   "why": "A friend suggesting a low-key plan for this evening, using 之后 to mark the clear sequence between eating and walking.",
+   "tip": "The ba at the end makes it a friendly suggestion, not a command."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · to a colleague",
+   "zh": "会议之后，我们再讨论这个细节。",
+   "pinyin": "huì yì zhī hòu, wǒ men zài tǎo lùn zhè ge xì jié",
+   "en": "We'll discuss this detail further after the meeting.",
+   "register": "neutral",
+   "feeling": "practical, organized",
+   "why": "A colleague telling you to postpone a small conversation until the scheduled meeting is over, so no time is wasted now.",
+   "tip": "Slightly more polite than saying 等会儿; it references a fixed event."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At home · talking to family",
+   "zh": "孩子吃完药之后就睡着了。",
+   "pinyin": "hái zi chī wán yào zhī hòu jiù shuì zháo le",
+   "en": "The kid fell asleep right after taking the medicine.",
+   "register": "casual",
+   "feeling": "relieved, calm",
+   "why": "A parent updating another family member about the child's condition, linking two events that happened one after the other.",
+   "tip": "Pattern: action + 完 + object + 之后 = right after finishing that action."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a café · to a friend",
+   "zh": "毕业之后，我就来了中国。",
+   "pinyin": "bì yè zhī hòu, wǒ jiù lái le zhōng guó",
+   "en": "I came to China right after I graduated.",
+   "register": "casual",
+   "feeling": "reflective, casual",
+   "why": "Telling your personal backstory, marking graduation as the starting point for your move to China.",
+   "tip": "Pairing 之后 with 就 emphasizes that the next action happened immediately."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · to your boss",
+   "zh": "您开完会之后，能帮我看一下这份合同吗？",
+   "pinyin": "nín kāi wán huì zhī hòu, néng bāng wǒ kàn yī xià zhè fèn hé tóng ma",
+   "en": "After you finish your meeting, could you look over this contract for me?",
+   "register": "polite",
+   "feeling": "respectful, considerate",
+   "why": "An employee asking for a favor without interrupting the boss mid-meeting, showing awareness of the boss's schedule.",
+   "tip": "Using néng ... ma makes the request soft; do not say 你开完会之后 you must look."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With a friend · comforting",
+   "zh": "别担心，刚到新公司的头几个月之后就好了。",
+   "pinyin": "bié dān xīn, gāng dào xīn gōng sī de tóu jǐ ge yuè zhī hòu jiù hǎo le",
+   "en": "Don't worry, things will get better after the first few months at the new company.",
+   "register": "casual",
+   "feeling": "reassuring, kind",
+   "why": "Comforting a friend who is stressed about their new job, framing the hard period as temporary.",
+   "tip": "The phrase jiù hǎo le is the standard comforting phrase for 'it'll get better'."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Formal notice · company announcement",
+   "zh": "春节假期之后，我们将执行新的考勤制度。",
+   "pinyin": "chūn jié jià qī zhī hòu, wǒ men jiāng zhí xíng xīn de kǎo qín zhì dù",
+   "en": "After the Spring Festival holiday, we will implement the new attendance policy.",
+   "register": "formal",
+   "feeling": "official, clear",
+   "why": "A formal written announcement to all staff, stating exactly when a new rule takes effect.",
+   "tip": "Written notices prefer 之后 over 以后 for a precise start date."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a restaurant · to the waiter",
+   "zh": "我们吃完主菜之后再点甜品，可以吗？",
+   "pinyin": "wǒ men chī wán zhǔ cài zhī hòu zài diǎn tián pǐn, kě yǐ ma",
+   "en": "Can we order dessert after we finish the main course?",
+   "register": "polite",
+   "feeling": "easy, courteous",
+   "why": "Diners telling the waiter they don't want dessert yet, to avoid ordering too much food at once.",
+   "tip": "kě yǐ ma softens the request; it sounds more natural than 我们现在不点."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "WeChat message · to a friend",
+   "zh": "我下班之后直接过去，大概七点半能到，你先点喝的吧。",
+   "pinyin": "wǒ xià bān zhī hòu zhí jiē guò qù, dà gài qī diǎn bàn néng dào, nǐ xiān diǎn hē de ba",
+   "en": "I'll head straight over after work, probably arrive around 7:30, you go ahead and order drinks first.",
+   "register": "casual",
+   "feeling": "warm, considerate",
+   "why": "Coordinating a meetup with a friend, letting them know they don't need to wait or order on your account.",
+   "tip": "Native speech drops time markers like 今天 in casual messages; the context makes it obvious."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At work · to a senior colleague",
+   "zh": "这个项目上线之后，后续的维护工作还得麻烦你们多费心。",
+   "pinyin": "zhè ge xiàng mù shàng xiàn zhī hòu, hòu xù de wéi hù gōng zuò hái děi má fan nǐ men duō fèi xīn",
+   "en": "After this project goes live, we'll still have to trouble you all to take care of the ongoing maintenance.",
+   "register": "polite",
+   "feeling": "humble, appreciative",
+   "why": "A project lead politely asking the technical team for continued support after launch, using polite humble phrasing.",
+   "tip": "má fan nǐ men duō fèi xīn is a standard polite work phrase for asking for extra help."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Tell your friend you will call them after you finish work today.",
+   "answer": "我下班之后给你打电话。",
+   "accept": [
+    "我下班之后再打给你。",
+    "等我下班之后联系你。"
+   ],
+   "explain": "Using 之后 right after the action 下班 naturally marks the time you will call."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "Tell your classmate that you will go to the library after breakfast.",
+   "answer": "我吃完早饭之后去图书馆。",
+   "accept": [
+    "早饭之后我就去图书馆。",
+    "吃完早饭之后我要去图书馆。"
+   ],
+   "explain": "Placing 之后 after the meal event creates a clear, natural sequence between eating and studying."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Politely ask your manager to review your report after the morning meeting, so you do not interrupt them now.",
+   "answer": "您开完早会之后，能帮我看一下这份报告吗？",
+   "accept": [
+    "早会之后，麻烦您帮我看看这份报告可以吗？",
+    "等您开完早会之后，想请您帮忙看一下这份报告。"
+   ],
+   "explain": "Referencing the fixed meeting event with polite néng ... ma sounds considerate and professional."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Comfort your friend who is nervous about moving to a new city: tell them things will feel normal after the first month.",
+   "answer": "别担心，到新城市头一个月之后就慢慢习惯了。",
+   "accept": [
+    "别紧张，刚来一个月之后就好了。",
+    "刚开始不适应，过一个月之后就习惯了。"
+   ],
+   "explain": "Framing the hard adjustment period as temporary with 之后 jiù ... is the standard comforting pattern."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：「周末有什么安排？」 你回答说：周六上午要在家打扫，打扫完之后下午去逛商场。",
+   "answer": "周六上午我先在家打扫卫生，打扫完之后下午去逛商场。",
+   "accept": [
+    "周六上午在家收拾，收拾完之后下午去商场逛逛。",
+    "周六上午打扫屋子，之后下午跟朋友去逛商场。"
+   ],
+   "explain": "Linking the two weekend plans with 之后 shows a natural, sequential schedule."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "同事问你：「新的考勤制度什么时候开始用？」 你回答说：春节假期结束之后，大家就要按照新制度打卡了。",
+   "answer": "春节假期之后，我们就要执行新的考勤制度了。",
+   "accept": [
+    "春节假期结束之后，新考勤制度就正式开始了。",
+    "放完春节假期之后，大家就要按新的考勤制度来了。"
+   ],
+   "explain": "Stating the exact starting event for a new rule with 之后 is how official workplace announcements are spoken."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

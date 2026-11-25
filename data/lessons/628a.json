@@ -1,0 +1,189 @@
+{
+ "word": "把",
+ "pinyin": "bǎ",
+ "meaning": "disposal marker for completed actions",
+ "pos": "grammatical particle (disposal marker)",
+ "core": "把 shifts focus to what happened to an object after an action, not the action itself. Learners often forget to add a result word after the verb, e.g. saying 把饭吃 instead of 把饭吃完.",
+ "collocations": [
+  {
+   "zh": "把饭吃完",
+   "pinyin": "bǎ fàn chī wán",
+   "en": "finish eating a meal"
+  },
+  {
+   "zh": "把门关上",
+   "pinyin": "bǎ mén guān shàng",
+   "en": "close the door"
+  },
+  {
+   "zh": "把作业写完",
+   "pinyin": "bǎ zuò yè xiě wán",
+   "en": "finish writing homework"
+  },
+  {
+   "zh": "把手机放下",
+   "pinyin": "bǎ shǒu jī fàng xià",
+   "en": "put down the phone"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At home · to your younger sibling",
+   "zh": "把门关好，外面太冷了。",
+   "pinyin": "bǎ mén guān hǎo, wài miàn tài lěng le.",
+   "en": "Close the door properly, it's freezing outside.",
+   "register": "casual",
+   "feeling": "matter-of-fact",
+   "why": "You tell a family member to make sure the door is fully closed, usually when cold wind or noise is coming in.",
+   "tip": "Do not say 把门关 alone; always add a result word like 好 or 上 after the verb."
+  },
+  {
+   "situation": "Office kitchen · to a colleague",
+   "zh": "请把这份文件复印一下。",
+   "pinyin": "qǐng bǎ zhè fèn wén jiàn fù yìn yī xià.",
+   "en": "Please make a copy of this document.",
+   "register": "neutral",
+   "feeling": "polite request",
+   "why": "A polite, common request between coworkers for a small routine office task.",
+   "tip": "Adding 一下 makes the request sound softer and less demanding."
+  },
+  {
+   "situation": "Café · to the staff",
+   "zh": "麻烦帮我把这杯咖啡加热一下。",
+   "pinyin": "má fán bāng wǒ bǎ zhè bēi kā fēi jiā rè yī xià.",
+   "en": "Could you please heat up this coffee for me?",
+   "register": "polite",
+   "feeling": "considerate",
+   "why": "You ask service staff to fix your drink, using 麻烦 to sound polite and not entitled.",
+   "tip": "This is much more natural than bluntly saying 把咖啡加热."
+  },
+  {
+   "situation": "Friend's birthday · to your close friend",
+   "zh": "我把你送我的书看完了，特别好看！",
+   "pinyin": "wǒ bǎ nǐ sòng wǒ de shū kàn wán le, tè bié hǎo kàn!",
+   "en": "I finished the book you gave me, it was so good!",
+   "register": "casual",
+   "feeling": "excited, grateful",
+   "why": "You tell a friend you completed reading their gift, to show you appreciated their present.",
+   "tip": "The 了 at the end marks the action is fully completed."
+  },
+  {
+   "situation": "Office meeting · team lead to the group",
+   "zh": "大家把下周的报告准备好。",
+   "pinyin": "dà jiā bǎ xià zhōu de bào gào zhǔn bèi hǎo.",
+   "en": "Everyone please get next week's report ready.",
+   "register": "neutral",
+   "feeling": "firm, clear",
+   "why": "A manager gives a clear work instruction to the whole team, not asking for debate.",
+   "tip": "No 请 here, it sounds like a standard work instruction, not a favor."
+  },
+  {
+   "situation": "Restaurant · to the waiter",
+   "zh": "麻烦把我们的菜分开打包。",
+   "pinyin": "má fán bǎ wǒ men de cài fēn kāi dǎ bāo.",
+   "en": "Could you pack our dishes separately for takeaway?",
+   "register": "polite",
+   "feeling": "polite request",
+   "why": "You ask for leftover takeaway packaging at a restaurant, specifying you want different meals in separate boxes.",
+   "tip": "分开 is the key result word here, meaning 'separately'."
+  },
+  {
+   "situation": "Family dining table · parent to child",
+   "zh": "快把手机放下，好好吃饭。",
+   "pinyin": "kuài bǎ shǒu jī fàng xià, hǎo hǎo chī fàn.",
+   "en": "Put your phone down right now, eat your meal properly.",
+   "register": "casual",
+   "feeling": "slightly strict",
+   "why": "A parent scolds a child for using their phone during dinner, a very common household scenario.",
+   "tip": "快 adds urgency, making the tone sound more strict."
+  },
+  {
+   "situation": "WeChat message · to your roommate",
+   "zh": "我今天加班，你下班记得把快递取回来。",
+   "pinyin": "wǒ jīn tiān jiā bān, nǐ xià bān jì de bǎ kuài dì qǔ huí lái.",
+   "en": "I'm working overtime today, remember to pick up the package when you get off work.",
+   "register": "casual",
+   "feeling": "reminding",
+   "why": "You send a quick reminder to your roommate to grab your delivered package on their way home.",
+   "tip": "取回来 is the natural phrasal verb for picking up a package from a delivery spot."
+  },
+  {
+   "situation": "Office · to your manager",
+   "zh": "我已经把方案改好了，您过目。",
+   "pinyin": "wǒ yǐ jīng bǎ fāng àn gǎi hǎo le, nín guò mù.",
+   "en": "I have already revised the proposal, please take a look.",
+   "register": "polite",
+   "feeling": "respectful",
+   "why": "An employee reports finished work to their boss, using formal respectful language like 您 and 过目.",
+   "tip": "过目 is a polite formal phrase meaning 'please look over my work'."
+  },
+  {
+   "situation": "Work email · formal written notice",
+   "zh": "请各部门在周五前把年度总结提交完毕。",
+   "pinyin": "qǐng gè bù mén zài zhōu wǔ qián bǎ nián dù zǒng jié tí jiāo wán bì.",
+   "en": "All departments must submit the annual summary before Friday.",
+   "register": "formal",
+   "feeling": "official, firm",
+   "why": "This is a formal company-wide instruction, using official written language with no casual tone.",
+   "tip": "完毕 is formal written language, you would never use it in daily spoken chat."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are at home, tell your roommate to turn off the lights when they leave the room.",
+   "answer": "你走的时候把灯关上。",
+   "accept": [
+    "麻烦走的时候把灯关一下。",
+    "走的时候记得把灯关掉。"
+   ],
+   "explain": "This is the natural casual way to ask someone to turn off lights using the 把 structure."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are at a café, politely ask the staff to give you a new spoon for your drink.",
+   "answer": "麻烦帮我把这个勺子换一个新的。",
+   "accept": [
+    "麻烦帮我换一把新勺子。",
+    "请帮我把这个勺子换成新的。"
+   ],
+   "explain": "Using 麻烦 makes the request polite, and 把 clearly focuses on the spoon as the object being changed."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are talking to your close friend, tell them you finished watching the movie they recommended to you, and say it was really good.",
+   "answer": "我把你推荐的那部电影看完了，特别好看！",
+   "accept": [],
+   "explain": "把 is used here to show you completed the action of finishing the movie, which is the key focus of the sentence."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are an employee talking to your manager, tell them you have already sent the project email to the client, politely.",
+   "answer": "我已经把项目邮件发给客户了，您可以看看。",
+   "accept": [],
+   "explain": "This formal, polite tone uses 把 to highlight the completed action of sending the email, appropriate for talking to a boss."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你和家人一起吃饭，妈妈说：“你怎么一直看手机？”你要怎么回答，告诉她你马上放下手机好好吃饭？",
+   "answer": "好的妈妈，我马上把手机放下，好好吃饭。",
+   "accept": [
+    "好，我这就把手机放下，专心吃饭。",
+    "我马上把手机收起来，好好吃饭。"
+   ],
+   "explain": "This natural response uses 把 to refer to putting down the phone, matching the casual, apologetic tone when responding to a parent."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你：“你昨天要改的报告写完了吗？”你要回答说你已经改完了，现在可以发给领导了。",
+   "answer": "我已经把报告改完了，现在就可以发给领导。",
+   "accept": [
+    "我把报告改好了，现在就发给他。",
+    "我已经把报告修改完了，随时可以发。"
+   ],
+   "explain": "把 is used here to focus on the completed action of finishing the report, which is the information your colleague is asking about."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Journey Word Flow</title>
+<style>
+:root{--ink:#2b2115;--ink2:#7a6a55;--gold2:#e3b341;--red:#b8322a}
+*{box-sizing:border-box;margin:0}
+body{background:#1c2128;color:#f0f3f6;font-family:-apple-system,"SF Pro Text","PingFang SC","Segoe UI",sans-serif;padding:22px 12px;display:flex;flex-direction:column;align-items:center;gap:14px}
+h1{font-size:20px;font-weight:600}
+.sub{color:#8b96a3;font-size:14px;text-align:center;max-width:1000px;line-height:1.5}
+.row{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;align-items:flex-start}
+.arrow{align-self:center;font-size:26px;color:#8b96a3;margin-top:-40px}
+.label{font-size:14px;font-weight:600;text-align:center;margin-top:10px}
+.label small{display:block;color:#8b96a3;font-weight:400;font-size:12px;margin-top:3px;max-width:280px;line-height:1.45;margin-inline:auto}
+.phone{width:290px;height:630px;border-radius:40px;background:#000;padding:8px;box-shadow:0 30px 60px rgba(0,0,0,.5),inset 0 0 0 2px #333}
+.screen{position:relative;width:100%;height:100%;border-radius:33px;overflow:hidden;display:flex;flex-direction:column;color:var(--ink);
+ background:radial-gradient(90% 50% at 50% 30%,#fffaf0 0%,transparent 70%),linear-gradient(165deg,#f8f2e7 0%,#f0e5d1 55%,#e6d5b9 100%)}
+.status{height:38px;flex:none;display:flex;justify-content:space-between;align-items:flex-end;padding:0 22px 2px;font-size:12px;font-weight:600;position:relative;z-index:6;color:#fff;background:linear-gradient(#3a2a18aa,#3a2a1800)}
+.deco{position:absolute;pointer-events:none;z-index:0}
+.z{position:relative;z-index:2}
+.rb{width:30px;height:30px;border-radius:50%;background:#ffffffb8;border:1px solid #e0cfae;display:grid;place-items:center;color:var(--ink);flex:none;font-size:15px}
+.rb svg{width:16px;height:16px}
+.av{background:url(../public/tutor-face.jpg) center 20%/cover;border-radius:50%}
+.card{background:#fffdf8e8;border:1px solid #eadcc2;border-radius:18px;box-shadow:0 6px 18px #6b4f2a17}
+.pill{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;padding:4px 9px;border-radius:99px;background:#ffffffc0;border:1px solid #e3d3b5}
+.kai{font-family:"STKaiti","KaiTi","PingFang SC",serif}
+.redbtn{border-radius:18px;padding:13px;text-align:center;color:#fff;font-weight:700;font-size:15px;background:linear-gradient(135deg,#c53a2f,#8f241c);box-shadow:0 10px 22px #8f241c55}
+
+/* path */
+.head{display:flex;align-items:center;gap:8px;padding:6px 12px}
+.head .t{flex:1}
+.head b{font-size:14px;display:block}
+.head small{font-size:10px;color:var(--ink2)}
+.stats{display:flex;gap:5px;padding:2px 12px 4px}
+.path{position:relative;flex:1;margin:0 8px}
+.node{position:absolute;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-size:22px;font-weight:600;transform:translate(-50%,-50%)}
+.node.done{background:#fff6e8;color:#2e7d32;box-shadow:0 0 0 3px #7fbf7f,0 6px 14px #6b4f2a22}
+.node.done::after{content:"✓";position:absolute;right:-4px;top:-4px;width:17px;height:17px;border-radius:50%;background:#2ea043;color:#fff;font-size:10px;display:grid;place-items:center;font-family:sans-serif}
+.node.now{width:72px;height:72px;background:linear-gradient(135deg,#c53a2f,#8f241c);color:#fff6e8;font-size:30px;box-shadow:0 0 0 5px #fffaf0,0 0 0 8px var(--gold2),0 12px 26px #8f241c55}
+.node.lock{background:#efe3cc;color:#b3a283;box-shadow:inset 0 0 0 2px #dcc9a6}
+.node.chest{background:#f3d27a;box-shadow:0 0 0 3px #fff,0 6px 14px #c8962e66;font-size:20px}
+.mini{position:absolute;width:30px;height:30px;box-shadow:0 0 0 2px #fff,0 4px 10px #0003}
+.dim{position:absolute;inset:0;background:#2b211566;z-index:4}
+.sheet{position:absolute;left:0;right:0;bottom:0;z-index:5;background:#fffaf0;border-radius:26px 26px 0 0;padding:10px 16px 22px;box-shadow:0 -10px 30px #0003}
+.grab{width:40px;height:5px;border-radius:3px;background:#dccbaa;margin:0 auto 12px}
+.sheet .w{display:flex;gap:12px;align-items:center}
+.tile{width:62px;height:62px;border-radius:16px;background:linear-gradient(135deg,#c53a2f,#8f241c);color:#fff6e8;display:grid;place-items:center;font-size:34px;flex:none}
+.sheet b{font-size:18px}
+.sheet .py{font-size:13px;color:#c8962e;font-weight:600}
+.sheet p{font-size:12px;color:var(--ink2);margin-top:2px}
+.steps{display:flex;gap:6px;margin:12px 0}
+.steps span{flex:1;text-align:center;font-size:10px;font-weight:600;padding:7px 4px;border-radius:12px;background:#f3ead9;color:#7a5a20}
+.steps span em{display:block;font-style:normal;font-size:15px}
+
+/* intro */
+.intro .top{display:flex;align-items:center;gap:8px;padding:6px 12px}
+.intro .top .t{flex:1;font-size:12px;color:var(--ink2);font-weight:600}
+.prog{display:flex;gap:3px;padding:0 12px 4px}
+.prog i{flex:1;height:4px;border-radius:2px;background:#e6d8bd}
+.prog i.on{background:#c53a2f}
+.hero{text-align:center;padding:4px 0 6px}
+.big{display:inline-grid;place-items:center;width:88px;height:88px;border-radius:22px;background:#fff6e8;color:var(--red);font-size:54px;box-shadow:inset 0 0 0 3px #f0c9a0,0 12px 26px #6b4f2a22}
+.hero .py{font-size:17px;color:#c8962e;font-weight:700;margin-top:4px}
+.hero .m{font-size:14px;margin-top:2px}
+.hero .m small{color:var(--ink2);font-size:11px;margin-left:4px}
+.btns{display:flex;justify-content:center;gap:8px;margin-top:8px}
+.btns span{font-size:11px;font-weight:600;padding:6px 12px;border-radius:99px;background:#fff;border:1px solid #e3d3b5}
+.coach{margin:8px 12px 0;display:flex;gap:9px;align-items:flex-start}
+.coach .av{width:38px;height:38px;flex:none;box-shadow:0 0 0 2px #fff,0 0 0 4px var(--gold2)}
+.bub{background:#fff;border-radius:14px 14px 14px 4px;padding:8px 10px;font-size:11.5px;line-height:1.45;box-shadow:0 4px 12px #6b4f2a1a}
+.bub b{color:var(--red)}
+.h2{font-size:11px;font-weight:700;color:var(--ink2);letter-spacing:.06em;margin:10px 14px 6px}
+.chunks{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin:0 12px}
+.chunks div{padding:8px 10px}
+.chunks b{font-size:16px;display:block}
+.chunks span{font-size:10px;color:#c8962e;font-weight:600}
+.chunks small{display:block;font-size:10px;color:var(--ink2)}
+
+/* lesson (approved video-call screen) */
+.lesson{background:#0d1117;color:#f0f3f6}
+.lesson .pic{position:absolute;top:0;left:0;right:0;height:290px;background:url(../public/tutor-face.jpg) center top/cover}
+.lesson .pic::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,#0d1117a0 0%,#0d111700 18%,#0d111700 66%,#0d1117 100%)}
+.lesson .lt{position:relative;z-index:2;display:flex;align-items:center;gap:8px;padding:4px 14px;font-size:12px;font-weight:600;color:#fff}
+.lesson .lp{position:relative;z-index:2;margin:4px 14px 0;height:4px;border-radius:2px;background:#ffffff40}
+.lesson .lp i{display:block;width:30%;height:100%;background:#fff;border-radius:2px}
+.lesson .chip{position:absolute;z-index:2;left:12px;top:262px;font-size:11px;padding:5px 10px;border-radius:99px;background:#000a;color:#fff}
+.lesson .lc{position:absolute;z-index:2;left:10px;right:10px;top:296px;padding:12px 13px;border-radius:20px;background:#161b22c0;border:1px solid #ffffff14}
+.lesson .lc .tg{display:flex;gap:5px;margin-bottom:6px}
+.lesson .lc .tg i{font-style:normal;font-size:9px;padding:2px 7px;border-radius:99px;background:#15233a;color:#9cc3ff}
+.lesson .lc .sit{font-size:11px;color:#c9d1d9}
+.lesson .lc .zh{font-size:22px;font-weight:600;margin-top:3px}
+.lesson .lc .zh em{font-style:normal;color:#e3b341}
+.lesson .lc .p{font-size:12px;color:#c9d1d9;margin-top:3px}
+.lesson .lc .e{font-size:11px;color:#8b96a3;margin-top:3px}
+.lesson .cb{position:absolute;z-index:2;left:6px;right:6px;bottom:24px;display:flex;justify-content:space-between;align-items:flex-start}
+.lesson .cb div{display:flex;flex-direction:column;align-items:center;gap:4px;font-size:9px;color:#8b96a3;width:50px}
+.lesson .cb i{font-style:normal;width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:#161b22;border:1px solid #30363d;color:#f0f3f6;font-size:15px}
+.lesson .cb .mic i{width:62px;height:62px;margin-top:-10px;background:#8957e5;font-size:24px;box-shadow:0 0 0 6px #8957e52e}
+
+/* done */
+.done-s{align-items:center;text-align:center}
+.done-s .burst{position:relative;margin-top:30px;width:150px;height:150px}
+.done-s .burst .node{left:50%;top:50%;width:104px;height:104px;font-size:52px}
+.done-s .ring{position:absolute;inset:0;border-radius:50%;background:radial-gradient(circle,#f3d27a55,transparent 70%)}
+.petal{position:absolute;width:10px;height:8px;border-radius:60% 0 60% 0;background:#e9837a}
+.done-s h3{font-size:24px;font-weight:800;margin-top:8px}
+.done-s h3 span{color:var(--red)}
+.done-s .sc{display:flex;gap:8px;justify-content:center;margin-top:12px}
+.done-s .sc div{padding:9px 12px;min-width:76px}
+.done-s .sc b{display:block;font-size:20px}
+.done-s .sc small{font-size:10px;color:var(--ink2)}
+.stars{font-size:24px;letter-spacing:4px;margin-top:10px;color:#e3b341}
+.stars i{font-style:normal;color:#e0d2b6}
+.done-s .say{display:flex;gap:8px;align-items:center;margin:12px 14px 0;text-align:left}
+.done-s .say .av{width:36px;height:36px;flex:none;box-shadow:0 0 0 2px #fff,0 0 0 4px var(--gold2)}
+.done-s .actions{margin-top:auto;width:100%;padding:0 14px 22px;display:flex;flex-direction:column;gap:8px}
+.ghost{border-radius:16px;padding:11px;text-align:center;font-weight:600;font-size:13px;background:#ffffffc0;border:1px solid #e3d3b5}
+.note{max-width:1000px;font-size:14px;color:#c9d1d9;line-height:1.6;background:#161b22;border:1px solid #30363d;border-radius:14px;padding:12px 18px}
+.note li{margin-left:18px}
+</style></head><body>
+<h1>Journey path: what happens when you tap a word</h1>
+<p class="sub">The full flow for one word, from left to right. Everything is on the warm paper except the lesson itself, which keeps the "video call" screen you already approved.</p>
+
+<svg width="0" height="0" style="position:absolute"><defs>
+<symbol id="home" viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5M6.5 10v9h4.5v-5h2v5h4.5v-9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="plum" viewBox="0 0 190 170"><g fill="none" stroke="#8a7458" stroke-linecap="round"><path d="M190 18 C150 30 120 52 96 86 C80 108 62 122 30 134" stroke-width="5"/><path d="M128 48 C120 30 122 16 132 4" stroke-width="3"/><path d="M96 86 C104 106 102 126 92 146" stroke-width="3"/></g><g fill="#e0705c"><circle cx="132" cy="10" r="7"/><circle cx="124" cy="36" r="8"/><circle cx="160" cy="26" r="7"/><circle cx="104" cy="76" r="8"/><circle cx="98" cy="118" r="7"/><circle cx="36" cy="128" r="6"/></g></symbol>
+</defs></svg>
+
+<div class="row">
+ <!-- 1 path + sheet -->
+ <div><div class="phone"><div class="screen">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="head z"><span class="rb"><svg><use href="#home"/></svg></span><div class="t"><b>HSK 4 · Chapter 3</b><small>Word 23 of 40</small></div><span class="rb">⚙︎</span></div>
+  <div class="stats z"><span class="pill">🔥 3</span><span class="pill">🎯 3/8 today</span><span class="pill">⭐ 2</span></div>
+  <div class="path z">
+   <svg style="position:absolute;inset:0;width:100%;height:100%" viewBox="0 0 270 380" preserveAspectRatio="none"><path d="M65 360 C140 340 205 315 195 275 C185 235 75 228 75 180 C75 133 195 133 195 90 C195 52 120 38 92 14" fill="none" stroke="#d9c7a8" stroke-width="6" stroke-dasharray="2 12" stroke-linecap="round"/></svg>
+   <div class="node done kai" style="left:24%;top:94%">之</div>
+   <div class="node done kai" style="left:72%;top:73%">以</div>
+   <div class="node now kai" style="left:28%;top:48%">而</div>
+   <div class="node lock kai" style="left:72%;top:24%">于</div>
+   <div class="node chest" style="left:34%;top:4%">🎁</div>
+  </div>
+  <div class="dim"></div>
+  <div class="sheet"><div class="grab"></div>
+   <div class="w"><div class="tile kai">而</div><div><b>而</b> <span class="py">ér</span><p>and · but · while (joins two ideas)</p></div></div>
+   <div class="steps"><span><em>👀</em>Meet the word</span><span><em>🗣️</em>10 sentences</span><span><em>✍️</em>2 tasks</span></div>
+   <div class="redbtn">Start lesson · about 8 min</div>
+  </div>
+ </div></div><div class="label">1 · Tap the word<small>A sheet slides up: the word, its meaning, the 3 parts of the lesson and how long it takes.</small></div></div>
+ <div class="arrow">›</div>
+
+ <!-- 2 intro -->
+ <div><div class="phone"><div class="screen intro">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="right:-26px;top:40px;width:110px;height:95px;opacity:.5"><use href="#plum"/></svg>
+  <div class="top z"><span class="rb">‹</span><span class="t">HSK 4 · NEW WORD</span></div>
+  <div class="prog z"><i class="on"></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+  <div class="hero z"><div class="big kai">而</div><div class="py">ér</div><div class="m">and · but · while<small>conjunction</small></div><div class="btns"><span>🔊 Listen</span><span>🐢 Slow</span></div></div>
+  <div class="coach z"><div class="av"></div><div class="bub"><b>而</b> joins two ideas, often a contrast: “not this, <b>but</b> that”. You hear it at work and in the news more than in casual chat.</div></div>
+  <div class="h2 z">COMMON CHUNKS</div>
+  <div class="chunks z">
+   <div class="card"><b class="kai">而且</b><span>érqiě</span><small>and also, moreover</small></div>
+   <div class="card"><b class="kai">然而</b><span>rán'ér</span><small>however</small></div>
+   <div class="card"><b class="kai">而是</b><span>ér shì</span><small>but rather</small></div>
+   <div class="card"><b class="kai">反而</b><span>fǎn'ér</span><small>on the contrary</small></div>
+  </div>
+  <div style="margin:auto 12px 18px;padding:11px" class="redbtn z">Start speaking · 10 sentences</div>
+ </div></div><div class="label">2 · Meet the word<small>The character big on a seal tile, pinyin, meaning and Listen/Slow. Your avatar explains it in a speech bubble; common chunks as cards.</small></div></div>
+ <div class="arrow">›</div>
+
+ <!-- 3 lesson -->
+ <div><div class="phone"><div class="screen lesson">
+  <div class="pic"></div>
+  <div class="status" style="background:none"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="lt"><span>‹</span>而 · 3 / 10</div><div class="lp"><i></i></div>
+  <div class="chip">🔊 Tutor speaking…</div>
+  <div class="lc"><div class="tg"><i>Hard</i><i style="background:#2a1d3d;color:#d2b3ff">Formal</i></div><div class="sit">At work · talking to your manager</div><div class="zh">我们是为了解决问题，<em>而</em>不是应付检查。</div><div class="p">wǒmen shì wèile jiějué wèntí, ér bú shì yìngfu jiǎnchá.</div><div class="e">We do this to solve problems, not just to pass inspections.</div></div>
+  <div class="cb"><div><i>‹</i>Back</div><div><i>🐢</i>Slow</div><div class="mic"><i>🎙️</i>Hold &amp; repeat</div><div><i>🔊</i>Again</div><div><i>›</i>Skip</div></div>
+ </div></div><div class="label">3 · Speak the sentences<small>The lesson screen you already approved (your face big, sentence on the chest). Unchanged.</small></div></div>
+ <div class="arrow">›</div>
+
+ <!-- 4 done -->
+ <div><div class="phone"><div class="screen done-s">
+  <div class="status" style="align-self:stretch"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="burst z"><div class="ring"></div><div class="node done kai">而</div>
+   <i class="petal" style="left:6px;top:30px;transform:rotate(30deg)"></i><i class="petal" style="right:4px;top:18px;transform:rotate(-20deg)"></i><i class="petal" style="left:20px;bottom:8px;transform:rotate(80deg)"></i><i class="petal" style="right:16px;bottom:20px"></i><i class="petal" style="left:66px;top:-6px;transform:rotate(140deg)"></i></div>
+  <h3 class="z">Word learned <span>✓</span></h3>
+  <div class="stars z">★★<i>★</i></div>
+  <div class="sc z"><div class="card"><b>86</b><small>avg score</small></div><div class="card"><b>10/10</b><small>sentences</small></div><div class="card"><b>4/8</b><small>today</small></div></div>
+  <div class="say z"><div class="av"></div><div class="bub">很好！Next on your path: <b>于</b>. Only 4 words to the 🎁 chapter story!</div></div>
+  <div class="actions z"><div class="redbtn">Next word · 于 ›</div><div class="ghost">Back to my path</div></div>
+ </div></div><div class="label">4 · Word done<small>Celebration with petals, stars from your scores, today's count. The word turns green ✓ on the path, the next word unlocks, and your avatar walks one step further.</small></div></div>
+</div>
+<div class="note"><ul>
+<li>After the 10 sentences come the 2 "your turn" tasks (the same screens as now), then screen 4.</li>
+<li>Stars: ★ = finished, ★★ = average 80+, ★★★ = average 90+. Tap a green word on the path any time to practise it again.</li>
+<li>Every few words a 🎁 on the path opens a short story made from the words you just learned.</li>
+</ul></div>
+</body></html>

@@ -1,0 +1,210 @@
+{
+ "word": "作为",
+ "pinyin": "zuò wéi",
+ "meaning": "in the capacity of; as",
+ "pos": "preposition",
+ "core": "作为 introduces the role, identity, or viewpoint from which someone speaks or acts. Learners often overuse it for everyday comparisons, while natives reserve it for framing identity, duty, or perspective.",
+ "collocations": [
+  {
+   "zh": "作为朋友",
+   "pinyin": "zuò wéi péng yǒu",
+   "en": "as a friend"
+  },
+  {
+   "zh": "作为员工",
+   "pinyin": "zuò wéi yuán gōng",
+   "en": "as an employee"
+  },
+  {
+   "zh": "作为参考",
+   "pinyin": "zuò wéi cān kǎo",
+   "en": "for your reference"
+  },
+  {
+   "zh": "作为生日礼物",
+   "pinyin": "zuò wéi shēng rì lǐ wù",
+   "en": "as a birthday gift"
+  },
+  {
+   "zh": "作为交换",
+   "pinyin": "zuò wéi jiāo huàn",
+   "en": "in exchange"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At a café · to your close friend",
+   "zh": "作为朋友，我得提醒你这件事不太合适。",
+   "pinyin": "zuò wéi péng yǒu, wǒ děi tí xǐng nǐ zhè jiàn shì bú tài hé shì.",
+   "en": "As a friend, I have to remind you this is not very appropriate.",
+   "register": "casual",
+   "feeling": "sincere, concerned",
+   "why": "You use this when you want to give honest advice without sounding judgmental. It signals you are speaking from a caring, equal friend perspective.",
+   "tip": "Do not overuse 作为 with close friends; it sounds slightly formal if you say it too often."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At home · to your younger sibling",
+   "zh": "作为哥哥，我会帮你解决这个问题。",
+   "pinyin": "zuò wéi gē ge, wǒ huì bāng nǐ jiě jué zhè ge wèn tí.",
+   "en": "As an older brother, I will help you solve this problem.",
+   "register": "casual",
+   "feeling": "protective, reliable",
+   "why": "You frame your duty using your family role. It sounds responsible and warm, especially with younger family members.",
+   "tip": "Change 哥哥 to 姐姐, 爸爸, or 妈妈 depending on your role."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a gift shop · to your colleague",
+   "zh": "这个杯子可以作为出差带回来的纪念品。",
+   "pinyin": "zhè ge bēi zi kě yǐ zuò wéi chū chāi dài huí lái de jì niàn pǐn.",
+   "en": "This cup can serve as a souvenir from your business trip.",
+   "register": "neutral",
+   "feeling": "practical, helpful",
+   "why": "Here 作为 means to function as something. You are suggesting a suitable use for an object.",
+   "tip": "This pattern is common when choosing small gifts or keepsakes."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · to your direct manager",
+   "zh": "作为员工，我完全理解公司的决定。",
+   "pinyin": "zuò wéi yuán gōng, wǒ wán quán lǐ jiě gōng sī de jué dìng.",
+   "en": "As an employee, I fully understand the company's decision.",
+   "register": "polite",
+   "feeling": "respectful, cooperative",
+   "why": "You acknowledge your position in the company before stating your attitude. It shows professionalism and alignment with workplace expectations.",
+   "tip": "Saying this to your boss is safe and polite, but do not use it with peers unless you want to sound formal."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "During a team meeting · presenting to clients",
+   "zh": "作为项目负责人，我想先介绍一下我们的方案。",
+   "pinyin": "zuò wéi xiàng mù fù zé rén, wǒ xiǎng xiān jiè shào yí xià wǒ men de fāng àn.",
+   "en": "As the project lead, I would like to first introduce our proposal.",
+   "register": "formal",
+   "feeling": "confident, professional",
+   "why": "You establish your authority and role before speaking in a professional setting. This is standard in meetings or presentations.",
+   "tip": "Natives often use 作为 + job title at the start of formal remarks."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a restaurant · with a close friend",
+   "zh": "作为吃货，这家新开的火锅店我一定要去试试。",
+   "pinyin": "zuò wéi chī huò, zhè jiā xīn kāi de huǒ guō diàn wǒ yí dìng yào qù shì shi.",
+   "en": "As a foodie, I definitely have to try this new hot pot restaurant.",
+   "register": "casual",
+   "feeling": "enthusiastic, playful",
+   "why": "You use 作为 humorously with a self-given identity, like being a foodie. It is a light way to justify strong preferences.",
+   "tip": "吃货 is a casual, fun word; avoid it in very formal settings."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "WeChat message · to your roommate",
+   "zh": "这张照片可以作为我们毕业旅行的纪念。",
+   "pinyin": "zhè zhāng zhào piàn kě yǐ zuò wéi wǒ men bì yè lǚ xíng de jì niàn.",
+   "en": "This photo can serve as a memento of our graduation trip.",
+   "register": "neutral",
+   "feeling": "nostalgic, warm",
+   "why": "You are suggesting an object or moment as a keepsake. It carries emotional value in personal relationships.",
+   "tip": "When sending photos, natives often say 留作纪念 instead of 作为纪念."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · to your team member",
+   "zh": "作为同事，我觉得你应该和领导直接沟通这件事。",
+   "pinyin": "zuò wéi tóng shì, wǒ jué de nǐ yīng gāi hé lǐng dǎo zhí jiē gōu tōng zhè jiàn shì.",
+   "en": "As a colleague, I think you should communicate this directly with the manager.",
+   "register": "neutral",
+   "feeling": "supportive, honest",
+   "why": "You are giving advice while clarifying you are speaking from a peer perspective, not as their boss.",
+   "tip": "This softens advice so it does not sound like you are ordering them around."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At a company annual meeting · formal speech",
+   "zh": "作为公司的老员工，我亲眼见证了这五年的成长。",
+   "pinyin": "zuò wéi gōng sī de lǎo yuán gōng, wǒ qīn yǎn jiàn zhèng le zhè wǔ nián de chéng zhǎng.",
+   "en": "As a long-time employee, I have personally witnessed the growth over these five years.",
+   "register": "formal",
+   "feeling": "proud, sincere",
+   "why": "This is typical in speeches where someone shares history and loyalty. It builds trust with the audience.",
+   "tip": "老员工 means experienced or long-serving staff, not literally old age."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At home · comforting your child before exams",
+   "zh": "作为父母，我们不要求你考满分，只要你尽力就好。",
+   "pinyin": "zuò wéi fù mǔ, wǒ men bù yāo qiú nǐ kǎo mǎn fēn, zhǐ yào nǐ jìn lì jiù hǎo.",
+   "en": "As your parents, we do not expect you to get full marks; as long as you try your best, it is enough.",
+   "register": "casual",
+   "feeling": "gentle, reassuring",
+   "why": "Parents use this to reduce pressure while expressing unconditional support. It frames expectations from a loving family role.",
+   "tip": "The pause after 作为父母 makes the sentence sound warm and deliberate."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Tell your friend that as a friend, you want to give them honest advice about their new job.",
+   "answer": "作为朋友，我想跟你说句实在话，这份新工作可能不太适合你。",
+   "accept": [
+    "作为朋友，我得提醒你，这份新工作要多考虑一下。",
+    "作为朋友，我建议你再想想这份新工作。"
+   ],
+   "explain": "Starting with 作为朋友 softens honest advice and shows you care."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "Say that this small gift can be used as a souvenir from your trip.",
+   "answer": "这个小礼物可以作为这次旅行的纪念品。",
+   "accept": [
+    "这个小礼物可以作为旅行的纪念。",
+    "这个小礼物可以留作旅行纪念。"
+   ],
+   "explain": "作为 + souvenir phrase is the natural way to say something serves as a keepsake."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Politely tell your manager that as a team leader, you take responsibility for the project delay.",
+   "answer": "作为团队负责人，这次项目延期的责任主要在我。",
+   "accept": [
+    "作为团队负责人，我会为这次项目延期负责。",
+    "作为项目负责人，这次延期我有责任。"
+   ],
+   "explain": "Using your role before taking responsibility sounds professional and mature."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Jokingly tell your friend that as a coffee lover, you have to try every new café in the city.",
+   "answer": "作为咖啡爱好者，这家新开的咖啡馆我一定要去试试。",
+   "accept": [
+    "作为咖啡爱好者，我得去试试这家新开的咖啡馆。",
+    "作为爱喝咖啡的人，这家新店我肯定要去打卡。"
+   ],
+   "explain": "作为 + personal identity is a fun way to justify a hobby or preference."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：你为什么这么支持这家小书店？ 请用作为回答。",
+   "answer": "作为顾客，我觉得这家书店的氛围很好，所以愿意一直支持它。",
+   "accept": [
+    "作为常来的客人，我很喜欢这家书店，所以会一直支持。",
+    "作为读者，我觉得这家书店很用心，所以愿意支持它。"
+   ],
+   "explain": "You explain your viewpoint from your identity as a customer or reader."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "同事问你：这次活动你为什么愿意帮忙？ 请用作为回答。",
+   "answer": "作为团队的一员，大家的事就是我的事，当然愿意帮忙。",
+   "accept": [
+    "作为团队的一员，我觉得帮忙是应该的。",
+    "作为这个团队的人，大家的活动我当然要支持。"
+   ],
+   "explain": "Using 作为团队的一员 frames your willingness to help as part of group responsibility."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

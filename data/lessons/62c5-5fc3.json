@@ -1,0 +1,210 @@
+{
+ "word": "担心",
+ "pinyin": "dān xīn",
+ "meaning": "to worry about someone or something",
+ "pos": "verb",
+ "core": "Native speakers use 担心 to express anxious concern for someone's safety or a pending outcome, usually directed at a person or situation the speaker cares about. Learners often overuse it to describe generic work-related worry, where 发愁 or 着急 sounds far more natural.",
+ "collocations": [
+  {
+   "zh": "别担心",
+   "pinyin": "bié dān xīn",
+   "en": "don't worry"
+  },
+  {
+   "zh": "不用担心",
+   "pinyin": "bù yòng dān xīn",
+   "en": "no need to worry"
+  },
+  {
+   "zh": "担心安全",
+   "pinyin": "dān xīn ān quán",
+   "en": "to worry about safety"
+  },
+  {
+   "zh": "让人担心",
+   "pinyin": "ràng rén dān xīn",
+   "en": "to make someone worry"
+  },
+  {
+   "zh": "白担心一场",
+   "pinyin": "bái dān xīn yī chǎng",
+   "en": "to worry for nothing"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At home · to your child returning late",
+   "zh": "你怎么才回来？我很担心你。",
+   "pinyin": "nǐ zěn me cái huí lái ？ wǒ hěn dān xīn nǐ 。",
+   "en": "Why are you only just back? I was so worried about you.",
+   "register": "casual",
+   "feeling": "anxious, relieved",
+   "why": "A parent says this to a child who comes home far past the expected time, expressing that their anxiety is now easing.",
+   "tip": "Stress 很 to show how strong your worry was; do not say 我害怕你 here, which would mean you are scared of the child."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At the office · to a new colleague",
+   "zh": "这个报告你不用担心，我来帮你。",
+   "pinyin": "zhè ge bào gào nǐ bù yòng dān xīn ， wǒ lái bāng nǐ 。",
+   "en": "Don't worry about this report, I'll help you with it.",
+   "register": "neutral",
+   "feeling": "supportive, reassuring",
+   "why": "An experienced team member says this to a new hire who is stressed about finishing a work task, taking responsibility to help them.",
+   "tip": "不用担心 is softer and more natural for work than 别担心 here, as it frames the task as something the other person does not need to stress over."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "On a call · to your friend who is sick",
+   "zh": "你身体好点了吗？大家都很担心你。",
+   "pinyin": "nǐ shēn tǐ hǎo diǎn le ma ？ dà jiā dōu hěn dān xīn nǐ 。",
+   "en": "Are you feeling any better? Everyone is worried about you.",
+   "register": "casual",
+   "feeling": "caring, concerned",
+   "why": "A friend calls to check in on someone who was recently unwell, passing along shared care from the whole friend group.",
+   "tip": "Add 大家 to show concern comes from the whole group, not just you, which feels warm and sincere."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "On a WeChat message · to your roommate going on a trip",
+   "zh": "路上注意安全，别让我担心哦。",
+   "pinyin": "lù shàng zhù yì ān quán ， bié ràng wǒ dān xīn ó 。",
+   "en": "Stay safe on the trip, don't make me worry about you.",
+   "register": "casual",
+   "feeling": "affectionate, playful",
+   "why": "A close roommate sends this lighthearted message before the other travels, showing they care without being overly dramatic.",
+   "tip": "The final 哦 softens the line so it does not sound like a strict scolding."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a restaurant · to your colleague who just choked on food",
+   "zh": "你刚才没事吧？我真的担心死了。",
+   "pinyin": "nǐ gāng cái méi shì ba ？ wǒ zhēn de dān xīn sǐ le 。",
+   "en": "Are you okay just now? I was absolutely scared to death.",
+   "register": "casual",
+   "feeling": "panicked, relieved",
+   "why": "A dining partner says this right after someone has a small choking or food incident, expressing how intense their momentary fear was.",
+   "tip": "The structure 担心死了 is a common colloquial exaggeration for extreme worry, used only for close friends or family."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a client meeting · reassuring an overseas client",
+   "zh": "您放心，交货时间不用担心，我们会按时完成。",
+   "pinyin": "nín fàng xīn ， jiāo huò shí jiān bù yòng dān xīn ， wǒ men huì àn shí wán chéng 。",
+   "en": "Rest assured, don't worry about the delivery timeline, we will finish on schedule.",
+   "register": "polite",
+   "feeling": "confident, professional",
+   "why": "A sales representative says this to a client who is nervous about project timelines, making a clear, formal guarantee to build trust.",
+   "tip": "Pair 您放心 with 不用担心 for a very polite, reassuring tone appropriate for client communication."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At home · to your teen who came home with a minor injury",
+   "zh": "摔成这样怎么不早说？真让人担心。",
+   "pinyin": "shuāi chéng zhè yàng zěn me bù zǎo shuō ？ zhēn ràng rén dān xīn 。",
+   "en": "You fell and hurt yourself this bad, why didn't you tell me earlier? You really make people worry.",
+   "register": "casual",
+   "feeling": "frustrated, caring",
+   "why": "A parent says this when they notice their teen's injury long after it happened, mixing mild irritation with underlying concern.",
+   "tip": "The phrase 真让人担心 is a classic parental line that sounds like gentle scolding rather than real anger."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "On a WeChat group chat · joking with friends",
+   "zh": "大家别担心，我只是开个玩笑而已。",
+   "pinyin": "dà jiā bié dān xīn ， wǒ zhǐ shì kāi gè wán xiào ér yǐ 。",
+   "en": "Everyone stop worrying, I was just making a joke.",
+   "register": "casual",
+   "feeling": "amused, playful",
+   "why": "A friend says this after posting a silly fake dramatic story that made the group react with concern, lightening the mood.",
+   "tip": "Add 而已 at the end to frame your prank as small and harmless, so no one gets genuinely upset."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At the office · reporting to your boss during a project delay",
+   "zh": "这个项目虽然有点慢，但是不用担心，我会搞定的。",
+   "pinyin": "zhè ge xiàng mù suī rán yǒu diǎn màn ， dàn shì bù yòng dān xīn ， wǒ huì gǎo dìng de 。",
+   "en": "This project is a bit behind schedule, but don't worry, I'll get it sorted out.",
+   "register": "neutral",
+   "feeling": "calm, assured",
+   "why": "An employee updates their boss on a slight delay, proactively taking ownership to stop the boss from worrying about missed deadlines.",
+   "tip": "Use 搞定 for a casual work setting to sound confident and capable, without sounding arrogant."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At home · comforting your parent after a false alarm about your health",
+   "zh": "我这不是好好的吗？您就别白担心了。",
+   "pinyin": "wǒ zhè bù shì hǎo hǎo de ma ？ nín jiù bié bái dān xīn le 。",
+   "en": "Look, I'm totally fine, aren't I? You didn't need to worry for nothing.",
+   "register": "casual",
+   "feeling": "teasing, affectionate",
+   "why": "An adult child says this to their parent who panicked over a minor health scare that turned out to be nothing, gently easing their parent's overconcern.",
+   "tip": "白担心 means worrying for no reason; use it only with close family, as it can sound rude if said to a colleague or stranger."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Your friend calls to say they are nervous about an upcoming job interview. Tell them not to worry, you believe they will do great.",
+   "answer": "别担心，我觉得你肯定能面试得很好。",
+   "accept": [
+    "不用担心，你这么优秀，面试肯定没问题的。",
+    "别担心，准备得这么充分，你肯定可以的。"
+   ],
+   "explain": "Starting with 别担心 is the most natural, casual way to comfort a friend about a stressful upcoming event."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "Your child comes home 2 hours late without texting you. Tell them you were very worried about them.",
+   "answer": "你怎么才回来？我特别担心你。",
+   "accept": [
+    "你这么晚才到家，我真的很担心你。",
+    "你没按时回来，我担心了好久。"
+   ],
+   "explain": "Expressing strong worry about a late family member is a natural use of 担心 for personal safety concerns."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "A client is anxious that your team will miss their delivery deadline. Politely reassure them they do not need to worry, and that you will deliver on time.",
+   "answer": "您不用担心，我们肯定会按时交货的。",
+   "accept": [
+    "请您放心，交货的事不用担心，我们会按计划完成。",
+    "您不用担心，我们一定会准时把货送到。"
+   ],
+   "explain": "Using 您 and 不用担心 gives a polite, professional reassurance that builds client trust."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your roommate went hiking in the rain and came home soaked. Tell them they really make you worry when they do that.",
+   "answer": "下这么大雨还去爬山，真让人担心。",
+   "accept": [
+    "你冒雨爬山，真的太让人担心了。",
+    "你淋成这样回来，真让人担心。"
+   ],
+   "explain": "真让人担心 is the natural phrase to express gentle, caring concern for a close friend's risky choices."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你妈妈给你打电话，说她刚才差点出小车祸，现在已经没事了。你要先问她伤没伤着，告诉她你刚才特别担心。",
+   "answer": "妈，你没受伤吧？我刚才听到消息担心死了。",
+   "accept": [
+    "妈，你没事吧？我刚才真的担心坏了。",
+    "你没碰着吧？我接到电话的时候特别担心你。"
+   ],
+   "explain": "Using colloquial phrases like 担心死了 shows genuine, intense worry appropriate for a close family member in a small emergency."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你，这个延期的项目会不会影响季度考核。你告诉他不用太担心，你已经和领导沟通过了。",
+   "answer": "不用担心，我已经跟领导说过了，不会影响考核的。",
+   "accept": [
+    "你不用太担心，我和领导沟通过了，这个延期没关系。",
+    "别担心，我已经跟领导解释清楚了，不会有问题的。"
+   ],
+   "explain": "Reassuring a worried colleague with 不用担心, paired with a concrete explanation of what you have done, sounds natural and supportive at work."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

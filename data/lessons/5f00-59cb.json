@@ -1,0 +1,200 @@
+{
+ "word": "开始",
+ "pinyin": "kāi shǐ",
+ "meaning": "to start, to begin",
+ "pos": "verb and noun",
+ "core": "开始 means to start an action or event. Learners often overuse it for actions that start automatically (like waking up or raining); use it for intentional events, meetings, meals, or plans.",
+ "collocations": [
+  {
+   "zh": "开始工作",
+   "pinyin": "kāi shǐ gōng zuò",
+   "en": "to start working"
+  },
+  {
+   "zh": "开始吃饭",
+   "pinyin": "kāi shǐ chī fàn",
+   "en": "to start eating"
+  },
+  {
+   "zh": "电影开始了",
+   "pinyin": "diàn yǐng kāi shǐ le",
+   "en": "the movie has started"
+  },
+  {
+   "zh": "从明天开始",
+   "pinyin": "cóng míng tiān kāi shǐ",
+   "en": "starting from tomorrow"
+  },
+  {
+   "zh": "刚开始",
+   "pinyin": "gāng kāi shǐ",
+   "en": "just started"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At a group dinner · to family",
+   "zh": "我们开始吃饭吧。",
+   "pinyin": "wǒ men kāi shǐ chī fàn ba",
+   "en": "Let's start eating.",
+   "register": "casual",
+   "feeling": "warm, inviting",
+   "why": "You say this when everyone is seated and ready to begin a meal. It is a polite, natural way to signal the food is ready.",
+   "tip": "Said with a rising tone to sound friendly. Do not say 开始吃吧 without 我们, which sounds like commanding."
+  },
+  {
+   "situation": "At work · to your team",
+   "zh": "我们现在开始开会。",
+   "pinyin": "wǒ men xiàn zài kāi shǐ kāi huì",
+   "en": "Let's start the meeting now.",
+   "register": "neutral",
+   "feeling": "firm, organized",
+   "why": "You say this when all meeting participants have arrived. It signals the meeting is officially starting.",
+   "tip": "Said in a steady tone. If you are the boss, you can say 开始吧 alone."
+  },
+  {
+   "situation": "At home · to your roommate",
+   "zh": "电影已经开始了。",
+   "pinyin": "diàn yǐng yǐ jīng kāi shǐ le",
+   "en": "The movie has already started.",
+   "register": "casual",
+   "feeling": "matter-of-fact",
+   "why": "You say this when someone arrives late to watch a movie. It implies they missed the beginning.",
+   "tip": "Use 了 to show the start already happened. Do not say 电影开始了吗 if you mean it has started."
+  },
+  {
+   "situation": "At a gym · to a new friend",
+   "zh": "我上个月开始学游泳。",
+   "pinyin": "wǒ shàng gè yuè kāi shǐ xué yóu yǒng",
+   "en": "I started learning to swim last month.",
+   "register": "casual",
+   "feeling": "casual, sharing",
+   "why": "You say this when talking about a new hobby or habit. It tells when the activity began.",
+   "tip": "Place time words before 开始. Do not say 我开始学游泳上个月."
+  },
+  {
+   "situation": "At a shop · to the shopkeeper",
+   "zh": "你们几点开始营业？",
+   "pinyin": "nǐ men jǐ diǎn kāi shǐ yíng yè",
+   "en": "What time do you open?",
+   "register": "polite",
+   "feeling": "polite, curious",
+   "why": "You ask this when you want to know when a shop opens. 营业 means doing business.",
+   "tip": "Said with a rising tone. A shorter version is 几点开门?"
+  },
+  {
+   "situation": "At work · to your boss",
+   "zh": "会议三点开始，对吗？",
+   "pinyin": "huì yì sān diǎn kāi shǐ, duì ma",
+   "en": "The meeting starts at 3 o'clock, right?",
+   "register": "polite",
+   "feeling": "confirming, careful",
+   "why": "You say this to check the meeting time with your boss. It is a polite way to confirm a schedule.",
+   "tip": "Rising tone on 对吗. Do not say 三点开始了, which means it already started."
+  },
+  {
+   "situation": "At home · to your child",
+   "zh": "你从今天开始要早睡。",
+   "pinyin": "nǐ cóng jīn tiān kāi shǐ yào zǎo shuì",
+   "en": "Starting today, you need to go to bed early.",
+   "register": "neutral",
+   "feeling": "firm, caring",
+   "why": "You say this to set a new rule or habit for someone. It means the rule starts now and continues.",
+   "tip": "从...开始 is a common pattern. Do not say 从今天开始你要早睡 without 要, which sounds less natural."
+  },
+  {
+   "situation": "On the phone · to a client",
+   "zh": "我们的合作从下个月开始。",
+   "pinyin": "wǒ men de hé zuò cóng xià gè yuè kāi shǐ",
+   "en": "Our cooperation starts next month.",
+   "register": "formal",
+   "feeling": "professional, clear",
+   "why": "You say this to confirm the start date of a business project. It sounds official and clear.",
+   "tip": "合作 means cooperation. This is a formal way to state a timeline."
+  },
+  {
+   "situation": "At a restaurant · complaining to the waiter",
+   "zh": "我们等了半小时，菜怎么还没开始做？",
+   "pinyin": "wǒ men děng le bàn xiǎo shí, cài zěn me hái méi kāi shǐ zuò",
+   "en": "We waited half an hour, why hasn't the cooking started yet?",
+   "register": "polite",
+   "feeling": "annoyed, complaining",
+   "why": "You say this when your food takes too long. It is a polite but firm complaint.",
+   "tip": "还没... shows the action still hasn't happened. Do not say 还没开始做吗 if you are complaining."
+  },
+  {
+   "situation": "At a training event · as an instructor",
+   "zh": "如果大家都准备好了，我们就开始。",
+   "pinyin": "rú guǒ dà jiā dōu zhǔn bèi hǎo le, wǒ men jiù kāi shǐ",
+   "en": "If everyone is ready, we'll begin.",
+   "register": "formal",
+   "feeling": "calm, authoritative",
+   "why": "You say this before starting a class or workshop. It gives participants a moment to get ready.",
+   "tip": "This is a formal, polite way to start an event. 就 means then."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are at home with your family. Everyone is seated and the food is on the table. Say that you will start eating.",
+   "answer": "我们开始吃饭吧。",
+   "accept": [
+    "我们吃饭吧。",
+    "开吃吧。"
+   ],
+   "explain": "开始吃饭 is the natural way to signal a meal is ready in a casual setting."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You want to ask a shop what time they open in the morning.",
+   "answer": "你们几点开始营业？",
+   "accept": [
+    "几点开门？",
+    "你们几点开始开门？"
+   ],
+   "explain": "开始营业 is the standard polite way to ask a shop's opening time."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are telling your new colleague that you started learning Chinese three months ago.",
+   "answer": "我三个月前开始学中文。",
+   "accept": [
+    "我三个月前开始学汉语。",
+    "我从三个月前开始学中文。"
+   ],
+   "explain": "开始学 + language is the natural way to say you began learning something."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are confirming with your boss that the meeting starts at 2 PM. Use a rising tone to check.",
+   "answer": "会议两点开始，对吗？",
+   "accept": [
+    "会议两点开始吗？",
+    "两点开始开会，对吗？"
+   ],
+   "explain": "Adding 对吗 makes it a polite confirmation, not a statement."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "朋友问你：“你什么时候开始学汉语的？” 请回答。",
+   "answer": "我去年开始学汉语的。",
+   "accept": [
+    "我上个月开始学汉语的。",
+    "我从今年开始学汉语。"
+   ],
+   "explain": "Use 开始 + time to answer when an activity began."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你到电影院的时候，电影已经开始十分钟了。你怎么告诉朋友这件事？",
+   "answer": "电影已经开始了，我们错过了开头。",
+   "accept": [
+    "电影已经开始十分钟了。",
+    "我们到的时候电影已经开始了。"
+   ],
+   "explain": "已经开始了 shows the action already happened, which is the key point when arriving late."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

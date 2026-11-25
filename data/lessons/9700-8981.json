@@ -1,0 +1,200 @@
+{
+ "word": "需要",
+ "pinyin": "xū yào",
+ "meaning": "to need; need (something)",
+ "pos": "verb",
+ "core": "需要 expresses a genuine requirement for an item, action, or help. Learners often overuse it for polite offers, where 要不要 sounds much more natural in everyday speech.",
+ "collocations": [
+  {
+   "zh": "需要帮忙",
+   "pinyin": "xū yào bāng máng",
+   "en": "to need help"
+  },
+  {
+   "zh": "需要时间",
+   "pinyin": "xū yào shí jiān",
+   "en": "to need time"
+  },
+  {
+   "zh": "不需要",
+   "pinyin": "bù xū yào",
+   "en": "no need; not needed"
+  },
+  {
+   "zh": "需要钱",
+   "pinyin": "xū yào qián",
+   "en": "to need money"
+  },
+  {
+   "zh": "需要休息",
+   "pinyin": "xū yào xiū xi",
+   "en": "to need rest"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At a café · ordering",
+   "zh": "你需要喝点什么吗？",
+   "pinyin": "Nǐ xū yào hē diǎn shén me ma?",
+   "en": "Would you like something to drink?",
+   "register": "casual",
+   "feeling": "friendly",
+   "why": "A friend or family member asks what you want to drink before or during a visit. It is a warm, caring check-in rather than a strict requirement.",
+   "tip": "If you are offering something, 要不要 is even more common in casual speech than 需要."
+  },
+  {
+   "situation": "At a convenience store · cashier to customer",
+   "zh": "需要袋子吗？",
+   "pinyin": "Xū yào dài zi ma?",
+   "en": "Do you need a bag?",
+   "register": "neutral",
+   "feeling": "routine",
+   "why": "Cashiers in China ask this standard question to decide whether to give you a plastic bag. It is short, practical, and repeated every day in shops.",
+   "tip": "A quick answer is 要 or 不用了."
+  },
+  {
+   "situation": "With a close friend · offering help",
+   "zh": "你需要帮忙就告诉我。",
+   "pinyin": "Nǐ xū yào bāng máng jiù gào sù wǒ.",
+   "en": "Tell me if you need help.",
+   "register": "casual",
+   "feeling": "warm, supportive",
+   "why": "You say this to someone moving house, fixing something, or dealing with a problem. It means you are willing to help, but you do not push.",
+   "tip": "Said with a soft, calm tone; it sounds caring, not like an order."
+  },
+  {
+   "situation": "At home · parent to child",
+   "zh": "你今天需要穿外套。",
+   "pinyin": "Nǐ jīn tiān xū yào chuān wài tào.",
+   "en": "You need to wear a jacket today.",
+   "register": "casual",
+   "feeling": "firm, caring",
+   "why": "A parent tells a child this when it is cold outside. It is a gentle requirement, not a suggestion, because the parent is responsible for the child.",
+   "tip": "For a friend, 最好穿件外套 sounds softer and less parental."
+  },
+  {
+   "situation": "In a WeChat message · colleague to colleague",
+   "zh": "这个报告明天需要交。",
+   "pinyin": "Zhè ge bào gào míng tiān xū yào jiāo.",
+   "en": "This report needs to be handed in tomorrow.",
+   "register": "neutral",
+   "feeling": "straightforward",
+   "why": "A colleague reminds another person of a deadline. It is clear and practical, without blaming anyone.",
+   "tip": "The word 交 is common for turning in homework or work documents."
+  },
+  {
+   "situation": "At work · manager to team",
+   "zh": "我们需要提前准备。",
+   "pinyin": "Wǒ men xū yào tí qián zhǔn bèi.",
+   "en": "We need to prepare in advance.",
+   "register": "neutral",
+   "feeling": "serious, organized",
+   "why": "A manager says this before a meeting, event, or client visit. It means the group must start early, not wait until the last minute.",
+   "tip": "提前 means ahead of time; it is a very common workplace word."
+  },
+  {
+   "situation": "At a restaurant · waiter to customer",
+   "zh": "您还需要点别的吗？",
+   "pinyin": "Nín hái xū yào diǎn bié de ma?",
+   "en": "Would you like to order anything else?",
+   "register": "polite",
+   "feeling": "attentive",
+   "why": "A waiter uses 您 to show respect and asks whether the customer wants more food or drink. It is a standard polite check-in during a meal.",
+   "tip": "If you are full, say 不用了，谢谢."
+  },
+  {
+   "situation": "Comforting a tired friend",
+   "zh": "你需要好好休息一下。",
+   "pinyin": "Nǐ xū yào hǎo hǎo xiū xi yī xià.",
+   "en": "You need to get some good rest.",
+   "register": "casual",
+   "feeling": "caring, gentle",
+   "why": "You say this to someone who looks exhausted after work, travel, or illness. It is a kind suggestion based on real concern.",
+   "tip": "好好 means properly or well; it makes the advice sound warm."
+  },
+  {
+   "situation": "At work · client to supplier",
+   "zh": "这个项目需要更多时间。",
+   "pinyin": "Zhè ge xiàng mù xū yào gèng duō shí jiān.",
+   "en": "This project needs more time.",
+   "register": "formal",
+   "feeling": "calm, reasonable",
+   "why": "A client or project manager explains why a task cannot be finished quickly. It states a practical need, not an excuse.",
+   "tip": "项目 is a common word for project in business settings."
+  },
+  {
+   "situation": "Refusing an offer · polite",
+   "zh": "谢谢，我不需要了。",
+   "pinyin": "Xiè xiè, wǒ bù xū yào le.",
+   "en": "Thanks, I don't need it.",
+   "register": "polite",
+   "feeling": "polite, clear",
+   "why": "You use this when a shop assistant, cashier, or friend offers something you do not want. It is polite because you say 谢谢 first, then make a clear refusal.",
+   "tip": "Do not say just 不需要; it can sound cold. Always add 谢谢."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "A shop cashier asks if you need a bag. You do not need one. Say it politely.",
+   "answer": "谢谢，我不需要袋子。",
+   "accept": [
+    "不用了，谢谢。",
+    "我不需要了，谢谢。"
+   ],
+   "explain": "Starting with 谢谢 makes the refusal polite in Chinese service situations."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are a café worker asking a customer if they need something to drink.",
+   "answer": "您需要喝点什么吗？",
+   "accept": [
+    "你想喝点什么吗？",
+    "需要喝点什么吗？"
+   ],
+   "explain": "Using 您 is polite for customers; the question is short and natural."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your boss says the team is rushing too much before a meeting. Tell them calmly that you need to prepare in advance.",
+   "answer": "我们需要提前准备一下。",
+   "accept": [
+    "这个会需要提前准备。",
+    "我们需要先准备好。"
+   ],
+   "explain": "提前准备 is the natural workplace phrase for preparing ahead of time."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "A friend looks very tired after a long week. Gently tell them they need to rest well.",
+   "answer": "你需要好好休息一下。",
+   "accept": [
+    "你好好休息一下吧。",
+    "你需要休息休息。"
+   ],
+   "explain": "好好休息 sounds caring and is commonly used when someone is tired."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "服务员问你：“您还需要点别的吗？” 你已经吃饱了，礼貌地回答。",
+   "answer": "不用了，谢谢，我不需要了。",
+   "accept": [
+    "够了，谢谢。",
+    "不用了，我们先这样。"
+   ],
+   "explain": "不用了，谢谢 is the standard polite way to decline extra food or drink."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "同事说这个报告今天就要交，但你觉得时间不够。你怎么自然地说明情况？",
+   "answer": "这个报告今天交有点紧，我需要更多时间。",
+   "accept": [
+    "今天可能交不完，我需要更多时间。",
+    "时间有点紧，我需要再准备一下。"
+   ],
+   "explain": "This explains the practical need for more time without sounding rude."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

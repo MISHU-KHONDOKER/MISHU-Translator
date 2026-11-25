@@ -1,0 +1,200 @@
+{
+ "word": "就是",
+ "pinyin": "jiù shì",
+ "meaning": "exactly, precisely; simply just",
+ "pos": "adverbial conjunction",
+ "core": "Native speakers use 就是 to express strong agreement, narrow down an exact definition, or emphasize that something is simply the case, rather than its literal surface meaning of 'to be'. Learners often overuse it as a plain 'yes' without matching the context's emotional tone.",
+ "collocations": [
+  {
+   "zh": "就是说",
+   "pinyin": "jiù shì shuō",
+   "en": "that is to say; in other words"
+  },
+  {
+   "zh": "就是啊",
+   "pinyin": "jiù shì a",
+   "en": "exactly! (strong agreement)"
+  },
+  {
+   "zh": "也就是",
+   "pinyin": "yě jiù shì",
+   "en": "that is; i.e.; which means"
+  },
+  {
+   "zh": "就是他",
+   "pinyin": "jiù shì tā",
+   "en": "that's exactly him"
+  },
+  {
+   "zh": "就是这个意思",
+   "pinyin": "jiù shì zhè ge yì si",
+   "en": "that's exactly what I mean"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "With a close friend · agreeing",
+   "zh": "就是啊，今天的菜太咸了。",
+   "pinyin": "jiù shì a, jīn tiān de cài tài xián le.",
+   "en": "Exactly! The food today is way too salty.",
+   "register": "casual",
+   "feeling": "agreeable, complaining",
+   "why": "You and a friend are both disappointed by the restaurant's food, and you use 就是啊 to show you fully share their frustration, instead of just saying 'yes'.",
+   "tip": "The tone on 就是 should be a little emphatic, like nodding hard while you talk."
+  },
+  {
+   "situation": "At work · to a new colleague",
+   "zh": "我们的工作就是帮客户解决问题。",
+   "pinyin": "wǒ men de gōng zuò jiù shì bāng kè hù jiě jué wèn tí.",
+   "en": "Our job is simply to help clients solve problems.",
+   "register": "neutral",
+   "feeling": "straightforward, explanatory",
+   "why": "You are explaining the core responsibility of your team to a new hire, using 就是 to emphasize there is no hidden complexity to the role.",
+   "tip": "This is the most neutral, formal use of 就是; it never sounds casual or emotional."
+  },
+  {
+   "situation": "At a clothing store · to the shop assistant",
+   "zh": "我就是想买一件夏天穿的T恤。",
+   "pinyin": "wǒ jiù shì xiǎng mǎi yī jiàn xià tiān chuān de xù.",
+   "en": "I just want to buy a T-shirt for summer wear.",
+   "register": "casual",
+   "feeling": "gentle, clarifying",
+   "why": "The shop assistant is trying to sell you expensive jackets, and you use 就是 to politely narrow down exactly what you came for, without being rude.",
+   "tip": "Do not say 'wǒ zhǐ shì xiǎng' here — that sounds cold and dismissive to the salesperson."
+  },
+  {
+   "situation": "With your roommate · explaining a plan",
+   "zh": "明天我要早走，就是想赶第一班地铁。",
+   "pinyin": "míng tiān wǒ yào zǎo zǒu, jiù shì xiǎng gǎn dì yī bān dì tiě.",
+   "en": "I need to leave early tomorrow, it's just to catch the first subway train.",
+   "register": "casual",
+   "feeling": "apologetic, explanatory",
+   "why": "Your roommate is confused why you are leaving so early, and you use 就是 to give the simple, straightforward reason, so they don't overthink it.",
+   "tip": "A soft pause before 就是 makes the reason feel casual and unplanned."
+  },
+  {
+   "situation": "In a team meeting · to your manager",
+   "zh": "这个项目的问题就是时间不够。",
+   "pinyin": "zhè ge xiàng mù de wèn tí jiù shì shí jiān bù gòu.",
+   "en": "The problem with this project is simply that we don't have enough time.",
+   "register": "neutral",
+   "feeling": "firm, direct",
+   "why": "Your manager is brainstorming possible causes for delays, and you use 就是 to pinpoint the single core issue, cutting off unnecessary speculation.",
+   "tip": "Stress the word 时间 to show that time, not budget or staff, is the real bottleneck."
+  },
+  {
+   "situation": "At a restaurant · to your dining partner",
+   "zh": "这家店的招牌就是水煮鱼，一定要点。",
+   "pinyin": "zhè jiā diàn de zhāo pái jiù shì shuǐ zhǔ yú, yī dìng yào diǎn.",
+   "en": "This restaurant's signature dish is exactly boiled fish, you definitely have to order it.",
+   "register": "casual",
+   "feeling": "warm, recommending",
+   "why": "You are a regular at this restaurant, and you use 就是 to emphasize that the boiled fish is the one unmissable item on the menu.",
+   "tip": "If you say 'zhè jiā diàn de zhāo pái shì' without 就是, it sounds like you are reading a menu, not making a personal recommendation."
+  },
+  {
+   "situation": "WeChat message · to your friend who is stressed",
+   "zh": "你就是太着急了，慢慢做就好。",
+   "pinyin": "nǐ jiù shì tài zháo jí le, màn màn zuò jiù hǎo.",
+   "en": "You're just getting too worked up, it's fine to take it slow.",
+   "register": "casual",
+   "feeling": "gentle, comforting",
+   "why": "Your friend is panicking about finishing a task, and you use 就是 to gently point out their core tendency, without criticizing them harshly.",
+   "tip": "This use of 就是 sounds caring, not scolding, if you keep your tone soft."
+  },
+  {
+   "situation": "On the phone · to a delivery driver",
+   "zh": "我就在小区门口，你直接过来就行。",
+   "pinyin": "wǒ jiù zài xiǎo qū mén kǒu, nǐ zhí jiē guò lái jiù xíng.",
+   "en": "I am right at the residential complex entrance, you can just come straight over.",
+   "register": "neutral",
+   "feeling": "clear, helpful",
+   "why": "The delivery driver is lost trying to find you, and you use 就是 to emphasize your exact, easy-to-find location, so they don't circle the complex.",
+   "tip": "Stress the word 门口 to make the location as clear as possible."
+  },
+  {
+   "situation": "At work · politely turning down your boss's request",
+   "zh": "抱歉，我今天就是没时间帮你做这个。",
+   "pinyin": "bào qiàn, wǒ jīn tiān jiù shì méi shí jiān bāng nǐ zuò zhè ge.",
+   "en": "Sorry, I simply don't have time to help you with this today.",
+   "register": "polite",
+   "feeling": "firm, apologetic",
+   "why": "Your boss is asking you to take on extra work, and you use 就是 to make your refusal clear but softened by the opening apology, so you don't sound uncooperative.",
+   "tip": "Never drop the 抱歉 at the start — saying 'wǒ méi shí jiān' directly to your boss can come off as rude."
+  },
+  {
+   "situation": "In a formal training session · to new staff",
+   "zh": "这个规定就是为了保证大家的安全。",
+   "pinyin": "zhè ge guī dìng jiù shì wèi le bǎo zhèng dà jiā de ān quán.",
+   "en": "This rule exists precisely to ensure everyone's safety.",
+   "register": "formal",
+   "feeling": "serious, explanatory",
+   "why": "You are explaining company safety policy to new employees, and you use 就是 to emphasize the clear, straightforward purpose of the rule, so people don't see it as arbitrary.",
+   "tip": "This formal use never sounds emotional; it is used to state a clear, official reason."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Your friend says the new coffee shop nearby tastes terrible. You completely agree with them. Say a natural sentence.",
+   "answer": "就是啊，他家的咖啡真的很难喝。",
+   "accept": [
+    "就是啊，我也觉得他家咖啡不好喝。",
+    "就是，我上次喝了也觉得特别难喝。"
+   ],
+   "explain": "Using 就是啊 directly expresses strong shared agreement, which is the most natural response when you fully back your friend's complaint."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are explaining to a new colleague what your team's main job is: you simply help customers fix their problems. Say the sentence.",
+   "answer": "我们的工作就是帮客户解决问题。",
+   "accept": [
+    "我们的任务就是帮客户解决各种问题。",
+    "我们就是帮客户解决问题的。"
+   ],
+   "explain": "The neutral explanatory use of 就是 is perfect for stating the core, simple purpose of your team's work without extra fluff."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "The shop assistant is trying to sell you an expensive winter coat, but you only want to buy a cheap summer T-shirt. Politely clarify what you came for.",
+   "answer": "我就是想买一件夏天穿的T恤。",
+   "accept": [
+    "我就是来买夏天穿的T恤的。",
+    "我就想买件夏天的T恤，不用给我介绍别的。"
+   ],
+   "explain": "Using 就是 here politely narrows down your exact need, so you don't come off as rude while turning down the sales pitch."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your friend is panicking because they think they messed up their presentation. Gently comfort them, saying they are just getting too anxious, and they should take it slow.",
+   "answer": "你就是太着急了，慢慢做就好。",
+   "accept": [
+    "你就是太紧张了，慢慢来没关系的。",
+    "你就是太着急了，放轻松一点就好。"
+   ],
+   "explain": "This soft, caring use of 就是 points out your friend's anxious habit without sounding judgmental, which is the natural way to comfort them."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "外卖员打电话问你在哪里，你说你就在小区门口，让他直接开过来就行。",
+   "answer": "我就在小区门口，你直接过来就行。",
+   "accept": [
+    "我就在小区大门口，你直接开过来就可以。",
+    "我就在小区门口等你，你直接过来就好。"
+   ],
+   "explain": "Using 就是 to emphasize your exact, easy-to-find location helps the lost delivery driver find you quickly, which is the most natural phone response."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的老板让你今天额外帮他做别的工作，你礼貌但坚定地拒绝，说你今天就是没时间。",
+   "answer": "抱歉，我今天就是没时间帮你做这个。",
+   "accept": [
+    "不好意思，我今天就是抽不出时间帮你做这个。",
+    "抱歉，我今天就是太忙了，没时间帮你做这个。"
+   ],
+   "explain": "Pairing a polite opening apology with 就是 makes your firm refusal clear but respectful, which is the appropriate way to turn down your boss without sounding uncooperative."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

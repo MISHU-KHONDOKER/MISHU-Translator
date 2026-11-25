@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en" translate="no">
+<head>
+  <meta charset="utf-8">
+  <meta name="google" content="notranslate">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="MISHU">
+  <meta name="theme-color" content="#0d1117">
+  <title>MISHU Translator</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- start screen: choose Translate or Tutor (design: design/start-screen-options.html, #1) -->
+  <section id="start" class="start" aria-label="Choose">
+    <svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs>
+      <symbol id="st-tr" viewBox="0 0 48 48"><g fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 10h18M15 6v4M20 10c-1.5 7-6 12-12 15M10 15c2 4 5.5 7 10 9"/><path d="M24 42l8-19 8 19M27 35h10"/></g></symbol>
+      <symbol id="st-plum" viewBox="0 0 190 170"><g fill="none" stroke="#4a3624" stroke-linecap="round"><path d="M190 18 C150 30 120 52 96 86 C80 108 62 122 30 134" stroke-width="5"/><path d="M128 48 C120 30 122 16 132 4" stroke-width="3"/><path d="M96 86 C104 106 102 126 92 146" stroke-width="3"/><path d="M60 120 C52 108 50 96 54 84" stroke-width="2.5"/></g><g fill="#d9573f"><circle cx="132" cy="10" r="7"/><circle cx="124" cy="36" r="8"/><circle cx="160" cy="26" r="7"/><circle cx="104" cy="76" r="8"/><circle cx="98" cy="118" r="7"/><circle cx="56" cy="92" r="7"/><circle cx="36" cy="128" r="6"/><circle cx="76" cy="112" r="5"/></g><g fill="#f6c1b4"><circle cx="146" cy="44" r="5"/><circle cx="88" cy="140" r="5"/><circle cx="114" cy="96" r="4"/></g><g fill="#f3d27a"><circle cx="124" cy="36" r="2.2"/><circle cx="104" cy="76" r="2.2"/><circle cx="160" cy="26" r="2"/><circle cx="56" cy="92" r="2"/></g></symbol>
+    </defs></svg>
+    <svg class="st-plum" aria-hidden="true"><use href="#st-plum"/></svg>
+    <div class="st-top"><p class="st-hi">你好 👋</p><h1>Talk or learn<br><span>Chinese</span> today?</h1></div>
+    <div class="st-mid">
+      <button type="button" class="st-item" data-mode="translate"><span class="st-ic st-tr"><svg><use href="#st-tr"/></svg></span><b>Translate</b><small lang="zh">翻译</small></button>
+      <button type="button" class="st-item" data-mode="tutor"><span class="st-ic st-av"><img src="tutor-face.jpg?v=1" alt=""></span><b>Tutor</b><small lang="zh">学习</small></button>
+    </div>
+    <svg class="st-plum2" aria-hidden="true"><use href="#st-plum"/></svg>
+    <div class="st-foot">MISHU Translator</div>
+  </section>
+
+  <section id="tutor" class="tutor" aria-live="polite"></section>
+
+  <header class="topbar">
+    <button type="button" class="home-btn" data-mode="start" aria-label="Home"><svg viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5M6.5 10v9h4.5v-5h2v5h4.5v-9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+    <div class="tr-title">
+      <b>Live translation</b>
+      <div class="status"><span id="dot" class="dot"></span><span id="statusText">Connecting…</span><button id="routeBtn" class="chip" type="button">Demo</button></div>
+    </div>
+    <button id="settingsBtn" class="icon-btn" type="button" aria-label="Settings">⚙︎</button>
+  </header>
+  <div class="lang-pill" aria-hidden="true"><span>中文</span><i>⇄</i><span>English</span></div>
+
+  <main id="transcript" class="transcript">
+    <div id="empty" class="empty">
+      <p class="big">Tap <b>Listen</b> to translate what they say in Chinese.</p>
+      <p>Hold <b>Speak English</b> to talk to them. Your words are shown and spoken in Chinese.</p>
+    </div>
+  </main>
+
+  <div id="errorBar" class="error-bar" hidden></div>
+  <div id="netBar" class="net-bar" hidden></div>
+  <button id="resumeBar" class="resume-bar" type="button" hidden>🎙️ Microphone paused by iPhone. Tap here to resume listening</button>
+
+  <footer class="controls">
+    <button id="outputBtn" class="side-btn" type="button" aria-label="Voice output">🎧<small>Earphones</small></button>
+    <button id="listenBtn" class="listen-btn" type="button">
+      <span class="listen-label">Listen</span><small>中文 → English</small>
+    </button>
+    <button id="talkBtn" class="talk-btn" type="button">
+      🎙️<small>Hold: Speak English</small>
+    </button>
+  </footer>
+
+  <dialog id="settings">
+    <form method="dialog" class="sheet">
+      <h2>Settings</h2>
+
+      <label>Translation engine
+        <select id="route">
+          <option value="si">Doubao interpretation (fastest)</option>
+          <option value="asr-doubao">Doubao speech-to-text + Doubao</option>
+          <option value="asr-deepseek">Doubao speech-to-text + DeepSeek</option>
+          <option value="demo">Demo (no keys, fake sentences)</option>
+        </select>
+      </label>
+      <p id="routeHint" class="hint"></p>
+
+      <label>Voice output
+        <select id="output">
+          <option value="ear">Earphones (mic stays on)</option>
+          <option value="speaker">Speaker (mic pauses while speaking)</option>
+          <option value="off">Off (text only)</option>
+        </select>
+      </label>
+
+      <label>Speaking speed <span id="rateVal"></span>
+        <input id="rate" type="range" min="0.7" max="1.6" step="0.05">
+      </label>
+
+      <label>Text size <span id="fontVal"></span>
+        <input id="font" type="range" min="16" max="36" step="1">
+      </label>
+
+      <label>Topic hint (improves accuracy)
+        <input id="topic" type="text" placeholder="e.g. buying a car, doctor visit, business meeting">
+      </label>
+
+      <label>Special words / names (comma separated)
+        <input id="hotWords" type="text" placeholder="e.g. 张伟, 深圳, MISHU">
+      </label>
+
+      <label class="row"><input id="twoWay" type="checkbox"> Two-way auto: Listen translates both ways (no button to hold)</label>
+      <p id="twoWayHint" class="hint"></p>
+
+      <label class="row"><input id="saveCost" type="checkbox"> Save cost: don't send silence</label>
+
+      <div class="usage">
+        <span>Interpretation usage (this phone)</span>
+        <p id="usageText"></p>
+        <button id="resetUsageBtn" type="button" class="link-btn">Reset counter</button>
+      </div>
+
+      <div class="sheet-actions">
+        <button id="clearBtn" type="button" class="secondary">Clear conversation</button>
+        <button value="close" class="primary">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="app.js" type="module"></script>
+  <script src="tutor.js" type="module"></script>
+</body>
+</html>

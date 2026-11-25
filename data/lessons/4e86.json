@@ -1,0 +1,200 @@
+{
+ "word": "了",
+ "pinyin": "le",
+ "meaning": "marks completed action or new change",
+ "pos": "modal particle",
+ "core": "了 (le) marks that an action has finished, or that a new situation has just come into being. Learners often overuse it for every past action, or forget it when reporting a fresh change.",
+ "collocations": [
+  {
+   "zh": "吃饭了",
+   "pinyin": "chī fàn le",
+   "en": "eat / time to eat"
+  },
+  {
+   "zh": "我到了",
+   "pinyin": "wǒ dào le",
+   "en": "I've arrived"
+  },
+  {
+   "zh": "下雨了",
+   "pinyin": "xià yǔ le",
+   "en": "it's raining now"
+  },
+  {
+   "zh": "走了",
+   "pinyin": "zǒu le",
+   "en": "leave now / already left"
+  },
+  {
+   "zh": "知道了",
+   "pinyin": "zhī dào le",
+   "en": "got it / understood"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "Restaurant · to the waiter",
+   "zh": "我们点好了。",
+   "pinyin": "wǒ men diǎn hǎo le",
+   "en": "We're ready to order.",
+   "register": "neutral",
+   "feeling": "polite, ready",
+   "why": "A diner tells the waiter they have finished choosing dishes. The 了 signals the ordering process is complete and the waiter can take the order.",
+   "tip": "Said with a slight nod to the waiter."
+  },
+  {
+   "situation": "WeChat · to a friend",
+   "zh": "我到地铁站了。",
+   "pinyin": "wǒ dào dì tiě zhàn le",
+   "en": "I've arrived at the subway station.",
+   "register": "casual",
+   "feeling": "informative, calm",
+   "why": "You update a friend who is waiting for you. The 了 marks the new state of having just arrived.",
+   "tip": "Common in WeChat; add 马上来 if you want to say 'coming right up'."
+  },
+  {
+   "situation": "At home · to your roommate",
+   "zh": "我今天吃了火锅。",
+   "pinyin": "wǒ jīn tiān chī le huǒ guō",
+   "en": "I had hot pot today.",
+   "register": "casual",
+   "feeling": "chatty, casual",
+   "why": "You tell a roommate about your day. The 了 after the verb marks the action as completed.",
+   "tip": "Do not add 了 again at the end; one 了 after the verb is enough here."
+  },
+  {
+   "situation": "Office · to your colleague",
+   "zh": "报告我已经写完了。",
+   "pinyin": "bào gào wǒ yǐ jīng xiě wán le",
+   "en": "I've already finished writing the report.",
+   "register": "neutral",
+   "feeling": "reassuring, efficient",
+   "why": "You update a colleague waiting for your report. The 了 marks completion and reassures them.",
+   "tip": "Often paired with 已经 (already)."
+  },
+  {
+   "situation": "Office · to your boss",
+   "zh": "好的，我知道了。",
+   "pinyin": "hǎo de, wǒ zhī dào le",
+   "en": "OK, I've got it.",
+   "register": "polite",
+   "feeling": "respectful, responsive",
+   "why": "You acknowledge an instruction from your boss. The 了 signals you have received and understood the information.",
+   "tip": "Add 马上办 if you want to show you will act immediately."
+  },
+  {
+   "situation": "Family · to your child",
+   "zh": "下雨了，我们回家吧。",
+   "pinyin": "xià yǔ le, wǒ men huí jiā ba",
+   "en": "It's raining now, let's go home.",
+   "register": "casual",
+   "feeling": "caring, urgent",
+   "why": "You notice rain has just started and want your child to go inside. The 了 marks the new weather situation.",
+   "tip": "Rising intention on 下雨了 to draw attention."
+  },
+  {
+   "situation": "Shop · to the shop assistant",
+   "zh": "这件衣服我买了。",
+   "pinyin": "zhè jiàn yī fú wǒ mǎi le",
+   "en": "I'll take this piece of clothing.",
+   "register": "neutral",
+   "feeling": "decisive, firm",
+   "why": "You have decided to buy an item. The  here signals a firm decision and commitment.",
+   "tip": "Said firmly; shop assistants hear this often."
+  },
+  {
+   "situation": "Phone · to a friend",
+   "zh": "我在开会，一会儿打给你。",
+   "pinyin": "wǒ zài kāi huì, yī huì er dǎ gěi nǐ",
+   "en": "I'm in a meeting, I'll call you back later.",
+   "register": "casual",
+   "feeling": "apologetic, rushed",
+   "why": "You explain why you cannot talk now. 了 is not needed here because you are describing an ongoing action, not a completed one.",
+   "tip": "This is a common trap: do not add 了 just because you are busy."
+  },
+  {
+   "situation": "On the street · to a stranger",
+   "zh": "前面的路坏了，要绕路走。",
+   "pinyin": "qián miàn de lù huài le, yào rào lù zǒu",
+   "en": "The road ahead is broken, you need to take a detour.",
+   "register": "polite",
+   "feeling": "helpful, concerned",
+   "why": "You warn a stranger about a road problem. The 了 marks the new bad state of the road.",
+   "tip": "Use 坏了 to say something is broken or out of order."
+  },
+  {
+   "situation": "Formal email · to a client",
+   "zh": "合同我们已经看过了，没有问题。",
+   "pinyin": "hé tóng wǒ men yǐ jīng kàn guò le, méi yǒu wèn tí",
+   "en": "We have already reviewed the contract, no problems.",
+   "register": "formal",
+   "feeling": "professional, reassuring",
+   "why": "You confirm to a client that the contract has been checked. The 了 signals completion and gives the client confidence.",
+   "tip": "Add 请放心 for extra reassurance."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You just got to a coffee shop where your friend is waiting. Tell them you've arrived.",
+   "answer": "我到了。",
+   "accept": [
+    "我到咖啡店了。",
+    "我已经到了。"
+   ],
+   "explain": "了 marks the new state of having just arrived."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "A waiter asks if you're ready to order. Tell them you are ready.",
+   "answer": "我们点好了。",
+   "accept": [
+    "好了，可以点了。",
+    "我们准备好了。"
+   ],
+   "explain": "了 signals the ordering process is complete."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your boss tells you to send a report today. Acknowledge politely that you understand.",
+   "answer": "好的，我知道了。",
+   "accept": [
+    "好的，我明白了。",
+    "收到，我知道了。"
+   ],
+   "explain": "了 shows you have received and understood the instruction."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are on the street and notice it just started raining. Tell your friend it's raining and suggest going home.",
+   "answer": "下雨了，我们回家吧。",
+   "accept": [
+    "下雨了，快回家吧。",
+    "开始下雨了，我们回去吧。"
+   ],
+   "explain": "了 marks the new weather situation that just changed."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：“昨天你做什么了？” 用一句话回答，说你昨天吃了火锅。",
+   "answer": "我昨天吃了火锅。",
+   "accept": [
+    "我昨天去吃火锅了。",
+    "昨天我和朋友吃了火锅。"
+   ],
+   "explain": "了 after the verb marks a completed past action."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你：“报告写完了吗？” 回答说你已经写完了，没有问题。",
+   "answer": "写完了，没有问题。",
+   "accept": [
+    "我已经写完了。",
+    "报告写完了，没问题。"
+   ],
+   "explain": "了 signals the report is finished and reassures the colleague."
+  }
+ ],
+ "level": 1,
+ "v": 1
+}

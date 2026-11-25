@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Plum Blossom Start</title>
+<style>
+:root{--ink:#2b2115;--ink2:#7a6a55;--gold2:#e3b341;--red:#b8322a}
+*{box-sizing:border-box;margin:0}
+body{background:#1c2128;color:#f0f3f6;font-family:-apple-system,"SF Pro Text","PingFang SC","Segoe UI",sans-serif;padding:24px 16px;display:flex;flex-direction:column;align-items:center;gap:16px}
+h1{font-size:20px;font-weight:600}
+.sub{color:#8b96a3;font-size:14px;text-align:center;max-width:900px;line-height:1.5}
+.row{display:flex;gap:30px;flex-wrap:wrap;justify-content:center}
+.label{font-size:14px;font-weight:600;text-align:center;margin-top:12px}
+.label small{display:block;color:#8b96a3;font-weight:400;font-size:12px;margin-top:3px;max-width:330px;line-height:1.45;margin-inline:auto}
+.phone{width:330px;height:700px;border-radius:44px;background:#000;padding:9px;box-shadow:0 30px 60px rgba(0,0,0,.5),inset 0 0 0 2px #333}
+.screen{position:relative;width:100%;height:100%;border-radius:36px;overflow:hidden;color:var(--ink);display:flex;flex-direction:column;
+ background:radial-gradient(90% 50% at 50% 38%,#fffaf0 0%,transparent 70%),linear-gradient(165deg,#f8f2e7 0%,#f0e5d1 55%,#e6d5b9 100%)}
+.status{height:44px;flex:none;display:flex;justify-content:space-between;align-items:flex-end;padding:0 26px 4px;font-size:13px;font-weight:600;position:relative;z-index:3}
+.z{position:relative;z-index:2}
+.av{background:url(../public/tutor-face.jpg) center 20%/cover}
+.tr{background:linear-gradient(145deg,#3b82f6,#1d4fb8);display:grid;place-items:center}
+.tr svg{width:52%;height:52%}
+.ic{width:104px;height:104px;border-radius:50%;position:relative}
+.item{display:flex;flex-direction:column;align-items:center;gap:10px}
+.item b{font-size:18px}
+.item .zh{font-size:13px;color:var(--ink2);margin-top:-6px}
+.pair{display:flex;gap:22px;justify-content:center}
+.foot{text-align:center;color:var(--ink2);font-size:12px;padding-bottom:24px;position:relative;z-index:2}
+.glow{animation:breathe 3.2s ease-in-out infinite}
+@keyframes breathe{50%{transform:scale(1.04)}}
+.ic.av.ring{box-shadow:0 0 0 4px #fffaf0,0 0 0 6px var(--gold2),0 14px 28px #6b4f2a40}
+.ic.tr.ring{box-shadow:0 0 0 4px #fffaf0,0 0 0 6px #3b82f6,0 14px 28px #1d4fb840}
+
+/* falling petals */
+.petal{position:absolute;top:-20px;width:9px;height:7px;border-radius:60% 0 60% 0;background:#e9837a;opacity:.0;z-index:1;animation:fall linear infinite}
+@keyframes fall{0%{transform:translate(0,0) rotate(0);opacity:0}10%{opacity:.85}100%{transform:translate(-60px,720px) rotate(540deg);opacity:0}}
+
+/* ---------- 1: base (current) ---------- */
+.s1 .plum{position:absolute;top:-14px;right:-34px;width:170px;height:150px;z-index:1}
+.s1 .plum2{position:absolute;bottom:40px;left:-10px;width:140px;height:120px;z-index:1;opacity:.6;transform:scaleX(-1) rotate(180deg)}
+.s1 .top{margin:96px 0 0 28px}
+.hi{font-size:14px;color:var(--ink2)}
+.s1 h2{font-size:28px;line-height:1.15;margin-top:6px;font-weight:800}
+.s1 h2 span{color:var(--red)}
+.s1 .mid{flex:1;display:flex;align-items:center;justify-content:center}
+
+/* ---------- 2: ink & seal ---------- */
+.s2 .plum{position:absolute;top:40px;left:-34px;width:230px;height:180px;z-index:1;transform:scaleX(-1)}
+.s2 .top{margin:150px 26px 0;text-align:right}
+.s2 .brand{display:inline-flex;align-items:center;gap:10px}
+.seal{display:inline-grid;place-items:center;width:40px;height:40px;border-radius:8px;background:var(--red);color:#fff6e8;font-size:21px;font-weight:700;box-shadow:inset 0 0 0 2px #fff6e855;transform:rotate(-4deg);font-family:"STKaiti","KaiTi","PingFang SC",serif}
+.s2 .brand b{font-size:15px;letter-spacing:.14em;color:var(--ink2);font-weight:600}
+.s2 h2{font-size:30px;line-height:1.15;margin-top:14px;font-weight:800}
+.s2 h2 span{color:var(--red)}
+.s2 .hiz{font-family:"STKaiti","KaiTi","PingFang SC",serif;font-size:17px;color:var(--ink2);margin-top:8px}
+.s2 .mid{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0}
+.brush{width:250px;height:34px;margin-top:-6px;opacity:.85}
+.s2 .ic{width:112px;height:112px}
+
+/* ---------- 3: moon window ---------- */
+.s3 .top{margin-top:58px;text-align:center}
+.s3 .hi{font-size:15px}
+.s3 h2{font-size:26px;line-height:1.2;margin-top:6px;font-weight:800}
+.s3 h2 span{color:var(--red)}
+.s3 .mid{flex:1;display:flex;align-items:center;justify-content:center;position:relative}
+.moon{position:absolute;width:276px;height:276px;border-radius:50%;left:50%;top:50%;transform:translate(-50%,-52%);
+ background:radial-gradient(circle at 50% 45%,#fffdf6 0%,#fbf3e3 60%,#f3e6cd 100%);
+ box-shadow:inset 0 0 0 10px #f6ead4,inset 0 0 0 12px #c8962e55,0 20px 50px #6b4f2a22;z-index:1}
+.s3 .plum{position:absolute;width:150px;height:130px;right:-26px;top:50%;transform:translateY(-178%);z-index:2}
+.s3 .pair{position:relative;z-index:3;gap:24px;margin-top:10px}
+.s3 .ic{width:100px;height:100px}
+.s3 .foot span{display:inline-block;margin:0 6px;color:#c8962e}
+
+.note{max-width:900px;font-size:14px;color:#c9d1d9;line-height:1.6;background:#161b22;border:1px solid #30363d;border-radius:14px;padding:14px 20px}
+.note li{margin-left:18px}
+</style></head><body>
+<h1>Start screen: plum blossom designs</h1>
+<p class="sub">#1 is your current choice. #2 and #3 are new designs built on it: same warm paper, plum blossom, two round icons, and only the Chinese name under each icon.</p>
+
+<svg width="0" height="0" style="position:absolute"><defs>
+<symbol id="tr" viewBox="0 0 48 48"><g fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 10h18M15 6v4M20 10c-1.5 7-6 12-12 15M10 15c2 4 5.5 7 10 9"/><path d="M24 42l8-19 8 19M27 35h10"/></g></symbol>
+<symbol id="plum" viewBox="0 0 190 170"><g fill="none" stroke="#4a3624" stroke-linecap="round"><path d="M190 18 C150 30 120 52 96 86 C80 108 62 122 30 134" stroke-width="5"/><path d="M128 48 C120 30 122 16 132 4" stroke-width="3"/><path d="M96 86 C104 106 102 126 92 146" stroke-width="3"/><path d="M60 120 C52 108 50 96 54 84" stroke-width="2.5"/></g>
+<g fill="#d9573f"><circle cx="132" cy="10" r="7"/><circle cx="124" cy="36" r="8"/><circle cx="160" cy="26" r="7"/><circle cx="104" cy="76" r="8"/><circle cx="98" cy="118" r="7"/><circle cx="56" cy="92" r="7"/><circle cx="36" cy="128" r="6"/><circle cx="76" cy="112" r="5"/></g>
+<g fill="#f6c1b4"><circle cx="146" cy="44" r="5"/><circle cx="88" cy="140" r="5"/><circle cx="114" cy="96" r="4"/></g>
+<g fill="#f3d27a"><circle cx="124" cy="36" r="2.2"/><circle cx="104" cy="76" r="2.2"/><circle cx="160" cy="26" r="2"/><circle cx="56" cy="92" r="2"/></g></symbol>
+</defs></svg>
+
+<div class="row">
+ <!-- 1 base -->
+ <div><div class="phone"><div class="screen s1">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="plum"><use href="#plum"/></svg>
+  <div class="top z"><p class="hi">你好 👋</p><h2>Talk or learn<br><span>Chinese</span> today?</h2></div>
+  <div class="mid z"><div class="pair">
+   <div class="item"><div class="ic tr ring glow"><svg><use href="#tr"/></svg></div><b>Translate</b><span class="zh">翻译</span></div>
+   <div class="item"><div class="ic av ring glow" style="animation-delay:1.6s"></div><b>Tutor</b><span class="zh">学习</span></div>
+  </div></div>
+  <svg class="plum2"><use href="#plum"/></svg>
+  <div class="foot">MISHU Translator</div>
+ </div></div><div class="label">1 · Current (base)<small>Your chosen design, unchanged.</small></div></div>
+
+ <!-- 2 ink & seal -->
+ <div><div class="phone"><div class="screen s2">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="plum"><use href="#plum"/></svg>
+  <i class="petal" style="left:60px;animation-duration:9s;animation-delay:0s"></i>
+  <i class="petal" style="left:150px;animation-duration:11s;animation-delay:3s"></i>
+  <i class="petal" style="left:240px;animation-duration:10s;animation-delay:6s"></i>
+  <div class="top z">
+   <span class="brand"><b>MISHU</b><span class="seal">译</span></span>
+   <h2>Talk or learn<br><span>Chinese</span> today?</h2>
+   <p class="hiz">你好，今天说还是学？</p>
+  </div>
+  <div class="mid z">
+   <div class="pair">
+    <div class="item"><div class="ic tr ring glow"><svg><use href="#tr"/></svg></div><b>Translate</b><span class="zh">翻译</span></div>
+    <div class="item"><div class="ic av ring glow" style="animation-delay:1.6s"></div><b>Tutor</b><span class="zh">学习</span></div>
+   </div>
+   <svg class="brush" viewBox="0 0 250 34"><path d="M6 22 C60 8 120 6 170 14 C200 19 224 22 244 16" fill="none" stroke="#2b2115" stroke-width="5" stroke-linecap="round" opacity=".18"/><path d="M20 26 C80 16 150 16 230 22" fill="none" stroke="#b8322a" stroke-width="2" stroke-linecap="round" opacity=".35"/></svg>
+  </div>
+  <div class="foot">Tap to start</div>
+ </div></div><div class="label">2 · Ink &amp; seal<small>A big plum branch across the top left, a red 译 seal with the MISHU name, a Chinese line under the heading, an ink brush stroke under the icons and a few petals slowly falling.</small></div></div>
+
+ <!-- 3 moon window -->
+ <div><div class="phone"><div class="screen s3">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <i class="petal" style="left:90px;animation-duration:10s;animation-delay:1s"></i>
+  <i class="petal" style="left:220px;animation-duration:12s;animation-delay:5s"></i>
+  <div class="top z"><p class="hi">你好 👋</p><h2>Talk or learn<br><span>Chinese</span> today?</h2></div>
+  <div class="mid">
+   <div class="moon"></div>
+   <svg class="plum"><use href="#plum"/></svg>
+   <div class="pair">
+    <div class="item"><div class="ic tr ring glow"><svg><use href="#tr"/></svg></div><b>Translate</b><span class="zh">翻译</span></div>
+    <div class="item"><div class="ic av ring glow" style="animation-delay:1.6s"></div><b>Tutor</b><span class="zh">学习</span></div>
+   </div>
+  </div>
+  <div class="foot">MISHU <span>·</span> Translator</div>
+ </div></div><div class="label">3 · Moon window<small>The icons sit inside a big round "moon window" (a classic Chinese garden window) with a plum branch crossing it. Centered heading and falling petals.</small></div></div>
+</div>
+
+<div class="note"><ul>
+<li>All three: warm paper, plum blossom, round icons (blue translate / your avatar), only <b>翻译</b> and <b>学习</b> under them.</li>
+<li>#2 and #3 have a few petals that fall slowly. They can be switched off if you prefer it still.</li>
+</ul></div>
+</body></html>

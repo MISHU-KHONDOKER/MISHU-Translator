@@ -1,0 +1,194 @@
+{
+ "word": "在",
+ "pinyin": "zài",
+ "meaning": "to be located at a place",
+ "pos": "verb",
+ "core": "在 tells where someone or something is located, and is the core word for building location sentences. Learners often incorrectly add 'to be' or 'is' as an extra separate verb, but 在 itself functions as the 'be located' verb in Mandarin.",
+ "collocations": [
+  {
+   "zh": "在这儿",
+   "pinyin": "zài zhèr",
+   "en": "to be right here"
+  },
+  {
+   "zh": "在那里",
+   "pinyin": "zài nàlǐ",
+   "en": "to be over there"
+  },
+  {
+   "zh": "在家里",
+   "pinyin": "zài jiālǐ",
+   "en": "to be at home"
+  },
+  {
+   "zh": "在公司",
+   "pinyin": "zài gōngsī",
+   "en": "to be at the office"
+  },
+  {
+   "zh": "在学校",
+   "pinyin": "zài xuéxiào",
+   "en": "to be at school"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "With a friend · answering a text",
+   "zh": "我在家。",
+   "pinyin": "wǒ zài jiā.",
+   "en": "I'm at home.",
+   "register": "casual",
+   "feeling": "plain, straightforward",
+   "why": "A friend sends a quick WeChat asking where you are, and you reply with this short, natural line. 在家 directly means 'am at home', no extra verb needed.",
+   "tip": "You can say 我在家呢 to sound softer and more conversational."
+  },
+  {
+   "situation": "At a café · to a barista",
+   "zh": "卫生间在哪儿？",
+   "pinyin": "wèishēngjiān zài nǎr?",
+   "en": "Where is the restroom?",
+   "register": "polite",
+   "feeling": "polite, neutral",
+   "why": "You are a customer in a café asking staff for directions. This is the standard natural way to ask for a location in Chinese.",
+   "tip": "Add 请问 at the start: 请问卫生间在哪儿？ to be more polite."
+  },
+  {
+   "situation": "At a shop · to a cashier",
+   "zh": "洗手间在那边。",
+   "pinyin": "xǐshǒujiān zài nàbiān.",
+   "en": "The restroom is over there.",
+   "register": "neutral",
+   "feeling": "helpful, casual",
+   "why": "A customer asks you where the restroom is, and you point and give them a quick, helpful direction.",
+   "tip": "Say 那边 with a hand gesture to point the way clearly."
+  },
+  {
+   "situation": "With a friend · meeting up",
+   "zh": "你现在在哪儿？",
+   "pinyin": "nǐ xiànzài zài nǎr?",
+   "en": "Where are you right now?",
+   "register": "casual",
+   "feeling": "casual, slightly expectant",
+   "why": "You and a friend are supposed to meet, and you text or call to check their location before heading out.",
+   "tip": "Add 呢 at the end: 你现在在哪儿呢？ sounds more natural in spoken Chinese."
+  },
+  {
+   "situation": "At work · to your colleague",
+   "zh": "老板在办公室。",
+   "pinyin": "lǎobǎn zài bàngōngshì.",
+   "en": "The boss is in the office.",
+   "register": "neutral",
+   "feeling": "plain, informative",
+   "why": "A coworker asks you if the boss is around, and you give them a quick factual answer.",
+   "tip": "If the boss is not there, say 老板不在办公室."
+  },
+  {
+   "situation": "With your family · on the phone",
+   "zh": "妈妈在超市。",
+   "pinyin": "māma zài chāoshì.",
+   "en": "Mom is at the supermarket.",
+   "register": "casual",
+   "feeling": "plain, explanatory",
+   "why": "Your sibling calls asking where Mom is, and you answer based on what you know.",
+   "tip": "Add 呢 to sound warmer: 妈妈在超市呢."
+  },
+  {
+   "situation": "At a restaurant · ordering",
+   "zh": "我的朋友在餐厅。",
+   "pinyin": "wǒ de péngyǒu zài cāntīng.",
+   "en": "My friend is at the restaurant.",
+   "register": "neutral",
+   "feeling": "straightforward",
+   "why": "You tell the host that the person you are meeting is already inside the restaurant waiting.",
+   "tip": "If you are meeting inside, you can also say 朋友在里面."
+  },
+  {
+   "situation": "At work · to a visiting client",
+   "zh": "会议室在三楼。",
+   "pinyin": "huìyìshì zài sānlóu.",
+   "en": "The meeting room is on the third floor.",
+   "register": "polite",
+   "feeling": "respectful, helpful",
+   "why": "You are guiding a visiting client to their meeting, and give them clear direction as a polite host.",
+   "tip": "Add 请这边走 after this to guide the client smoothly."
+  },
+  {
+   "situation": "With a close friend · complaining",
+   "zh": "我每天都在公司。",
+   "pinyin": "wǒ měitiān dōu zài gōngsī.",
+   "en": "I'm at the office every single day.",
+   "register": "casual",
+   "feeling": "tired, slightly frustrated",
+   "why": "You are venting to a friend about how busy your work life is, with almost no time away from the office.",
+   "tip": "Stress the word 每天 when speaking to show how tired you feel."
+  },
+  {
+   "situation": "Formal notice · written sign",
+   "zh": "本店在春节期间休息。",
+   "pinyin": "běn diàn zài chūnjié qījiān xiūxí.",
+   "en": "Our shop will be closed during the Spring Festival.",
+   "register": "formal",
+   "feeling": "official, clear",
+   "why": "This is a formal written notice posted on a shop door to inform all customers of holiday closure.",
+   "tip": "This is written formal language, do not use it in casual daily speech."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "Your friend texts you asking where you are right now. Reply naturally that you are at home.",
+   "answer": "我在家。",
+   "accept": [
+    "我在家呢。",
+    "我现在在家。"
+   ],
+   "explain": "在在家 directly means 'am at home' and is the standard short reply for a friend's casual question."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are a customer in a shop, politely ask the staff where the restroom is.",
+   "answer": "请问卫生间在哪儿？",
+   "accept": [
+    "洗手间在哪儿？",
+    "请问洗手间在哪里？"
+   ],
+   "explain": "在 is the core verb for asking locations, and adding 请问 makes the request polite as a customer."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "A coworker asks you if the boss is in the office. Tell them the boss is in the office.",
+   "answer": "老板在办公室。",
+   "accept": [],
+   "explain": "在办公室 directly means 'is in the office', a natural factual answer for a work conversation."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "A lost tourist asks you where the meeting room is. Tell them politely that the meeting room is on the third floor.",
+   "answer": "会议室在三楼。",
+   "accept": [],
+   "explain": "在三楼 uses 在 to state the location of the room, which is the natural way to give directions to a visitor."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：你现在在哪儿？",
+   "answer": "我在家呢。",
+   "accept": [
+    "我在公司。",
+    "我现在在学校。"
+   ],
+   "explain": "You answer the location question with 在 plus your current place, using 呢 to sound natural in spoken Chinese."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你：老板在办公室吗？",
+   "answer": "对，老板在办公室。",
+   "accept": [
+    "老板在办公室呢。",
+    "是的，老板在办公室。"
+   ],
+   "explain": "You confirm the boss's location with 在办公室, which is the natural direct answer to a yes/no location question."
+  }
+ ],
+ "level": 1,
+ "v": 1
+}

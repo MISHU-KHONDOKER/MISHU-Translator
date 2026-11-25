@@ -1,0 +1,197 @@
+{
+ "word": "是",
+ "pinyin": "shì",
+ "meaning": "to be; yes, that's right",
+ "pos": "verb",
+ "core": "是 is the most common linking verb in Mandarin, equivalent to 'to be' in English. Learners often overuse the English pattern 'I am eating' by adding 是 before action verbs, but Mandarin never uses 是 for present continuous actions — it only links two nouns or noun phrases.",
+ "collocations": [
+  {
+   "zh": "我是学生",
+   "pinyin": "wǒ shì xuéshēng",
+   "en": "I am a student."
+  },
+  {
+   "zh": "是中国人",
+   "pinyin": "shì Zhōngguó rén",
+   "en": "I am Chinese."
+  },
+  {
+   "zh": "是不是",
+   "pinyin": "shì bú shì",
+   "en": "is it or isn't it?"
+  },
+  {
+   "zh": "是的",
+   "pinyin": "shì de",
+   "en": "yes, that's right."
+  },
+  {
+   "zh": "不是",
+   "pinyin": "bú shì",
+   "en": "no, it isn't."
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "With a new classmate · introducing yourself",
+   "zh": "你好，我是马克，是美国人。",
+   "pinyin": "nǐ hǎo, wǒ shì Mǎkè, shì Měiguó rén.",
+   "en": "Hi, I'm Mark, I'm American.",
+   "register": "casual",
+   "feeling": "friendly, open",
+   "why": "This is the most basic use of 是 to link your name and nationality, the first thing you say when meeting someone new in China.",
+   "tip": "Do not add 是 before an action verb — never say 我是吃饭, just say 我吃饭."
+  },
+  {
+   "situation": "At a coffee shop · confirming your order",
+   "zh": "是的，我要的是冰美式。",
+   "pinyin": "shì de, wǒ yào de shì bīng měishì.",
+   "en": "Yes, that's right, I ordered an iced Americano.",
+   "register": "neutral",
+   "feeling": "polite, clear",
+   "why": "You use 是的 to confirm the barista's question, then emphasize exactly which drink you ordered with 是.",
+   "tip": "是的 is softer and more natural than just saying 是 alone when confirming something."
+  },
+  {
+   "situation": "WeChat message to your roommate · correcting a misunderstanding",
+   "zh": "不是，今天晚上我不回家吃饭。",
+   "pinyin": "bú shì, jīntiān wǎnshang wǒ bù huí jiā chīfàn.",
+   "en": "No, I'm not coming home for dinner tonight.",
+   "register": "casual",
+   "feeling": "casual, apologetic",
+   "why": "You start with 不是 to gently correct your roommate's assumption, then explain your plan.",
+   "tip": "The tone of 不是 changes: with family it's casual, with strangers it can sound blunt."
+  },
+  {
+   "situation": "At the office · answering your manager's question about a report",
+   "zh": "张总，这个报告是我昨天写完的。",
+   "pinyin": "Zhāng zǒng, zhège bàogào shì wǒ zuótiān xiě wán de.",
+   "en": "Manager Zhang, I finished this report yesterday.",
+   "register": "polite",
+   "feeling": "respectful, clear",
+   "why": "You use the 是...的 structure to emphasize who completed the report and when, showing you are responsible for your work.",
+   "tip": "In the 是...的 structure, 是 usually comes right before the word you want to emphasize."
+  },
+  {
+   "situation": "Talking to your teammate · asking if they are busy",
+   "zh": "你现在忙不忙？是不是要去开会？",
+   "pinyin": "nǐ xiànzài máng bu máng? shì bú shì yào qù kāihuì?",
+   "en": "Are you busy right now? Are you about to go to a meeting?",
+   "register": "neutral",
+   "feeling": "curious, friendly",
+   "why": "You use 是不是 to make a soft guess about your teammate's plan, rather than asking a direct yes/no question.",
+   "tip": "是不是 at the end of a sentence is even more casual: 你要去开会，是不是？"
+  },
+  {
+   "situation": "Talking to your friend · comforting them after a small failure",
+   "zh": "没事的，这次是我不好，不怪你。",
+   "pinyin": "méishì de, zhè cì shì wǒ bù hǎo, bú guài nǐ.",
+   "en": "It's okay, this time it's my fault, not yours.",
+   "register": "casual",
+   "feeling": "warm, sincere",
+   "why": "You use 是 to take responsibility for the mistake, to comfort your friend and reduce their stress.",
+   "tip": "Saying 是我不好 sounds much more sincere than just saying sorry."
+  },
+  {
+   "situation": "Talking to your colleague · teasing them about being late",
+   "zh": "哈哈，你是不是又睡过头了？",
+   "pinyin": "hāhā, nǐ shì bú shì yòu shuì tóu le?",
+   "en": "Haha, did you oversleep again?",
+   "register": "casual",
+   "feeling": "teasing, playful",
+   "why": "You use 是不是 to make a light guess about why your colleague is late, creating a friendly, joking atmosphere.",
+   "tip": "With close friends, you can drag out the 是 sound to sound more playful."
+  },
+  {
+   "situation": "Talking to your landlord · politely requesting a repair",
+   "zh": "王阿姨，我家的灯是坏了，能帮我修一下吗？",
+   "pinyin": "Wáng āyí, wǒ jiā de dēng shì huài le, néng bāng wǒ xiū yí xià ma?",
+   "en": "Aunt Wang, the light in my apartment is broken, could you help me fix it?",
+   "register": "polite",
+   "feeling": "respectful, polite",
+   "why": "You use 是坏了 to clearly state the problem, then make a polite request with 能...吗, which is the standard way to ask for help from a landlord.",
+   "tip": "Do not say 灯坏了 without 是, it can sound a bit too direct to a landlord."
+  },
+  {
+   "situation": "Talking to your friend · refusing their invitation to a party",
+   "zh": "真不好意思，明天我是真的要加班。",
+   "pinyin": "zhēn bù hǎoyìsi, míngtiān wǒ shì zhēn de yào jiābān.",
+   "en": "I'm so sorry, I really have to work overtime tomorrow.",
+   "register": "neutral",
+   "feeling": "apologetic, sincere",
+   "why": "You add 真的 before the verb, with 是 to emphasize that you are not making an excuse, to politely refuse the invitation without hurting your friend's feelings.",
+   "tip": "If you just say 我要加班, it can sound like a cold refusal; adding 是真的 makes it much more sincere."
+  },
+  {
+   "situation": "Formal work email · stating the purpose of a meeting",
+   "zh": "本次会议的目的是讨论新的项目计划。",
+   "pinyin": "běn cì huìyì de mùdì shì tǎolùn xīn de xiàngmù jìhuà.",
+   "en": "The purpose of this meeting is to discuss the new project plan.",
+   "register": "formal",
+   "feeling": "professional, serious",
+   "why": "This is the standard formal use of 是 in written work documents, linking the purpose of the meeting to the action of discussing the plan.",
+   "tip": "In formal writing, 是 is often used to introduce the core content of a document or meeting."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "A new classmate asks you where you are from. Tell them you are Canadian, using 是.",
+   "answer": "你好，我是加拿大人。",
+   "accept": [
+    "你好，我来自加拿大，是加拿大人。",
+    "你好，我是从加拿大来的。"
+   ],
+   "explain": "The most basic use of 是 to link your nationality, the standard way to introduce yourself to a new acquaintance."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "The barista asks if you ordered a hot latte. Confirm that you did, using 是.",
+   "answer": "是的，我要的是热拿铁。",
+   "accept": [
+    "对，是热拿铁。",
+    "是的，我点的是热拿铁。"
+   ],
+   "explain": "是的 is the natural polite way to confirm an order, followed by 是 to specify what you ordered."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your manager asks if you finished the weekly report. Politely confirm that you finished it yesterday, using 是.",
+   "answer": "是的，这个报告是我昨天写完的。",
+   "accept": [],
+   "explain": "The 是...的 structure is used to emphasize when you completed the task, which is the standard polite response to a manager's question about work."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your friend invites you to go hiking this weekend. Politely refuse, saying you really have to help your parents at home, using 是.",
+   "answer": "真不好意思，这周末我是真的要帮我爸妈，不去了。",
+   "accept": [
+    "抱歉，这周末我是要帮家里忙，去不了。",
+    "真不好意思，我这周末是得帮我爸妈，下次吧。"
+   ],
+   "explain": "Adding 是真的 before the reason emphasizes sincerity, making the refusal sound polite rather than cold."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的中国朋友问你：“你是不是每天都八点起床？” 请自然回答，用 是。",
+   "answer": "是的，我每天都是八点起床。",
+   "accept": [
+    "对，我每天都是八点起。",
+    "不是，我每天是七点起床。"
+   ],
+   "explain": "You answer the 是不是 question directly with 是, then add 都 to describe a regular habit, which is the natural way to respond to a daily routine question."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的房东问你：“家里的空调是坏了吗？” 请礼貌回答，说空调是坏了，麻烦他帮忙修一下，用 是。",
+   "answer": "是的，空调是坏了，麻烦您帮我修一下可以吗？",
+   "accept": [
+    "对，空调是不制冷了，能麻烦您帮忙看看吗？",
+    "是的，空调坏了，麻烦您了。"
+   ],
+   "explain": "You first confirm the problem with 是, then make a polite request with 麻烦您, which is the standard way to communicate with a landlord."
+  }
+ ],
+ "level": 1,
+ "v": 1
+}

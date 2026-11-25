@@ -1,0 +1,188 @@
+{
+ "word": "我",
+ "pinyin": "wǒ",
+ "meaning": "first person singular: I, me, my",
+ "pos": "pronoun",
+ "core": "我 is the basic first-person pronoun for speakers to refer to themselves, used in every context from casual chats to formal writing. A common learner mistake is adding a possessive 的 after 我 when it sounds unnatural in fixed daily phrases, or overusing 我 repeatedly when context already makes the speaker obvious.",
+ "collocations": [
+  {
+   "zh": "我是",
+   "pinyin": "wǒ shì",
+   "en": "I am..."
+  },
+  {
+   "zh": "我的",
+   "pinyin": "wǒ de",
+   "en": "my / mine"
+  },
+  {
+   "zh": "我们",
+   "pinyin": "wǒmen",
+   "en": "we / us"
+  },
+  {
+   "zh": "给我",
+   "pinyin": "gěi wǒ",
+   "en": "give me"
+  },
+  {
+   "zh": "我想",
+   "pinyin": "wǒ xiǎng",
+   "en": "I think / I want"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At a new neighbor's door, first introduction",
+   "zh": "你好，我是住隔壁的。",
+   "pinyin": "nǐ hǎo, wǒ shì zhù gébì de.",
+   "en": "Hi, I live right next door.",
+   "register": "casual",
+   "feeling": "friendly, warm",
+   "why": "You greet a new neighbor you just met, introducing yourself simply to start a friendly first conversation.",
+   "tip": "You can skip repeating your full name; just saying you live next door is natural for a casual neighborly chat."
+  },
+  {
+   "situation": "At a small neighborhood restaurant, ordering from the waiter",
+   "zh": "我要一碗牛肉面，谢谢。",
+   "pinyin": "wǒ yào yī wǎn niúròu miàn, xièxie.",
+   "en": "I'll have one bowl of beef noodles, thanks.",
+   "register": "neutral",
+   "feeling": "polite, straightforward",
+   "why": "You are ordering food from a restaurant server, stating your order clearly as a standard customer request.",
+   "tip": "Adding 谢谢 at the end is expected even for quick orders, it is not overly formal."
+  },
+  {
+   "situation": "On a WeChat voice message to your close roommate",
+   "zh": "我今天晚点儿回家。",
+   "pinyin": "wǒ jīntiān wǎnr diǎn huí jiā.",
+   "en": "I'll be coming home a bit later today.",
+   "register": "casual",
+   "feeling": "relaxed, matter-of-fact",
+   "why": "You text your roommate to update them on your schedule, no need for formal pleasantries since you live together.",
+   "tip": "You can shorten this to 我晚点回 if you're typing fast to a very close friend."
+  },
+  {
+   "situation": "In a team work meeting, reporting progress to your manager",
+   "zh": "我这周可以完成这个项目。",
+   "pinyin": "wǒ zhè zhōu kěyǐ wánchéng zhège xiàngmù.",
+   "en": "I can finish this project this week.",
+   "register": "neutral",
+   "feeling": "confident, responsible",
+   "why": "You are telling your manager you are on track for your work task, taking clear ownership of your responsibility.",
+   "tip": "Avoid sounding too boastful; a steady, calm tone is more appropriate in a work setting."
+  },
+  {
+   "situation": "At a small shop, politely asking the shop assistant for help",
+   "zh": "请问，我可以试一下这件衣服吗？",
+   "pinyin": "qǐngwèn, wǒ kěyǐ shì yīxià zhè jiàn yīfu ma?",
+   "en": "Excuse me, can I try on this piece of clothing?",
+   "register": "polite",
+   "feeling": "respectful, mild",
+   "why": "You are making a polite request to store staff, starting with 请问 to show you are not being demanding.",
+   "tip": "Never skip 请问 when speaking to service staff you do not know, it makes the request feel much more polite."
+  },
+  {
+   "situation": "Texting a close friend to politely decline their dinner invite",
+   "zh": "不好意思，我今晚有事，下次吧。",
+   "pinyin": "bù hǎoyìsi, wǒ jīnwǎn yǒu shì, xià cì ba.",
+   "en": "Sorry, I have plans tonight, let's do it next time.",
+   "register": "casual",
+   "feeling": "apologetic, gentle",
+   "why": "You are turning down a friend's invitation without being rude, softening the refusal with 不好意思.",
+   "tip": "The final 语气 word 吧 makes the 'next time' feel like a real promise, not a cold brush-off."
+  },
+  {
+   "situation": "Talking to your colleague right after a project goes wrong",
+   "zh": "这次出错是我的问题。",
+   "pinyin": "zhè cì chū cuò shì wǒ de wèntí.",
+   "en": "This mistake is my fault.",
+   "register": "neutral",
+   "feeling": "accountable, sincere",
+   "why": "You are taking public responsibility for an error at work, instead of shifting blame to other team members.",
+   "tip": "Do not over-apologize; taking clear ownership is more respected in most Chinese workplaces than groveling."
+  },
+  {
+   "situation": "Chatting with your little cousin who just failed a test",
+   "zh": "没关系，我以前也考砸过。",
+   "pinyin": "méi guānxi, wǒ yǐqián yě kǎo zá guò.",
+   "en": "It's okay, I failed tests too when I was your age.",
+   "register": "casual",
+   "feeling": "comforting, empathetic",
+   "why": "You are reassuring a younger family member who feels upset, sharing your own similar experience to make them feel less alone.",
+   "tip": "Saying 考砸过 is much warmer and more natural than the stiff textbook phrase '考试不及格' when talking to kids."
+  },
+  {
+   "situation": "At a family dinner table, teasing your younger sibling",
+   "zh": "我就知道你又偷吃糖了！",
+   "pinyin": "wǒ jiù zhīdào nǐ yòu tōu chī táng le!",
+   "en": "I knew you were sneaking candy again!",
+   "register": "casual",
+   "feeling": "teasing, playful",
+   "why": "You caught your sibling taking candy they weren't supposed to eat, and you're gently teasing them, not actually angry.",
+   "tip": "The particle 了 at the end makes this sound like a playful 'gotcha', not a serious scolding."
+  },
+  {
+   "situation": "Speaking at a formal company all-hands meeting",
+   "zh": "我代表公司，感谢大家的付出。",
+   "pinyin": "wǒ dàibiǎo gōngsī, gǎnxiè dàjiā de fùchū.",
+   "en": "On behalf of the company, I thank everyone for their hard work.",
+   "register": "formal",
+   "feeling": "respectful, solemn",
+   "why": "As a company leader, you are making an official speech to all staff, using formal wording to show respect for employees' effort.",
+   "tip": "This phrasing is only for formal official occasions; never use this stiff wording in casual daily chats."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "A new classmate comes up to you and says hello. Tell them your name and that you are their new classmate.",
+   "answer": "你好，我是你的新同学李明。",
+   "accept": [
+    "你好，我叫王芳，是新来的同学。",
+    "你好，我是新来的同学，叫我小张就好。"
+   ],
+   "explain": "Starting with 你好 then introducing yourself with 我是 is the standard, natural way to greet a new peer."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are at a coffee shop. Tell the barista you want a cup of hot coffee, then say thanks.",
+   "answer": "我要一杯热咖啡，谢谢。",
+   "accept": [
+    "麻烦给我一杯热咖啡，谢谢。",
+    "请给我一杯热咖啡，谢谢。"
+   ],
+   "explain": "Using 我要 to state your order, followed by 谢谢, is the standard polite way to order drinks in a Chinese cafe."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your manager asks if you can finish the report by tomorrow. Politely say you need two more days, and apologize.",
+   "answer": "不好意思，我可能还需要两天时间。",
+   "accept": [],
+   "explain": "Softening the delay with 不好意思 and clearly stating your need with 我 sounds honest and respectful, not dismissive."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your close friend invites you to go hiking this weekend. Politely decline, say you are very tired, and suggest meeting next weekend instead.",
+   "answer": "我这周末太累了，下次咱们再一起去好吗？",
+   "accept": [],
+   "explain": "Using 我 to state your reason for declining, plus a soft suggestion for next time, keeps the refusal friendly rather than rude."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：“你平时周末喜欢做什么？” 请用中文自然回答。",
+   "answer": "我一般周末喜欢在家看看书，偶尔和朋友出去吃饭。",
+   "accept": [],
+   "explain": "Starting your answer with 我 to state your personal habits is the most natural, direct way to respond to this casual personal question."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你在商场买衣服，店员问你：“请问您需要什么帮助吗？” 请自然回答。",
+   "answer": "我先自己看看，有需要再叫您，谢谢。",
+   "accept": [],
+   "explain": "This polite response tells staff you do not need immediate help, while staying respectful by adding 谢谢 at the end."
+  }
+ ],
+ "level": 1,
+ "v": 1
+}

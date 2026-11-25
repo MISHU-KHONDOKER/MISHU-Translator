@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MISHU Setup</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; padding: 20px 16px 40px; background: #0d1117; color: #f0f3f6; font: 17px/1.5 -apple-system, sans-serif; }
+    h1 { font-size: 24px; margin: 0 0 12px; }
+    ol { padding-left: 22px; }
+    li { margin-bottom: 14px; }
+    a.btn { display: block; text-align: center; background: #2f81f7; color: #fff; text-decoration: none; padding: 14px; border-radius: 14px; font-weight: 600; margin: 8px 0; }
+    code, b { color: #e3b341; }
+    .note { color: #8b96a3; font-size: 15px; }
+  </style>
+</head>
+<body>
+  <h1>MISHU Translator: iPhone setup</h1>
+  <p class="note">One-time setup. iPhone needs HTTPS before a web page can use the microphone, so first it must trust your PC's certificate.</p>
+  <ol>
+    <li>Open this page in <b>Safari</b> (not Chrome or WeChat).</li>
+    <li><a class="btn" href="/ca.crt">1. Download certificate</a> Tap <b>Allow</b> when it asks to download a configuration profile.</li>
+    <li>Open <b>Settings</b> → <b>Profile Downloaded</b> (near the top) → <b>Install</b> → enter passcode → <b>Install</b>.</li>
+    <li>Open <b>Settings → General → About → Certificate Trust Settings</b> and switch on <b>MISHU Translator Local CA</b>.</li>
+    <li><a class="btn" href="{{APP_URL}}">2. Open the translator</a></li>
+    <li>In Safari tap the <b>Share</b> button → <b>Add to Home Screen</b>. Then open it from the Home Screen like an app.</li>
+  </ol>
+  <p class="note">Your iPhone and this PC must be on the same Wi-Fi.</p>
+</body>
+</html>

@@ -1,0 +1,210 @@
+{
+ "word": "无",
+ "pinyin": "wú",
+ "meaning": "without, lacking, none",
+ "pos": "verb",
+ "core": "无 is a formal, literary way to say 'have no / without', used in fixed common phrases rather than casual daily speech. Learners often overuse it in informal conversation, where 没有 sounds far more natural.",
+ "collocations": [
+  {
+   "zh": "无论",
+   "pinyin": "wúlùn",
+   "en": "no matter, regardless of"
+  },
+  {
+   "zh": "无聊",
+   "pinyin": "wúliáo",
+   "en": "boring, bored"
+  },
+  {
+   "zh": "无关",
+   "pinyin": "wúguān",
+   "en": "unrelated, irrelevant"
+  },
+  {
+   "zh": "无所谓",
+   "pinyin": "wúsuǒwèi",
+   "en": "doesn't matter, whatever"
+  },
+  {
+   "zh": "无条件",
+   "pinyin": "wútiáojiàn",
+   "en": "unconditional"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At home · talking to your roommate",
+   "zh": "周末没什么事做，好无聊。",
+   "pinyin": "zhōumò méi shénme shì zuò, hǎo wúliáo.",
+   "en": "There's nothing to do on the weekend, it's so boring.",
+   "register": "casual",
+   "feeling": "listless, slightly complaining",
+   "why": "You say this to someone you live with when you have no plans and feel unoccupied. 无聊 is the most common everyday use of 无 in casual speech.",
+   "tip": "Don't say 我无liáo in formal settings; use 没有意思 for a softer, more neutral tone."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · talking to a colleague",
+   "zh": "这个项目跟我无关，我不参加。",
+   "pinyin": "zhège xiàngmù gēn wúguān, wǒ bù cānjiā.",
+   "en": "This project has nothing to do with me, I won't join.",
+   "register": "neutral",
+   "feeling": "detached, clear",
+   "why": "You use this to draw a boundary between your responsibilities and someone else's task. It sounds firm but not aggressive.",
+   "tip": "Add 大概 before 跟我无关 if you want to soften the boundary."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a restaurant · talking to a friend",
+   "zh": "你想吃什么？我无所谓。",
+   "pinyin": "nǐ xiǎng chī shénme? wǒ wúsuǒwèi.",
+   "en": "What do you want to eat? I don't mind.",
+   "register": "casual",
+   "feeling": "easygoing, relaxed",
+   "why": "You say this when you have no strong preference and want the other person to choose. It is extremely common in daily social plans.",
+   "tip": "Said with a flat tone it can sound annoyed; add 都可以 to sound warmer."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a shop · talking to the cashier",
+   "zh": "这个东西有没有无理由退货的服务？",
+   "pinyin": "zhège dōngxi yǒu méiyǒu wúlǐyóu tuìhuò de fúwù?",
+   "en": "Does this item come with a no-reason return policy?",
+   "register": "polite",
+   "feeling": "practical, careful",
+   "why": "You ask this before buying something to make sure you can return it if you change your mind. 无理由 is a standard retail phrase in China.",
+   "tip": "Shorten it to 可以无理由退吗? for a faster, more natural question."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · talking to your team lead",
+   "zh": "无论遇到什么困难，我们都要按时完成这个任务。",
+   "pinyin": "wúlùn yùdào shénme kùnnán, wǒmen dōu yào ànshí wánchéng zhège rènwù.",
+   "en": "No matter what difficulties we run into, we must finish this task on time.",
+   "register": "formal",
+   "feeling": "firm, determined",
+   "why": "You say this to set a clear, non-negotiable standard for your team. 无论 makes the statement sound more decisive than a casual 不管.",
+   "tip": "This is appropriate for work; don't use 无论 with close friends, 不管 sounds more relaxed."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With a friend · comforting them after a small setback",
+   "zh": "失败了也没关系，失败是成功之母嘛。",
+   "pinyin": "shībài le yě méiguānxi, shībài shì chénggōng zhī mǔ ma.",
+   "en": "It's okay to have failed; failure is the mother of success, after all.",
+   "register": "casual",
+   "feeling": "gentle, reassuring",
+   "why": "You use this common saying to cheer up a friend who feels down. It softens the blow by framing failure as a normal, useful step.",
+   "tip": "Add a small laugh after 嘛 to make it feel less preachy."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a meeting · responding to a client",
+   "zh": "我们可以无条件支持你们的合理需求。",
+   "pinyin": "wǒmen kěyǐ wútiáojiàn zhīchí nǐmen de hélǐ xūqiú.",
+   "en": "We can provide unconditional support for your reasonable requests.",
+   "register": "polite",
+   "feeling": "reassuring, professional",
+   "why": "You say this to a client to build trust. 无条件 signals you are flexible and will not nickel-and-dime them on basic needs.",
+   "tip": "Pair this with a smile; otherwise it can sound too formal and distant."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At home · talking to your family",
+   "zh": "无论你想去哪里旅行，我都陪你去。",
+   "pinyin": "wúlùn nǐ xiǎng qù nǎlǐ lǚxíng, wǒ dōu péi nǐ qù.",
+   "en": "No matter where you want to travel, I will go with you.",
+   "register": "casual",
+   "feeling": "warm, devoted",
+   "why": "You say this to a family member you care about to show you will always be there for them. It sounds sincere rather than stiff.",
+   "tip": "Add 都可以 to the end if you want to sound more casual."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At work · WeChat message to your colleague",
+   "zh": "这个方案对我来说无所谓，你觉得好就行。",
+   "pinyin": "zhège fāng'àn duì wǒ láishuō wúsuǒwèi, nǐ juéde hǎo jiù xíng.",
+   "en": "I don't really mind this plan; as long as you think it's good, it's fine.",
+   "register": "neutral",
+   "feeling": "easygoing, trusting",
+   "why": "You send this to a colleague to say you defer to their judgment. It avoids unnecessary debate and sounds collaborative.",
+   "tip": "If you actually do care, don't use 无所谓; it will make people think you are checked out."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "On the phone · talking to a customer service agent",
+   "zh": "我买这个产品的时候，你们说过有无条件售后的。",
+   "pinyin": "wǒ mǎi zhège chǎnpǐn de shíhòu, nǐmen shuō guò yǒu wútiáojiàn shòuhòu de.",
+   "en": "When I bought this product, you said it came with unconditional after-sales service.",
+   "register": "polite",
+   "feeling": "firm, slightly insistent",
+   "why": "You use this to remind the service agent of their original promise when you are having a problem. It is a gentle but clear way to push for a solution.",
+   "tip": "Slow down on 无条件 to emphasize you remember their guarantee."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are hanging out with a friend on a rainy weekend, with nothing to do. Tell them you feel really bored.",
+   "answer": "今天下雨没事做，好无聊啊。",
+   "accept": [
+    "周末没什么事，真的好无聊。",
+    "下雨出不去，太无聊了。"
+   ],
+   "explain": "无聊 is the natural casual word for feeling bored with nothing to do, perfect for chatting with a friend."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "A friend asks where you want to go for dinner. You have no preference and want them to choose.",
+   "answer": "我无所谓，你选地方就好。",
+   "accept": [
+    "我随便，无所谓的。",
+    "我无所谓，你决定就行。"
+   ],
+   "explain": "无所谓 is the standard way to say you don't mind in everyday social plans."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your boss asks if you can join a new project that is not part of your job. Politely say this project is unrelated to you and you cannot join.",
+   "answer": "不好意思，这个项目跟我无关，我手上还有别的工作要做。",
+   "accept": [
+    "抱歉，这个项目跟我无关，我暂时没法参加。",
+    "不好意思，这跟我无关，我手头的事还没做完。"
+   ],
+   "explain": "Using 跟我无关 draws a clear, polite boundary without sounding rude to your boss."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are talking to your team, and want to say no matter what problems we meet, we will finish the work on time. Use 无论.",
+   "answer": "无论遇到什么问题，我们都要按时完成工作。",
+   "accept": [
+    "无论有什么困难，我们都得按时把事做完。",
+    "无论出什么问题，我们都要按时完成任务。"
+   ],
+   "explain": "无论 is the formal, decisive way to set a firm team standard in a work setting."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "朋友问你：「周末我们去吃火锅还是吃日料？」 你完全没有偏好，让他随便选就好。",
+   "answer": "我无所谓，你想吃什么就去吃什么。",
+   "accept": [
+    "我都无所谓，你决定就好。",
+    "我无所谓，你选哪个都行。"
+   ],
+   "explain": "用 无所谓 回答朋友的选择问题，是最自然的表示自己没有偏好的方式。"
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你给客服打电话，提醒对方你买产品时他们承诺过无条件售后，现在产品出了问题需要解决。",
+   "answer": "我买这个产品的时候，你们说过有无条件售后的，现在出了问题麻烦帮我处理一下。",
+   "accept": [
+    "当时你们说过这个产品有 unconditional 售后，现在坏了请帮我解决。",
+    "你们之前承诺过无条件售后，现在产品出问题了，麻烦帮忙看看。"
+   ],
+   "explain": "用 无条件售后 提醒对方之前的承诺，是礼貌但坚定地推动解决问题的方式。"
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

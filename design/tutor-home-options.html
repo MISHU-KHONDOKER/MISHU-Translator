@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tutor Home Designs</title>
+<style>
+:root{--ink:#2b2115;--ink2:#7a6a55;--gold:#c8962e;--gold2:#e3b341;--red:#b8322a;--blue:#2f6fd6}
+*{box-sizing:border-box;margin:0}
+body{background:#1c2128;color:#f0f3f6;font-family:-apple-system,"SF Pro Text","PingFang SC","Segoe UI",sans-serif;padding:22px 12px;display:flex;flex-direction:column;align-items:center;gap:14px}
+h1{font-size:20px;font-weight:600}
+.sub{color:#8b96a3;font-size:14px;text-align:center;max-width:980px;line-height:1.5}
+.row{display:flex;gap:22px;flex-wrap:wrap;justify-content:center}
+.label{font-size:14px;font-weight:600;text-align:center;margin-top:10px}
+.label small{display:block;color:#8b96a3;font-weight:400;font-size:12px;margin-top:3px;max-width:300px;line-height:1.45;margin-inline:auto}
+.phone{width:310px;height:670px;border-radius:42px;background:#000;padding:9px;box-shadow:0 30px 60px rgba(0,0,0,.5),inset 0 0 0 2px #333}
+.screen{position:relative;width:100%;height:100%;border-radius:34px;overflow:hidden;display:flex;flex-direction:column;color:var(--ink);
+ background:radial-gradient(90% 50% at 50% 30%,#fffaf0 0%,transparent 70%),linear-gradient(165deg,#f8f2e7 0%,#f0e5d1 55%,#e6d5b9 100%)}
+.status{height:40px;flex:none;display:flex;justify-content:space-between;align-items:flex-end;padding:0 24px 2px;font-size:12px;font-weight:600;position:relative;z-index:3;color:#fff;background:linear-gradient(#3a2a18aa,#3a2a1800)}
+.deco{position:absolute;pointer-events:none;z-index:0}
+.z{position:relative;z-index:2}
+.home{width:30px;height:30px;border-radius:50%;background:#ffffffb8;border:1px solid #e0cfae;display:grid;place-items:center;color:var(--ink);flex:none}
+.home svg{width:16px;height:16px}
+.gear{width:30px;height:30px;border-radius:50%;background:#ffffffb8;border:1px solid #e0cfae;display:grid;place-items:center;font-size:15px}
+.bar{display:flex;align-items:center;justify-content:space-between;padding:6px 14px}
+.av{background:url(../public/tutor-face.jpg) center 20%/cover;border-radius:50%}
+.card{background:#fffdf8e8;border:1px solid #eadcc2;border-radius:20px;box-shadow:0 6px 18px #6b4f2a17}
+.pill{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:600;padding:5px 10px;border-radius:99px;background:#ffffffc0;border:1px solid #e3d3b5}
+
+/* ---------- 0 current (dark) ---------- */
+.s0{background:#0d1117;color:#f0f3f6}
+.s0 .status{background:none}
+.s0 .in{padding:8px 14px;display:flex;flex-direction:column;gap:9px;align-items:stretch}
+.s0 .face{width:76px;height:76px;margin:0 auto;box-shadow:0 0 0 2px #e3b34155}
+.s0 .g{text-align:center;font-size:13px;font-weight:600}
+.s0 .gs{text-align:center;font-size:10px;color:#8b96a3;margin-top:-6px}
+.s0 .c{background:#161b22;border-radius:12px;padding:9px 11px;font-size:11px}
+.s0 .c .b{height:4px;background:#1f2630;border-radius:2px;margin-top:6px}
+.s0 .nx{background:#2f81f7;border-radius:12px;padding:10px;text-align:center;font-size:10px}
+.s0 .nx b{display:block;font-size:20px}
+.s0 .sec{background:#161b22;border-radius:12px;padding:10px;text-align:center;font-size:11px;color:#8b96a3}
+.s0 .st3{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.s0 .st3 div{background:#161b22;border-radius:10px;padding:7px;text-align:center;font-size:9px;color:#8b96a3}
+.s0 .st3 b{display:block;font-size:15px;color:#f0f3f6}
+
+/* ---------- 1 warm dashboard ---------- */
+.s1 .hello{display:flex;align-items:center;gap:12px;padding:4px 16px 0}
+.s1 .hello .av{width:58px;height:58px;flex:none;box-shadow:0 0 0 3px #fffaf0,0 0 0 5px var(--gold2)}
+.speech{position:relative;background:#fff;border-radius:16px 16px 16px 4px;padding:8px 11px;font-size:12px;line-height:1.4;box-shadow:0 4px 12px #6b4f2a1a}
+.speech b{color:var(--red)}
+.s1 .goal{margin:12px 14px 0;padding:12px 14px;display:flex;align-items:center;gap:14px}
+.ringwrap{position:relative;width:74px;height:74px;flex:none}
+.ringwrap svg{width:100%;height:100%;transform:rotate(-90deg)}
+.ringwrap b{position:absolute;inset:0;display:grid;place-items:center;font-size:17px}
+.ringwrap b small{display:block;font-size:9px;color:var(--ink2);font-weight:500;text-align:center;margin-top:-14px}
+.s1 .goal h4{font-size:14px}
+.s1 .goal p{font-size:11px;color:var(--ink2);margin-top:3px;line-height:1.4}
+.chips{display:flex;gap:6px;margin-top:7px;flex-wrap:wrap}
+.chip{font-size:10px;padding:3px 8px;border-radius:99px;background:#f5ebd8;color:#7a5a20;font-weight:600}
+.s1 .next{margin:12px 14px 0;padding:12px;border-radius:22px;display:flex;align-items:center;gap:12px;color:#fff;background:linear-gradient(135deg,#c53a2f,#8f241c);box-shadow:0 10px 24px #8f241c55}
+.tile{width:64px;height:64px;border-radius:16px;background:#fff6e8;color:var(--red);display:grid;place-items:center;font-size:36px;font-weight:600;flex:none;box-shadow:inset 0 0 0 2px #f0c9a0;font-family:"STKaiti","KaiTi","PingFang SC",serif}
+.s1 .next small{font-size:10px;opacity:.85;letter-spacing:.06em}
+.s1 .next b{display:block;font-size:17px;margin-top:2px}
+.s1 .next span{font-size:11px;opacity:.9}
+.s1 .next i{margin-left:auto;font-style:normal;width:34px;height:34px;border-radius:50%;background:#ffffff2a;display:grid;place-items:center;font-size:18px}
+.s1 .grid{margin:12px 14px 0;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.s1 .grid div{padding:10px 6px;text-align:center;font-size:11px;font-weight:600}
+.s1 .grid em{display:block;font-style:normal;font-size:22px;margin-bottom:3px}
+.s1 .grid small{display:block;font-size:9px;color:var(--ink2);font-weight:500;margin-top:2px}
+.badge{display:inline-block;background:var(--red);color:#fff;border-radius:99px;font-size:9px;padding:1px 6px;margin-left:2px}
+
+/* ---------- 2 journey path ---------- */
+.s2 .head{display:flex;align-items:center;gap:8px;padding:6px 14px}
+.s2 .head .t{flex:1}
+.s2 .head b{font-size:15px;display:block}
+.s2 .head small{font-size:11px;color:var(--ink2)}
+.s2 .stats{display:flex;gap:6px;padding:2px 14px 6px}
+.s2 .path{position:relative;flex:1;margin:0 10px}
+.node{position:absolute;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;font-size:24px;font-weight:600;font-family:"STKaiti","KaiTi","PingFang SC",serif;transform:translate(-50%,-50%)}
+.node.done{background:#fff6e8;color:#2e7d32;box-shadow:0 0 0 3px #7fbf7f,0 6px 14px #6b4f2a22}
+.node.done::after{content:"✓";position:absolute;right:-4px;top:-4px;width:18px;height:18px;border-radius:50%;background:#2ea043;color:#fff;font-size:11px;display:grid;place-items:center;font-family:sans-serif}
+.node.now{width:78px;height:78px;background:linear-gradient(135deg,#c53a2f,#8f241c);color:#fff6e8;font-size:34px;box-shadow:0 0 0 5px #fffaf0,0 0 0 8px var(--gold2),0 12px 26px #8f241c55;animation:bob 2.4s ease-in-out infinite}
+@keyframes bob{50%{transform:translate(-50%,-56%)}}
+.node.lock{background:#efe3cc;color:#b3a283;box-shadow:inset 0 0 0 2px #dcc9a6}
+.node.chest{background:#f3d27a;box-shadow:0 0 0 3px #fff,0 6px 14px #c8962e66;font-size:22px}
+.tag{position:absolute;transform:translate(-50%,0);font-size:10px;font-weight:700;background:#2b2115;color:#fff;padding:3px 8px;border-radius:99px;white-space:nowrap}
+.s2 .mini{position:absolute;width:34px;height:34px;box-shadow:0 0 0 2px #fff,0 4px 10px #0003}
+.s2 .foot{margin:0 14px 18px;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.s2 .foot div{padding:10px;text-align:center;font-size:12px;font-weight:600}
+.s2 .foot small{display:block;font-size:10px;color:var(--ink2);font-weight:500}
+
+/* ---------- 3 plum garden ---------- */
+.s3 .head{display:flex;align-items:center;gap:8px;padding:6px 14px}
+.s3 .head .t{flex:1;text-align:center;font-size:12px;color:var(--ink2);font-weight:600;letter-spacing:.05em}
+.s3 .tree{position:relative;height:262px;margin-top:2px}
+.s3 .tree svg{position:absolute;inset:0;width:100%;height:100%}
+.s3 .count{position:absolute;left:16px;top:6px}
+.s3 .count b{font-size:34px;color:var(--red);font-weight:800;line-height:1}
+.s3 .count small{display:block;font-size:11px;color:var(--ink2);margin-top:2px;max-width:110px;line-height:1.3}
+.s3 .tree .av{position:absolute;right:18px;bottom:6px;width:52px;height:52px;box-shadow:0 0 0 3px #fffaf0,0 0 0 5px var(--gold2)}
+.s3 .say{position:absolute;right:76px;bottom:20px;background:#fff;border-radius:14px 14px 4px 14px;padding:6px 10px;font-size:11px;box-shadow:0 4px 12px #6b4f2a1a;max-width:150px;line-height:1.35}
+.s3 .lvl{margin:8px 14px 0;padding:10px 12px}
+.s3 .lvl .top{display:flex;justify-content:space-between;font-size:12px;font-weight:600}
+.s3 .lvl .top span{color:var(--ink2);font-weight:500}
+.s3 .lvl .b{height:8px;border-radius:4px;background:#efe3cc;margin-top:7px;overflow:hidden}
+.s3 .lvl .b i{display:block;height:100%;width:23%;background:linear-gradient(90deg,#e0705c,#c53a2f);border-radius:4px}
+.s3 .go{margin:10px 14px 0;padding:14px;border-radius:20px;color:#fff;text-align:center;background:linear-gradient(135deg,#c53a2f,#8f241c);box-shadow:0 10px 24px #8f241c55}
+.s3 .go small{display:block;font-size:10px;opacity:.85;letter-spacing:.06em}
+.s3 .go b{font-size:20px}
+.s3 .go b em{font-style:normal;font-family:"STKaiti","KaiTi","PingFang SC",serif;font-size:26px;margin-right:6px}
+.s3 .row3{margin:8px 14px 0;display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.s3 .row3 div{padding:9px 4px;text-align:center;font-size:11px;font-weight:600}
+.s3 .row3 em{display:block;font-style:normal;font-size:18px}
+
+.week{margin:10px 14px 0;padding:10px 12px}
+.week .t{display:flex;justify-content:space-between;font-size:12px;font-weight:600}
+.week .t span{color:var(--ink2);font-weight:500}
+.days{display:flex;justify-content:space-between;margin-top:8px}
+.days div{display:flex;flex-direction:column;align-items:center;gap:3px;font-size:9px;color:var(--ink2)}
+.days i{font-style:normal;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-size:13px;background:#efe3cc;color:#b3a283}
+.days i.ok{background:linear-gradient(135deg,#f0a43a,#e0705c);color:#fff}
+.days i.today{background:#fff;box-shadow:0 0 0 2px #e0705c;color:#c53a2f;font-weight:700}
+.note{max-width:980px;font-size:14px;color:#c9d1d9;line-height:1.6;background:#161b22;border:1px solid #30363d;border-radius:14px;padding:12px 18px}
+.note li{margin-left:18px}
+</style></head><body>
+<h1>Tutor home: more attractive designs</h1>
+<p class="sub">#0 is today's Tutor home. #1–#3 use the warm paper and plum blossom like the start screen and translator, and each adds something to make learning feel rewarding.</p>
+
+<svg width="0" height="0" style="position:absolute"><defs>
+<symbol id="home" viewBox="0 0 24 24"><path d="M4 11.5 12 5l8 6.5M6.5 10v9h4.5v-5h2v5h4.5v-9" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+<symbol id="plum" viewBox="0 0 190 170"><g fill="none" stroke="#8a7458" stroke-linecap="round"><path d="M190 18 C150 30 120 52 96 86 C80 108 62 122 30 134" stroke-width="5"/><path d="M128 48 C120 30 122 16 132 4" stroke-width="3"/><path d="M96 86 C104 106 102 126 92 146" stroke-width="3"/></g><g fill="#e0705c"><circle cx="132" cy="10" r="7"/><circle cx="124" cy="36" r="8"/><circle cx="160" cy="26" r="7"/><circle cx="104" cy="76" r="8"/><circle cx="98" cy="118" r="7"/><circle cx="36" cy="128" r="6"/></g></symbol>
+</defs></svg>
+
+<div class="row">
+ <!-- 0 current -->
+ <div><div class="phone"><div class="screen s0">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="in">
+   <div class="av face"></div>
+   <div class="g">下午好！Let's learn something useful.</div><div class="gs">HSK 4 · 8 new words a day</div>
+   <div class="c">Today's new words <b style="float:right">3 / 8</b><div class="b"></div></div>
+   <div class="nx">Next word<b>而 ér</b></div>
+   <div class="sec">Review quiz · 4 words due</div>
+   <div class="st3"><div><b>3</b>day streak</div><div><b>12</b>words started</div><div><b>2</b>mastered</div></div>
+   <div class="sec">📖 Story time</div><div class="sec">📚 Vocabulary</div>
+  </div>
+ </div></div><div class="label">0 · Current<small>Today's Tutor home, for comparison.</small></div></div>
+
+ <!-- 1 warm dashboard -->
+ <div><div class="phone"><div class="screen s1">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <svg class="deco" style="right:-30px;top:30px;width:120px;height:105px;opacity:.55"><use href="#plum"/></svg>
+  <div class="bar z"><span class="home"><svg><use href="#home"/></svg></span><span class="pill">🔥 3 days · HSK 4</span><span class="gear">⚙︎</span></div>
+  <div class="hello z"><div class="av"></div><div class="speech">下午好！Ready for <b>而</b>? Only <b>5 words</b> left for today 💪</div></div>
+  <div class="card goal z">
+   <div class="ringwrap"><svg viewBox="0 0 74 74"><circle cx="37" cy="37" r="31" fill="none" stroke="#efe3cc" stroke-width="8"/><circle cx="37" cy="37" r="31" fill="none" stroke="url(#gr)" stroke-width="8" stroke-linecap="round" stroke-dasharray="194.8" stroke-dashoffset="121.7"/><defs><linearGradient id="gr"><stop offset="0" stop-color="#e3b341"/><stop offset="1" stop-color="#e0705c"/></linearGradient></defs></svg><b>3/8<small>today</small></b></div>
+   <div><h4>Today's goal</h4><p>12 sentences spoken · 5 quiz answers</p><div class="chips"><span class="chip">HSK 4</span><span class="chip">⭐ 2 mastered</span></div></div>
+  </div>
+  <div class="next z"><div class="tile">而</div><div><small>NEXT WORD</small><b>ér · and, but</b><span>10 sentences · 2 speaking tasks</span></div><i>›</i></div>
+  <div class="grid z">
+   <div class="card"><em>🧠</em>Review<span class="badge">4</span><small>quiz due</small></div>
+   <div class="card"><em>📖</em>Story<small>level 2</small></div>
+   <div class="card"><em>📚</em>Words<small>12 started</small></div>
+  </div>
+  <div class="card week z"><div class="t">This week <span>3-day streak 🔥</span></div><div class="days">
+   <div><i>·</i>Mon</div><div><i class="ok">🔥</i>Tue</div><div><i class="ok">🔥</i>Wed</div><div><i class="today">3/8</i>Thu</div><div><i>·</i>Fri</div><div><i>·</i>Sat</div><div><i>·</i>Sun</div></div></div>
+ </div></div><div class="label">1 · Warm dashboard<small>Your avatar greets you in a speech bubble, a ring fills up with today's goal, the next word is a big red card, and Review / Story / Words are neat tiles.</small></div></div>
+
+ <!-- 2 journey path -->
+ <div><div class="phone"><div class="screen s2">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="head z"><span class="home"><svg><use href="#home"/></svg></span><div class="t"><b>HSK 4 · Chapter 3</b><small>Word 23 of 40</small></div><span class="gear">⚙︎</span></div>
+  <div class="stats z"><span class="pill">🔥 3</span><span class="pill">🎯 3/8 today</span><span class="pill">⭐ 2</span></div>
+  <div class="path z">
+   <svg style="position:absolute;inset:0;width:100%;height:100%" viewBox="0 0 290 400" preserveAspectRatio="none"><path d="M70 380 C150 360 220 330 210 290 C200 250 80 240 80 190 C80 140 210 140 210 95 C210 55 130 40 100 15" fill="none" stroke="#d9c7a8" stroke-width="6" stroke-dasharray="2 12" stroke-linecap="round"/></svg>
+   <svg class="deco" style="right:-20px;top:150px;width:110px;height:95px;opacity:.5"><use href="#plum"/></svg>
+   <div class="node done" style="left:24%;top:94%">之</div>
+   <div class="node done" style="left:72%;top:73%">以</div>
+   <div class="node now" style="left:28%;top:48%">而</div>
+   <span class="tag" style="left:28%;top:58%">START ▶</span>
+   <div class="node lock" style="left:72%;top:24%">于</div>
+   <div class="node chest" style="left:34%;top:4%">🎁</div>
+   <div class="av mini" style="left:46%;top:38%"></div>
+  </div>
+  <div class="foot z"><div class="card">🧠 Review<small>4 due</small></div><div class="card">📖 Story<small>chapter 3</small></div></div>
+ </div></div><div class="label">2 · Journey path<small>Your words as a winding path: green ✓ for learned, the next word big and bouncing, locked words ahead and a 🎁 chapter reward (a story) at the end. Your avatar walks with you.</small></div></div>
+
+ <!-- 3 plum garden -->
+ <div><div class="phone"><div class="screen s3">
+  <div class="status"><span>9:41</span><span>●●● 100%</span></div>
+  <div class="head z"><span class="home"><svg><use href="#home"/></svg></span><span class="t">MY PLUM GARDEN</span><span class="gear">⚙︎</span></div>
+  <div class="tree z">
+   <svg viewBox="0 0 290 262">
+    <path d="M150 262 C150 220 140 200 150 170 C160 140 150 110 170 80" fill="none" stroke="#5a4a36" stroke-width="9" stroke-linecap="round"/>
+    <path d="M150 190 C120 175 95 160 70 130" fill="none" stroke="#5a4a36" stroke-width="5" stroke-linecap="round"/>
+    <path d="M155 150 C185 135 215 125 245 95" fill="none" stroke="#5a4a36" stroke-width="5" stroke-linecap="round"/>
+    <path d="M168 95 C150 75 140 55 145 30" fill="none" stroke="#5a4a36" stroke-width="4" stroke-linecap="round"/>
+    <path d="M100 160 C95 140 100 120 112 105" fill="none" stroke="#5a4a36" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#d9573f"><circle cx="70" cy="130" r="9"/><circle cx="90" cy="148" r="8"/><circle cx="112" cy="105" r="9"/><circle cx="245" cy="95" r="9"/><circle cx="215" cy="122" r="8"/><circle cx="145" cy="30" r="9"/><circle cx="170" cy="80" r="8"/><circle cx="150" cy="58" r="7"/><circle cx="190" cy="134" r="7"/><circle cx="125" cy="172" r="7"/><circle cx="228" cy="108" r="6"/><circle cx="82" cy="138" r="6"/></g>
+    <g fill="#f6c1b4"><circle cx="160" cy="44" r="6"/><circle cx="200" cy="116" r="6"/><circle cx="104" cy="120" r="5"/></g>
+    <g fill="none" stroke="#c9b591" stroke-width="2" stroke-dasharray="3 4"><circle cx="255" cy="70" r="8"/><circle cx="60" cy="108" r="8"/><circle cx="132" cy="14" r="8"/><circle cx="180" cy="62" r="7"/></g>
+    <g fill="#f3d27a"><circle cx="70" cy="130" r="2.5"/><circle cx="112" cy="105" r="2.5"/><circle cx="245" cy="95" r="2.5"/><circle cx="145" cy="30" r="2.5"/></g>
+   </svg>
+   <div class="count"><b>12</b><small>blossoms · one for every word you learned</small></div>
+   <div class="say">Your tree grows with every word 🌸</div>
+   <div class="av"></div>
+  </div>
+  <div class="card lvl z"><div class="top">HSK 4 progress <span>12 / 52 words in chapter</span></div><div class="b"><i></i></div></div>
+  <div class="go z"><small>NEXT WORD · 3 / 8 TODAY</small><b><em>而</em>ér</b></div>
+  <div class="row3 z"><div class="card"><em>🧠</em>Review 4</div><div class="card"><em>📖</em>Story</div><div class="card"><em>🔥</em>3 days</div></div>
+ </div></div><div class="label">3 · Plum garden<small>A plum tree that blossoms as you learn: every new word adds a flower, empty dashed circles show what is still to come. Very motivating to "fill the tree".</small></div></div>
+</div>
+<div class="note"><ul>
+<li>All numbers are examples; in the app they come from your real progress (streak, today's goal, reviews due, words learned).</li>
+<li>Parts can be mixed, for example the plum garden of #3 at the top with the goal ring and tiles of #1 below.</li>
+</ul></div>
+</body></html>

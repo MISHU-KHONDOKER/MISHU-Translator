@@ -1,0 +1,200 @@
+{
+ "word": "时",
+ "pinyin": "shí",
+ "meaning": "time; when (moment of action)",
+ "pos": "noun, used in time clauses",
+ "core": "时 marks the moment another action happens — it is not a standalone preposition for 'when'. Learners often overuse it alone, while natives pair it with location words like 的时候 or 前/后 to make clear time clauses.",
+ "collocations": [
+  {
+   "zh": "小时",
+   "pinyin": "xiǎoshí",
+   "en": "hour"
+  },
+  {
+   "zh": "时间",
+   "pinyin": "shíjiān",
+   "en": "time"
+  },
+  {
+   "zh": "有时候",
+   "pinyin": "yǒu shíhou",
+   "en": "sometimes"
+  },
+  {
+   "zh": "当时",
+   "pinyin": "dāngshí",
+   "en": "at that time"
+  },
+  {
+   "zh": "同时",
+   "pinyin": "tóngshí",
+   "en": "at the same time"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At home · to your roommate",
+   "zh": "我早上没时间吃早饭。",
+   "pinyin": "wǒ zǎoshang méi shíjiān chī zǎofàn.",
+   "en": "I don't have time for breakfast in the morning.",
+   "register": "casual",
+   "feeling": "matter-of-fact",
+   "why": "A flatmate explains their morning routine; 没时间 is the natural spoken way to say 'too busy' without sounding formal.",
+   "tip": "Do not say '我没有时间' here — it sounds stiff in daily chat."
+  },
+  {
+   "situation": "In a taxi · to the driver",
+   "zh": "请问，到火车站要多长时间？",
+   "pinyin": "qǐngwèn, dào huǒchē zhàn yào duō cháng shíjiān?",
+   "en": "Excuse me, how long does it take to get to the train station?",
+   "register": "polite",
+   "feeling": "polite, cautious",
+   "why": "A passenger checks travel time before a trip; 多长时间 is the fixed phrase for asking duration.",
+   "tip": "Use 请问 at the start to sound natural and respectful."
+  },
+  {
+   "situation": "With a close friend · chatting",
+   "zh": "我有时候周末在家做饭。",
+   "pinyin": "wǒ yǒu shíhou zhōumò zài jiā zuò fàn.",
+   "en": "Sometimes I cook at home on weekends.",
+   "register": "casual",
+   "feeling": "relaxed",
+   "why": "A friend shares a casual habit; 有时候 means 'occasionally', not 'all the time'.",
+   "tip": "The second 时 in 有时候 is usually spoken as neutral tone shíhou."
+  },
+  {
+   "situation": "At work · to a new colleague",
+   "zh": "来公司时，记得带身份证。",
+   "pinyin": "lái gōngsī shí, jìde dài shēnfènzhèng.",
+   "en": "When you come to the office, remember to bring your ID card.",
+   "register": "neutral",
+   "feeling": "helpful, reminder",
+   "why": "A colleague gives practical advice for a first day; 来...时 is a compact time clause common in work messages.",
+   "tip": "In writing you can also say 来公司的时候; both are natural."
+  },
+  {
+   "situation": "At a restaurant · to the waiter",
+   "zh": "上菜时，请先告诉我们。",
+   "pinyin": "shàngcài shí, qǐng xiān gàosu wǒmen.",
+   "en": "When the dishes are served, please let us know first.",
+   "register": "polite",
+   "feeling": "polite, considerate",
+   "why": "A customer asks the waiter to announce food arrival; this is a soft, polite request, not a complaint.",
+   "tip": "Add 请 to keep the request polite rather than demanding."
+  },
+  {
+   "situation": "On WeChat · to your boss",
+   "zh": "开会时，我不能看手机。",
+   "pinyin": "kāihuì shí, wǒ bù néng kàn shǒujī.",
+   "en": "During meetings, I can't look at my phone.",
+   "register": "neutral",
+   "feeling": "explaining, honest",
+   "why": "An employee explains why they replied late; 开会时 frames the situation without making excuses.",
+   "tip": "This sounds professional; avoid saying 我没看手机 as a blunt denial."
+  },
+  {
+   "situation": "At home · to your child",
+   "zh": "你小的时候，我们常去公园。",
+   "pinyin": "nǐ xiǎo de shíhou, wǒmen cháng qù gōngyuán.",
+   "en": "When you were little, we often went to the park.",
+   "register": "casual",
+   "feeling": "warm, nostalgic",
+   "why": "A parent recalls the past; 的时候 is the spoken way to mark 'when' for a past period.",
+   "tip": "The full 的时候 sounds warmer than the short 时 in family talk."
+  },
+  {
+   "situation": "In a meeting · presenting to clients",
+   "zh": "同时，我们也在看新的市场。",
+   "pinyin": "tóngshí, wǒmen yě zài kàn xīn de shìchǎng.",
+   "en": "At the same time, we are also looking at new markets.",
+   "register": "formal",
+   "feeling": "professional, composed",
+   "why": "A manager links two ongoing actions in a formal update; 同时 is the standard transition word.",
+   "tip": "In casual speech, say 还有 or 也; 同时 is more for presentations."
+  },
+  {
+   "situation": "With a friend · sharing a memory",
+   "zh": "当时我真的不知道怎么办。",
+   "pinyin": "dāngshí wǒ zhēnde bù zhīdào zěnme bàn.",
+   "en": "At that moment, I really didn't know what to do.",
+   "register": "casual",
+   "feeling": "emotional, recalling",
+   "why": "A friend describes a past moment of panic; 当时 refers back to a specific time already mentioned.",
+   "tip": "Do not use 当时 for future plans — it always looks backward."
+  },
+  {
+   "situation": "At a job interview · to the interviewer",
+   "zh": "在国外工作时，我学会了独立。",
+   "pinyin": "zài guówài gōngzuò shí, wǒ xuéhuì le dúlì.",
+   "en": "While working abroad, I learned to be independent.",
+   "register": "formal",
+   "feeling": "confident, reflective",
+   "why": "A candidate links an experience to a personal quality; 在...时 frames the time period clearly for a professional answer.",
+   "tip": "This pattern sounds polished; add 在 before the place to sound more complete."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are talking to a friend. Tell them that sometimes you drink coffee in the morning.",
+   "answer": "我有时候早上喝咖啡。",
+   "accept": [
+    "有时候我早上会喝咖啡。",
+    "我早上有时候喝咖啡。"
+   ],
+   "explain": "有时候 is the natural spoken phrase for 'sometimes' in daily chat."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are in a taxi. Ask the driver how long it takes to get to the airport.",
+   "answer": "请问，到机场要多长时间？",
+   "accept": [
+    "到机场需要多长时间？",
+    "请问去机场要多长时间？"
+   ],
+   "explain": "多长时间 is the standard way to ask duration in Mandarin."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You message your boss to explain why you didn't reply during a meeting. Use a polite, honest tone.",
+   "answer": "开会时我不能看手机，所以没及时回您。",
+   "accept": [
+    "开会时我没看手机，刚刚才看到消息。",
+    "开会时不方便看手机，现在回复您。"
+   ],
+   "explain": "开会时 frames the reason politely without sounding like an excuse."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are at a restaurant and want to politely ask the waiter to tell you when the food arrives. Make it soft, not demanding.",
+   "answer": "上菜时麻烦先告诉我们一下。",
+   "accept": [
+    "上菜时请先和我们说一声。",
+    "菜好了的时候麻烦通知我们一下。"
+   ],
+   "explain": "Adding 麻烦 makes the request polite rather than commanding."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你周末一般做什么？",
+   "answer": "我有时候在家看书，有时候和朋友出去吃饭。",
+   "accept": [
+    "周末我常在家休息，有时候也去爬山。",
+    "一般我会运动，有时候在家做饭。"
+   ],
+   "explain": "有时候 naturally describes occasional habits in answer to a routine question."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你还记得刚来中国的时候吗？那时候感觉怎么样？",
+   "answer": "当时我中文不太好，买东西的时候有点紧张。",
+   "accept": [
+    "当时我谁都不认识，感觉很孤单。",
+    "当时我很兴奋，也有一点害怕。"
+   ],
+   "explain": "当时 refers back to that past moment and sounds natural in a nostalgic conversation."
+  }
+ ],
+ "level": 3,
+ "v": 1
+}

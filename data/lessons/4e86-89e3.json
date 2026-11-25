@@ -1,0 +1,210 @@
+{
+ "word": "了解",
+ "pinyin": "liǎo jiě",
+ "meaning": "to understand; to get to know",
+ "pos": "verb",
+ "core": "了解 describes gaining practical, real-world knowledge of a person, situation, or fact. Learners often overuse it to mean deep emotional understanding, which is better expressed by 明白 or 理解 instead.",
+ "collocations": [
+  {
+   "zh": "了解情况",
+   "pinyin": "liǎo jiě qíng kuàng",
+   "en": "to understand the situation"
+  },
+  {
+   "zh": "了解一下",
+   "pinyin": "liǎo jiě yī xià",
+   "en": "to find out a little about"
+  },
+  {
+   "zh": "深入了解",
+   "pinyin": "shēn rù liǎo jiě",
+   "en": "to understand in depth"
+  },
+  {
+   "zh": "互相了解",
+   "pinyin": "hù xiāng liǎo jiě",
+   "en": "to get to know each other"
+  },
+  {
+   "zh": "据我了解",
+   "pinyin": "jù wǒ liǎo jiě",
+   "en": "as far as I know"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At work · to your colleague",
+   "zh": "我先去了解一下情况，再给你回消息。",
+   "pinyin": "wǒ xiān qù liǎo jiě yī xià qíng kuàng , zài gěi nǐ huí xiāo xi。",
+   "en": "I'll go find out the details first, then message you back.",
+   "register": "casual",
+   "feeling": "responsible",
+   "why": "A colleague says this to signal they will gather necessary information before responding, avoiding making assumptions.",
+   "tip": "Use 了解一下 when you only need a quick, light check, not a full deep investigation."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "Shopping · to a shop assistant",
+   "zh": "我想了解一下这款笔记本的价格。",
+   "pinyin": "wǒ xiǎng liǎo jiě yī xià zhè kuǎn bǐ jì běn de jià gé。",
+   "en": "I'd like to find out the price of this laptop.",
+   "register": "neutral",
+   "feeling": "polite, curious",
+   "why": "A customer uses this to politely ask for product information without committing to buying immediately.",
+   "tip": "This is a standard polite way to ask for product details in stores, much more natural than directly asking 'how much' right away."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · to your boss",
+   "zh": "王总，我已经了解了这个项目的要求。",
+   "pinyin": "wáng zǒng , wǒ yǐ jīng liǎo jiě le zhè ge xiàng mù de yāo qiú。",
+   "en": "Mr. Wang, I have already understood the requirements of this project.",
+   "register": "polite",
+   "feeling": "confident, respectful",
+   "why": "An employee reports to their manager that they have grasped the task requirements, showing they are ready to start work.",
+   "tip": "Add 了 after 了解 to show you have completed the action of understanding."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At home · talking to your parent",
+   "zh": "你多了解了解我，就知道我不吃辣。",
+   "pinyin": "nǐ duō liǎo jiě liǎo jiě wǒ , jiù zhī dào wǒ bù chī là。",
+   "en": "If you got to know me better, you would know I don't eat spicy food.",
+   "register": "casual",
+   "feeling": "playful, slightly teasing",
+   "why": "A young person says this to their family member, gently pointing out that the other person does not know their preferences well.",
+   "tip": "Repeating 了解了解 makes the tone softer and more casual, perfect for talking to close people."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · talking to a client",
+   "zh": "我们会进一步了解贵公司的需求，做好方案。",
+   "pinyin": "wǒ men huì jìn yī bù liǎo jiě guì gōng sī de xū qiú , zuò hǎo fāng àn。",
+   "en": "We will further understand your company's needs and prepare a good proposal.",
+   "register": "formal",
+   "feeling": "professional, sincere",
+   "why": "A service provider says this to a client to show they will invest time in learning the client's specific needs, building trust.",
+   "tip": "贵 is a formal polite word for 'your', used only when addressing external partners or customers."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "With a close friend · chatting",
+   "zh": "我们认识时间不长，还需要多互相了解。",
+   "pinyin": "wǒ men rèn shí shí jiān bù cháng , hái xū yào duō hù xiāng liǎo jiě。",
+   "en": "We haven't known each other long, we still need to get to know each other better.",
+   "register": "casual",
+   "feeling": "gentle, honest",
+   "why": "Someone says this to a new friend or romantic interest, setting a gentle pace for the relationship without being cold.",
+   "tip": "This phrase is commonly used in early dating or new friendships to signal you want to take time to build trust."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a job interview · answering the interviewer",
+   "zh": "来面试前，我已经提前了解了贵公司的业务。",
+   "pinyin": "lái miàn shì qián , wǒ yǐ jīng tí qián liǎo jiě le guì gōng sī de yè wù。",
+   "en": "Before coming to the interview, I already learned about your company's business in advance.",
+   "register": "formal",
+   "feeling": "prepared, earnest",
+   "why": "A job candidate uses this to show they did their homework and are genuinely interested in the company, not just applying randomly.",
+   "tip": "Saying this in an interview makes you look much more serious and well-prepared."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Family · comforting your child",
+   "zh": "我最了解你了，你这次已经很努力了。",
+   "pinyin": "wǒ zuì liǎo jiě nǐ le , nǐ zhè cì yǐ jīng hěn nǔ lì le。",
+   "en": "I know you better than anyone, you already tried your hardest this time.",
+   "register": "casual",
+   "feeling": "warm, comforting",
+   "why": "A parent says this to their child after a setback, using deep familiarity to offer comfort and validation.",
+   "tip": "Adding 最 before 了解 emphasizes deep, long-standing familiarity, perfect for close family moments."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "WeChat message · replying to your colleague",
+   "zh": "行，这个事我大概了解了，你先按之前说的做就行。",
+   "pinyin": "xíng , zhè ge shì wǒ dà gài liǎo jiě le , nǐ xiān àn zhī qián shuō de zuò jiù xíng。",
+   "en": "Alright, I roughly understand this matter, you can just do it the way we talked about before.",
+   "register": "neutral",
+   "feeling": "relaxed, efficient",
+   "why": "A team lead sends this quick message to confirm they have enough information, giving the colleague clear go-ahead without extra meetings.",
+   "tip": "大概了解 means you have a general grasp, not every tiny detail, which is very common in fast work chats."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "Formal meeting · giving a work report",
+   "zh": "据我了解，这个项目下个月就能正式启动了。",
+   "pinyin": "jù wǒ liǎo jiě , zhè ge xiàng mù xià ge yuè jiù néng zhèng shì qǐ dòng le。",
+   "en": "As far as I know, this project can officially start next month.",
+   "register": "formal",
+   "feeling": "cautious, professional",
+   "why": "A staff member shares information in a meeting, using 据我了解 to signal this is based on their current knowledge, not an official final announcement.",
+   "tip": "Using 据我了解 makes your statement sound more careful and professional, avoiding sounding overly certain of unconfirmed news."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are talking to a shop assistant, and you want to politely ask to learn about the features of a new phone.",
+   "answer": "我想了解一下这款新手机的功能。",
+   "accept": [
+    "你能给我介绍一下这款新手机吗？",
+    "我想了解一下这款手机的情况。"
+   ],
+   "explain": "Using 了解一下 is the standard polite way to ask for product information in a store."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are replying to your colleague who asked about a client issue, tell them you will go find out the details and get back to them later.",
+   "answer": "我先去了解一下情况，稍后给你回消息。",
+   "accept": [
+    "我先了解下情况，之后再告诉你。",
+    "我去了解下这个事，马上回你。"
+   ],
+   "explain": "了解一下情况 is the natural phrase for gathering work information before responding."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are in a job interview, tell the interviewer that you already learned about their company's products and culture before coming.",
+   "answer": "来面试之前，我已经了解了贵公司的产品和文化。",
+   "accept": [
+    "我提前了解了贵公司的业务和文化。",
+    "面试前我就了解了你们公司的相关情况。"
+   ],
+   "explain": "Stating you researched the company with 了解 shows you are a prepared, serious candidate."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are talking to your close friend, gently saying you two have not known each other very long and need to get to know each other more.",
+   "answer": "我们认识没多久，还需要多互相了解。",
+   "accept": [
+    "我们还不太熟，得多互相了解一下。",
+    "我们认识时间不长，还需要多了解了解。"
+   ],
+   "explain": "互相了解 is the natural phrase for describing building mutual familiarity in a new relationship."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "同事问你：「这个项目的预算定下来了吗？」你只知道大概的情况，还没有拿到最终数字，你会怎么回答？",
+   "answer": "我大概了解了一下，预算应该差不多定了，等我确认完再告诉你。",
+   "accept": [
+    "据我了解预算基本定了，具体数字我再核实下告诉你。",
+    "我大概了解情况了，预算下周就能最终确定。"
+   ],
+   "explain": "Using 大概了解 or 据我了解 shows you have partial information, not final confirmed facts, which is honest and professional."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你妈妈抱怨你总是不记得她不吃甜的东西，你想温柔地回应说你当然最了解她的喜好了，你会怎么说？",
+   "answer": "我最了解你了，你不吃甜的，我都记着的。",
+   "accept": [
+    "我还不了解你嘛，你不爱吃甜的，我记得牢牢的。",
+    "我当然了解你了，你不吃甜的，我怎么会忘。"
+   ],
+   "explain": "Saying 我最了解你了 in a warm tone shows deep familiarity and care, perfect for comforting a family member."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

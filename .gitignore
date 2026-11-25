@@ -1,0 +1,15 @@
+# secrets / machine-specific
+node_modules/
+.env
+certs/
+logs/
+
+# personal data (per-user progress, costs, photos)
+data/users/
+data/usage/
+data/avatars/
+data/stories/
+mishu-avatar/
+
+# private project diary (server IP, account notes)
+BUILD_LOG.md

@@ -1,0 +1,196 @@
+{
+ "word": "的",
+ "pinyin": "de",
+ "meaning": "possessive particle, links a noun to its modifier",
+ "pos": "structural particle",
+ "core": "的 marks that what comes before belongs to or describes what comes after. Learners often forget it or put it in the wrong place — in spoken Mandarin it is nearly always needed between a person and their thing.",
+ "collocations": [
+  {
+   "zh": "我的",
+   "pinyin": "wǒ de",
+   "en": "mine / my"
+  },
+  {
+   "zh": "你的",
+   "pinyin": "nǐ de",
+   "en": "yours / your"
+  },
+  {
+   "zh": "他的",
+   "pinyin": "tā de",
+   "en": "his / his one"
+  },
+  {
+   "zh": "红色的",
+   "pinyin": "hóngsè de",
+   "en": "the red one"
+  },
+  {
+   "zh": "中国人的",
+   "pinyin": "Zhōngguó rén de",
+   "en": "Chinese people's"
+  }
+ ],
+ "sentences": [
+  {
+   "situation": "At a café · to a friend",
+   "zh": "这杯咖啡是我的。",
+   "pinyin": "zhè bēi kāfēi shì wǒ de",
+   "en": "This cup of coffee is mine.",
+   "register": "casual",
+   "feeling": "casual, clarifying",
+   "why": "You point to your cup among several on the table and tell your friend whose it is. 的 here turns 我 into 'mine'.",
+   "tip": "Stress 我 de lightly. Do not say 我咖啡 — that sounds like a product called 'me-coffee'."
+  },
+  {
+   "situation": "Shop · to the shop assistant",
+   "zh": "有没有便宜一点的？",
+   "pinyin": "yǒu méiyǒu piányi yìdiǎn de",
+   "en": "Do you have any cheaper ones?",
+   "register": "neutral",
+   "feeling": "polite, shopping",
+   "why": "You are looking at prices and ask the assistant for items in a lower range. 的 after an adjective means 'the ones that are cheap'.",
+   "tip": "Very common shopping phrase. Dropping 的 sounds abrupt and unnatural."
+  },
+  {
+   "situation": "At home · to your roommate",
+   "zh": "你的手机在桌子上。",
+   "pinyin": "nǐ de shǒujī zài zhuōzi shàng",
+   "en": "Your phone is on the table.",
+   "register": "casual",
+   "feeling": "helpful, matter-of-fact",
+   "why": "You noticed your roommate left their phone behind and tell them where it is. 的 links 你 to 手机.",
+   "tip": "In quick speech 你的 often softens to nǐ de; never drop the 的 here."
+  },
+  {
+   "situation": "WeChat message · to a colleague",
+   "zh": "明天的会几点开始？",
+   "pinyin": "míngtiān de huì jǐ diǎn kāishǐ",
+   "en": "What time does tomorrow's meeting start?",
+   "register": "neutral",
+   "feeling": "work, quick question",
+   "why": "You message a colleague to ask about the meeting scheduled for tomorrow. 的 links the time word 明天 to the noun 会.",
+   "tip": "Time words need 的 before a noun: 明天的会, not 明天会 (which means 'will meet')."
+  },
+  {
+   "situation": "Office · to your boss",
+   "zh": "这是我的想法。",
+   "pinyin": "zhè shì wǒ de xiǎngfǎ",
+   "en": "This is my idea.",
+   "register": "polite",
+   "feeling": "respectful, presenting",
+   "why": "You share your proposal with your boss and frame it as your own view. 的 marks that the idea belongs to you.",
+   "tip": "Slightly more deferential than 我觉得. Good for meetings."
+  },
+  {
+   "situation": "Restaurant · to the waiter",
+   "zh": "我要一个辣的。",
+   "pinyin": "wǒ yào yí gè là de",
+   "en": "I'll have a spicy one.",
+   "register": "casual",
+   "feeling": "ordering, direct",
+   "why": "At a noodle shop you order by taste instead of naming the dish. 的 turns the adjective 辣 into 'the spicy one'.",
+   "tip": "Very natural in small restaurants. 一个辣的 = a spicy dish."
+  },
+  {
+   "situation": "On the phone · to a client",
+   "zh": "这是王总的邮箱。",
+   "pinyin": "zhè shì Wáng zǒng de yóuxiāng",
+   "en": "This is Mr. Wang's email address.",
+   "register": "polite",
+   "feeling": "professional, helpful",
+   "why": "You give a client your manager's contact. 的 links 王总 to 邮箱 — without it you would be saying 'Mr. Wang is an email address'.",
+   "tip": "Always use 的 between a person and their thing, even with names."
+  },
+  {
+   "situation": "Friend's home · admiring their things",
+   "zh": "你的房间真好看！",
+   "pinyin": "nǐ de fángjiān zhēn hǎokàn",
+   "en": "Your room looks really nice!",
+   "register": "casual",
+   "feeling": "warm, praising",
+   "why": "You walk into a friend's newly decorated room and compliment them. 的 links 你 to 房间.",
+   "tip": "Stress 真 to sound sincere, not flat."
+  },
+  {
+   "situation": "Taxi · to the driver",
+   "zh": "师傅，这是我的地址。",
+   "pinyin": "shīfu, zhè shì wǒ de dìzhǐ",
+   "en": "Driver, this is my address.",
+   "register": "polite",
+   "feeling": "clear, practical",
+   "why": "You hand the driver your phone showing the destination. 的 links 我 to 地址.",
+   "tip": "Calling a taxi driver 师傅 is standard and friendly in mainland China."
+  },
+  {
+   "situation": "Formal email · to a partner company",
+   "zh": "我们的产品价格很有优势。",
+   "pinyin": "wǒmen de chǎnpǐn jiàgé hěn yǒu yōushì",
+   "en": "Our product's price is very competitive.",
+   "register": "formal",
+   "feeling": "professional, confident",
+   "why": "In a business email you describe your company's pricing strength. 的 links 我们 to 产品.",
+   "tip": "In writing, keep 的; in very casual speech you may say 我们产品 without it."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are at a café and point to your cup. Tell your friend: 'This coffee is mine.'",
+   "answer": "这杯咖啡是我的。",
+   "accept": [
+    "这是我的咖啡。",
+    "咖啡是我的。"
+   ],
+   "explain": "的 after 我 means 'mine' and is the natural way to claim ownership."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are shopping and ask the assistant: 'Do you have any cheaper ones?'",
+   "answer": "有没有便宜一点的？",
+   "accept": [
+    "有便宜一点的吗？"
+   ],
+   "explain": "的 after an adjective means 'the ones that are cheap' — a standard shopping phrase."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Message your colleague: 'What time does tomorrow's meeting start?' Be natural and neutral.",
+   "answer": "明天的会几点开始？",
+   "accept": [
+    "明天的会议几点？"
+   ],
+   "explain": "Time words like 明天 need 的 before a noun; without it 明天会 means 'will meet'."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are at a noodle shop. Tell the waiter you want a spicy one. Sound direct and casual.",
+   "answer": "我要一个辣的。",
+   "accept": [
+    "来一个辣的。",
+    "我要辣的。"
+   ],
+   "explain": "的 turns the adjective 辣 into 'the spicy one', the usual way to order by taste."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "朋友问：这是谁的手机？你回答：你的手机在桌子上。",
+   "answer": "你的手机在桌子上。",
+   "accept": [
+    "手机在桌子上，是你的。"
+   ],
+   "explain": "的 links 你 to 手机; dropping it would change the meaning."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "客户问：这是王总的邮箱吗？你回答：对，这是王总的邮箱。",
+   "answer": "对，这是王总的邮箱。",
+   "accept": [
+    "是的，这是王总的邮箱。"
+   ],
+   "explain": "A person's name always needs 的 before their thing, even in formal speech."
+  }
+ ],
+ "level": 1,
+ "v": 1
+}

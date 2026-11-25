@@ -1,0 +1,210 @@
+{
+ "word": "选择",
+ "pinyin": "xuǎn zé",
+ "meaning": "to choose; a choice between options",
+ "pos": "verb or noun",
+ "core": "选择 is the common, neutral term for making a choice, used both as an action and as a noun for the available options themselves. Learners often overuse it in very casual contexts where 选 alone sounds more natural, or forget it works as a noun meaning the range of options a shop or service offers.",
+ "collocations": [
+  {
+   "zh": "自由选择",
+   "pinyin": "zì yóu xuǎn zé",
+   "en": "to choose freely"
+  },
+  {
+   "zh": "选择困难",
+   "pinyin": "xuǎn zé kùn nán",
+   "en": "decision paralysis"
+  },
+  {
+   "zh": "没有选择",
+   "pinyin": "méi yǒu xuǎn zé",
+   "en": "to have no other option"
+  },
+  {
+   "zh": "最佳选择",
+   "pinyin": "zuì jiā xuǎn zé",
+   "en": "the best choice"
+  },
+  {
+   "zh": "选择工作",
+   "pinyin": "xuǎn zé gōng zuò",
+   "en": "to choose a job/career"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At a restaurant · to your dining companion",
+   "zh": "菜单给你，你先选择想吃的菜。",
+   "pinyin": "cài dān gěi nǐ, nǐ xiān xuǎn zé xiǎng chī de cài.",
+   "en": "Here's the menu, you pick what you want to eat first.",
+   "register": "casual",
+   "feeling": "easygoing",
+   "why": "Said to a friend or family member while dining out, it politely lets the other person take the lead ordering, no pressure to pick fancy dishes.",
+   "tip": "Saying 选 instead of 选择 sounds even more casual between close friends."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a clothing store · to the shop assistant",
+   "zh": "你们店还有其他颜色可以选择吗？",
+   "pinyin": "nǐ men diàn hái yǒu qí tā yán sè kě yǐ xuǎn zé ma?",
+   "en": "Do you have other colors I can choose from in this shop?",
+   "register": "neutral",
+   "feeling": "curious, polite",
+   "why": "Said to a retail clerk when browsing clothes or home goods, it asks about the available range of options without sounding pushy.",
+   "tip": "This is a standard polite shopping line; you can swap 颜色 for 尺码, 款式 to ask about size or style options."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At a job interview · to the hiring manager",
+   "zh": "我选择这份工作，是因为我很喜欢这个行业。",
+   "pinyin": "wǒ xuǎn zé zhè fèn gōng zuò, shì yīn wèi wǒ hěn xǐ huān zhè ge háng yè.",
+   "en": "I chose this job because I really love this industry.",
+   "register": "formal",
+   "feeling": "sincere, earnest",
+   "why": "A candidate explaining their motivation for applying, this frames their choice as deliberate and aligned with their career interests, impressing interviewers.",
+   "tip": "Avoid sounding too casual here; 选择 comes across more thoughtful than the shorter 选 in an interview context."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "On a long road trip · to your family member in the car",
+   "zh": "中午吃饭，你想选择哪一家餐厅？",
+   "pinyin": "zhōng wǔ chī fàn, nǐ xiǎng xuǎn zé nǎ yì jiā cān tīng?",
+   "en": "Which restaurant do you want to pick for lunch?",
+   "register": "casual",
+   "feeling": "warm, considerate",
+   "why": "Said to family members during travel, it invites input on meal plans to make sure everyone feels heard.",
+   "tip": "Drop 选择 and just say 选 which restaurant for a more relaxed, natural vibe with people you know well."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Talking to a close friend about their career plans",
+   "zh": "你已经拿到两个offer了，为什么还要选择继续读书？",
+   "pinyin": "nǐ yǐ jīng ná dào liǎng gè offer le, wèi shén me hái yào xuǎn zé jì xù dú shū?",
+   "en": "You already got two job offers, why are you still choosing to keep studying instead?",
+   "register": "casual",
+   "feeling": "genuinely confused, concerned",
+   "why": "A close friend asking about a seemingly unexpected life choice, it shows they care about your decision and are curious about your reasoning, not judging you.",
+   "tip": "Raise your tone on 为什么 to signal gentle curiosity rather than harsh criticism."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "WeChat message to your teammate before a project meeting",
+   "zh": "这次活动我们有两个方案可以选择，你更倾向哪一个？",
+   "pinyin": "zhè cì huó dòng wǒ men yǒu liǎng gè fāng àn kě yǐ xuǎn zé, nǐ gèng qīng xiàng nǎ yí gè?",
+   "en": "We have two possible plans to choose from for this event, which one do you lean toward?",
+   "register": "neutral",
+   "feeling": "collaborative, open",
+   "why": "A teammate messaging ahead of a meeting to align on options, it invites input before the discussion to save meeting time.",
+   "tip": "This is a standard workplace written line; you can shorten 可以选择 to 可选 in quick internal chat messages."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Talking to your younger cousin who is stressing over exam choices",
+   "zh": "别太焦虑，高考只是人生的选择之一，不是唯一的路。",
+   "pinyin": "bié tài jiāo lǜ, gāo kǎo zhǐ shì rén shēng de xuǎn zé zhī yī, bú shì wéi yī de lù.",
+   "en": "Don't be too anxious, the college entrance exam is just one of life's choices, not the only path.",
+   "register": "casual",
+   "feeling": "comforting, reassuring",
+   "why": "An older relative comforting a stressed teen, it frames high-stakes exams as one option among many to reduce pressure, a very common sentiment in Chinese family conversations.",
+   "tip": "Say 之一 slowly and gently to sound more comforting; rushing the line will sound dismissive."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "Talking to your friend after they made a regrettable impulsive purchase",
+   "zh": "既然已经买了，就不要再后悔自己的选择了。",
+   "pinyin": "jì rán yǐ jīng mǎi le, jiù bú yào zài hòu huǐ zì jǐ de xuǎn zé le.",
+   "en": "Since you already bought it, don't keep regretting your choice.",
+   "register": "casual",
+   "feeling": "gentle, pragmatic",
+   "why": "A friend helping another move past buyer's remorse, it encourages acceptance of a past decision instead of ruminating on what could have been.",
+   "tip": "Use 既然 here to signal 'since it's already done' — this softens the advice so it doesn't sound preachy."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "On a work trip · talking to your colleague over coffee",
+   "zh": "其实我也没得选，当时公司就给我这一个选择，我只能过来。",
+   "pinyin": "qí shí wǒ yě méi dé xuǎn, dāng shí gōng sī jiù gěi wǒ zhè yí gè xuǎn zé, wǒ zhǐ néng guò lái.",
+   "en": "Honestly I had no choice, the company only gave me this one option back then, so I just had to come here.",
+   "register": "casual",
+   "feeling": "resigned, slightly grumbly",
+   "why": "A colleague venting about being assigned to an unwanted work location, using 没得选 to explain they had no real agency, which builds rapport with peers who share similar frustrations.",
+   "tip": "The colloquial 没得选 is far more natural here than the formal 没有选择 when chatting with peers; don't use this line to your boss."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "WeChat reply to your friend who is overthinking takeout options",
+   "zh": "你别纠结了，要不就选上次那家吧，选择太多反而更难决定。",
+   "pinyin": "nǐ bié jiū jié le, yào bù jiù xuǎn shàng cì nà jiā ba, xuǎn zé tài duō fǎn ér gèng nán jué dìng.",
+   "en": "Stop overthinking, how about we just pick that place we got last time? Too many options actually make it harder to decide.",
+   "register": "casual",
+   "feeling": "teasing, playful, practical",
+   "why": "A friend teasing someone with well-known decision paralysis, it references the common experience of choice overload to push for a quick, low-fuss decision.",
+   "tip": "Drop the tone on 吧 to sound friendly and not bossy; this is a super common line in Chinese friend chat about food plans."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are at a restaurant with a friend. Hand them the menu and tell them they can pick what they want to eat first.",
+   "answer": "菜单给你，你先选择想吃的菜。",
+   "accept": [
+    "你先选想吃的菜吧，菜单给你。",
+    "菜单给你，你先选想吃什么。"
+   ],
+   "explain": "This is the natural casual line to cede ordering control to a dining companion, using 选择 to frame the action of picking dishes."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are in a clothing store, politely ask the shop assistant if there are other colors you can choose from.",
+   "answer": "你们店还有其他颜色可以选择吗？",
+   "accept": [
+    "请问还有别的颜色可以选择吗？",
+    "这款还有其他颜色可以选吗？"
+   ],
+   "explain": "This is the standard polite shopping line to ask about available product options, using 选择 to refer to selectable variants."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are in a job interview, sincerely explain to the hiring manager that you chose this job because you love this industry.",
+   "answer": "我选择这份工作，是因为我很喜欢这个行业。",
+   "accept": [
+    "我之所以选择这份工作，是因为我非常喜欢这个行业。",
+    "我选择这份工作，主要是因为我热爱这个行业。"
+   ],
+   "explain": "This formal, earnest line frames your career choice as deliberate and aligned with your interests, which is expected in interview settings."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "Your younger cousin is panicking about taking the college entrance exam. Comfort them by saying the exam is just one of life's choices, not the only path.",
+   "answer": "别太焦虑，高考只是人生的选择之一，不是唯一的路。",
+   "accept": [
+    "别太担心，高考只是人生的选择之一，不是唯一的出路。",
+    "你别焦虑，高考只是人生众多选择里的一个，不是唯一的路。"
+   ],
+   "explain": "This comforting line reframes high-stakes exams as one option among many, a very common reassuring phrase for stressed students in Chinese families."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友已经拿到两个工作offer，却还是选择继续读书。你很好奇他为什么这么选，用中文问他。",
+   "answer": "你都拿到两个offer了，为什么还要选择继续读书呀？",
+   "accept": [
+    "你已经有两个offer了，为什么还选择继续读书呢？",
+    "你都拿到两个工作offer了，怎么还选择继续读书啊？"
+   ],
+   "explain": "This natural curious question uses 选择 to reference the person's unexpected life decision, matching the gentle, concerned tone of a close friend asking about their plans."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友一直在纠结点哪家外卖，选择太多拿不定主意。你劝他别纠结，就选上次那家，说选择太多反而更难决定。",
+   "answer": "你别纠结了，要不就选上次那家吧，选择太多反而更难决定。",
+   "accept": [
+    "你别纠结了，就选上次那家吧，选择太多反而更难选。",
+    "别纠结了，要不就点上次那家吧，选择太多反而更难决定。"
+   ],
+   "explain": "This playful, practical line references the common experience of choice overload, a very common casual phrase between friends deciding on takeout."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}

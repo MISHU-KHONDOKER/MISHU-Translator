@@ -1,0 +1,210 @@
+{
+ "word": "却",
+ "pinyin": "què",
+ "meaning": "but, contrary to expectation",
+ "pos": "adverb",
+ "core": "却 marks a contrast between what was expected and what actually happened. It is softer and more nuanced than 但是, often implying surprise, disappointment, or irony about the gap between expectation and reality.",
+ "collocations": [
+  {
+   "zh": "却很",
+   "pinyin": "què hěn",
+   "en": "but actually very"
+  },
+  {
+   "zh": "却不",
+   "pinyin": "què bù",
+   "en": "but did not"
+  },
+  {
+   "zh": "却没有",
+   "pinyin": "què méiyǒu",
+   "en": "but did not have"
+  },
+  {
+   "zh": "却还是",
+   "pinyin": "què hái shì",
+   "en": "but still"
+  },
+  {
+   "zh": "却一直",
+   "pinyin": "què yī zhí",
+   "en": "but all along"
+  }
+ ],
+ "sentences": [
+  {
+   "difficulty": "medium",
+   "situation": "At a café · with a close friend",
+   "zh": "这家店不贵，咖啡却很好喝。",
+   "pinyin": "zhè jiā diàn bù guì, kā fēi què hěn hǎo hē.",
+   "en": "This shop is not expensive, but the coffee is surprisingly good.",
+   "register": "casual",
+   "feeling": "pleasantly surprised",
+   "why": "You are telling your friend about a nice discovery. 却 shows that the good coffee was unexpected given the low prices.",
+   "tip": "Stress 却 slightly to emphasize the unexpected contrast."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At home · talking to your younger sibling",
+   "zh": "他每天都运动，却还是感冒了。",
+   "pinyin": "tā měi tiān dōu yùn dòng, què hái shì gǎn mào le.",
+   "en": "He exercises every day, but he still caught a cold.",
+   "register": "casual",
+   "feeling": "mild surprise",
+   "why": "You are commenting on someone who stays healthy by exercising, yet got sick anyway. 却 highlights the contradiction.",
+   "tip": "Do not say 但是 here; 却 sounds more natural for this kind of mild surprise."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "At work · chatting with a colleague",
+   "zh": "这个工作不难，却很费时间。",
+   "pinyin": "zhè ge gōng zuò bù nán, què hěn fèi shí jiān.",
+   "en": "This task is not hard, but it takes a lot of time.",
+   "register": "neutral",
+   "feeling": "matter-of-fact",
+   "why": "You are explaining to a coworker why the job feels slow. 却 points out the hidden difficulty that is not obvious at first.",
+   "tip": "Use 很费时间 instead of saying 很慢 for a more native tone."
+  },
+  {
+   "difficulty": "medium",
+   "situation": "In a taxi · talking to the driver",
+   "zh": "我今天起得很早，却还是迟到了。",
+   "pinyin": "wǒ jīn tiān qǐ de hěn zǎo, què hái shì chí dào le.",
+   "en": "I got up very early today, but I was still late.",
+   "register": "casual",
+   "feeling": "slightly frustrated",
+   "why": "You are explaining to the driver why you are in a hurry. 却 shows your effort did not pay off as expected.",
+   "tip": "Add 还是 after 却 to emphasize that the result was unavoidable."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a restaurant · complaining to a friend",
+   "zh": "这家餐厅很有名，菜却不好吃。",
+   "pinyin": "zhè jiā cān tīng hěn yǒu míng, cài què bù hǎo chī.",
+   "en": "This restaurant is very famous, but the food does not taste good.",
+   "register": "casual",
+   "feeling": "disappointed",
+   "why": "You are sharing a disappointing experience. 却 contrasts the restaurant's reputation with the actual quality of the food.",
+   "tip": "Use 有名 instead of 贵 here; the contrast is between fame and quality."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At work · talking to your manager",
+   "zh": "我想早点回家，却还有很多事要做。",
+   "pinyin": "wǒ xiǎng zǎo diǎn huí jiā, què hái yǒu hěn duō shì yào zuò.",
+   "en": "I want to go home early, but I still have a lot of work to do.",
+   "register": "neutral",
+   "feeling": "resigned",
+   "why": "You are politely letting your boss know you cannot leave on time. 却 softens the complaint and shows you understand the situation.",
+   "tip": "This is a polite way to express frustration without sounding negative."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "On the phone · talking to your mother",
+   "zh": "他嘴上说没关系，心里却很难过。",
+   "pinyin": "tā zuǐ shàng shuō méi guān xi, xīn lǐ què hěn nán guò.",
+   "en": "He says it is fine, but deep down he is very sad.",
+   "register": "casual",
+   "feeling": "sympathetic",
+   "why": "You are describing someone who hides their true feelings. 却 contrasts their words with their inner emotions.",
+   "tip": "嘴上...心里却... is a very common pattern for describing hidden feelings."
+  },
+  {
+   "difficulty": "hard",
+   "situation": "At a shop · talking to the salesperson",
+   "zh": "这件衣服很好看，却不太适合我。",
+   "pinyin": "zhè jiàn yī fú hěn hǎo kàn, què bù tài shì hé wǒ.",
+   "en": "This dress looks very nice, but it is not quite right for me.",
+   "register": "polite",
+   "feeling": "disappointed",
+   "why": "You are politely declining to buy something. 却 softens the refusal by acknowledging the item's good points first.",
+   "tip": "Add 太 before 适合 to make the refusal sound less harsh."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At work · WeChat message to a teammate",
+   "zh": "我明明已经发过邮件了，他却还是说没收到。",
+   "pinyin": "wǒ míng míng yǐ jīng fā guò yóu jiàn le, tā què hái shì shuō méi shōu dào.",
+   "en": "I clearly already sent the email, but he still says he did not receive it.",
+   "register": "neutral",
+   "feeling": "exasperated",
+   "why": "You are venting to a coworker about a frustrating situation. 明明...却... emphasizes that the situation is clearly unreasonable.",
+   "tip": "明明...却... is a powerful pattern for expressing frustration or disbelief."
+  },
+  {
+   "difficulty": "hardest",
+   "situation": "At a dinner · talking to your boss and colleagues",
+   "zh": "虽然他刚来公司不久，工作能力却比很多老员工都强。",
+   "pinyin": "suī rán tā gāi lái gōng sī bù jiǔ, gōng zuò néng lì què bǐ hěn duō lǎo yuán gōng dōu qiáng.",
+   "en": "Although he has just joined the company recently, his work ability is stronger than many long-time employees.",
+   "register": "formal",
+   "feeling": "respectful, admiring",
+   "why": "You are praising a new team member in front of your boss. 却 contrasts his short time at the company with his high skill level.",
+   "tip": "虽然...却... is a formal pattern used in speeches and written reports."
+  }
+ ],
+ "quiz": [
+  {
+   "difficulty": "medium",
+   "prompt": "You are telling your friend that the movie had a famous director, but the story was boring. Use 却.",
+   "answer": "这个电影导演很有名，故事却很无聊。",
+   "accept": [
+    "这部电影导演很有名，剧情却很无聊。",
+    "这个电影导演很有名，却不好看。"
+   ],
+   "explain": "却 contrasts the director's fame with the boring story, showing the contrast between expectation and reality."
+  },
+  {
+   "difficulty": "medium",
+   "prompt": "You are explaining to your classmate that you studied for the test, but you still got a bad grade. Use 却.",
+   "answer": "我复习了很久，却还是没考好。",
+   "accept": [
+    "我学习了很久，却还是没及格。",
+    "我准备了很久，却还是没考好。"
+   ],
+   "explain": "却 shows that your effort did not lead to the expected result, expressing mild frustration."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are politely telling your manager that you want to rest this weekend, but you still have to finish a report. Use 却.",
+   "answer": "我这周末想休息，却还得写报告。",
+   "accept": [
+    "我想周末休息，却还有报告要写。",
+    "我这周末想休息，却还要写报告。"
+   ],
+   "explain": "却 softens the complaint by contrasting your wish with your obligation, sounding polite and understanding."
+  },
+  {
+   "difficulty": "hard",
+   "prompt": "You are comforting your friend who says they are fine, but you know they are sad. Use 却.",
+   "answer": "你嘴上说没事，心里却很难过吧。",
+   "accept": [
+    "你嘴上说没关系，心里却不好受吧。",
+    "你说没事，心里却很难过吧。"
+   ],
+   "explain": "嘴上...却... contrasts their words with their true feelings, showing you care and understand them."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的朋友问你：「这家餐厅怎么样？」你回答说：「虽然人很多，但是味道很一般。」请用「却」改写这句话。",
+   "answer": "虽然人很多，味道却很一般。",
+   "accept": [
+    "人很多，味道却很一般。",
+    "虽然人很多，菜却不好吃。"
+   ],
+   "explain": "虽然...却... is a natural pattern for contrasting the restaurant's popularity with its average taste."
+  },
+  {
+   "difficulty": "hardest",
+   "prompt": "你的同事问你：「你今天怎么迟到了？」你回答说：「我明明起得很早，但是路上堵车了。」请用「却」改写这句话。",
+   "answer": "我明明起得很早，路上却堵车了。",
+   "accept": [
+    "我明明起得很早，却遇到堵车了。",
+    "我起得很早，却还是堵车了。"
+   ],
+   "explain": "明明...却... emphasizes that your early start did not help because of the unexpected traffic."
+  }
+ ],
+ "level": 4,
+ "v": 2
+}
