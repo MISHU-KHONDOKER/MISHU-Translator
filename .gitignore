@@ -1,15 +1,28 @@
-# secrets / machine-specific
-node_modules/
+# ---- secrets: never commit ----
 .env
+.env.*
+!.env.example
 certs/
-logs/
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.csr
+*.srl
+*.tar.gz
 
-# personal data (per-user progress, costs, photos)
+# ---- machine-specific ----
+node_modules/
+logs/
+*.log
+
+# ---- personal data (per-user progress, costs, photos) ----
 data/users/
 data/usage/
 data/avatars/
 data/stories/
 mishu-avatar/
 
-# private project diary (server IP, account notes)
+# ---- private project diary (server IP, account notes) ----
 BUILD_LOG.md
